@@ -24,15 +24,15 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 9. Infine un giorno che faceva molto caldo, Bagheera ebbe un'idea, nata da qualche cosa che aveva inteso. Forse gliel'aveva detta Ikki, il porcospino; sia come sia, quando furono nel profondo della giungla, disse a Mowgli, mentre il ragazzo giaceva con la testa appoggiata sulla bella pelliccia nera di Bagheera: «Fratellino, quante volte ti ho detto che Shere Khan è un nemico per te?». 
 
-10. «Tante volte quante sono le noci su quella palma», rispose Mowgli, che, naturalmente, non sapeva contare. «E con ciò? Ho sonno, Bagheera; e Shere Khan è tutta coda e schiamazzi come Mor, il pavone». 
+10. «*Tante volte quante sono le noci su quella palma*», rispose Mowgli, che, naturalmente, non sapeva contare. «E con ciò? Ho sonno, Bagheera; e *Shere Khan è tutta coda e schiamazzi come Mor, il pavone*». 
 
-11. «Ma non c'è più tempo per dormire, adesso Baloo lo sa; io lo so; il branco lo sa; [ed anche gli sciocchi, sciocchissimi daini lo sanno], Tabaqui te lo ha perfino detto». 
+11. «*Ma non c'è più tempo per dormire*, adesso Baloo lo sa; io lo so; il branco lo sa; [ed anche gli sciocchi, sciocchissimi daini lo sanno], Tabaqui te lo ha perfino detto». 
 
 12. «Oh! Oh!» fece Mowgli, «Tabaqui è venuto da me, non molto tempo fa, con un certo discorso sgarbato, per dirmi che ero un cucciolo d'uomo ignudo nemmeno capace di scavare radici; ma io presi Tabaqui per la coda [e lo sbattei due volte contro il tronco d'una palma), tanto per insegnargli le buone maniere». 
 
 13. «È stata una sciocchezza; perché sebbene Tabaqui non combini che guai, ti avrebbe raccontato qualche cosa che ti riguarda da vicino. Apri gli occhi, fratellino. Shere Khan non osa ucciderti nella giungla; ma, ricordati, Akela è molto vecchio e presto verrà il giorno nel quale non sarà più in grado d'uccidere la preda, e allora non sarà più il capo. Molti dei lupi che ti esaminarono quando tu fosti portato alla Rupe del Consiglio per la prima volta sono vecchi anch'essi, ed i giovani lupi chiedono, come Shere Khan ha insegnato loro, che un  cucciolo d'uomo non si trovi al posto suo nel branco. Tra poco tempo tu sarai un uomo». 
 
-14. «E che cosa è un uomo che non possa correre con i suoi fratellini?» disse Mowgli. «lo sono nato nella giungla. Ho sempre obbedito alla legge della giungla, e non c'è lupo dei nostri, al quale io non abbia tolto spine dalle zampe. Certo che sono miei fratelli». 
+14. «E che cosa è un uomo che non possa correre con i suoi fratellini?» disse Mowgli. «lo sono nato nella giungla. Ho sempre obbedito alla legge della giungla, e *non c'è lupo dei nostri, al quale io non abbia tolto spine dalle zampe*. Certo che sono miei fratelli». 
 
 15. Bagheera si stiracchiò per quanto era lungo e socchiuse gli occhi. «Fratellino», disse poi, «tocca qui, sotto la mia mascella». 
 
@@ -52,7 +52,7 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 23. «Non sapevo queste cose», disse Mowgli a denti stretti e aggrottò le folte sopracciglia nere. 
 
-24. «Che dice la legge della giungla? Prima agisci e dopo parla. Dalla tua stessa noncuranza hanno la conferma che tu sei un uomo. Ma stai attento. Qualche cosa nel cuore mi dice che quando Akela fallirà il colpo alla prossima preda - e ad ogni caccia gli costa di più d'inchiodare il daino - il branco si rivolterà contro di lui e contro di te. Terranno consiglio attorno alla Rupe, e allora... allora...» 
+24. «Che dice la legge della giungla? *Prima agisci e dopo parla.* Dalla tua stessa noncuranza hanno la conferma che tu sei un uomo. Ma stai attento. Qualche cosa nel cuore mi dice che quando Akela fallirà il colpo alla prossima preda - e ad ogni caccia gli costa di più d'inchiodare il daino - il branco si rivolterà contro di lui e contro di te. Terranno consiglio attorno alla Rupe, e allora... allora...» 
 
 25. «Ho trovato!» disse Bagheera, saltando su. «Va' giù presto alle capanne degli uomini nella valle, e prendi un po' di quel fiore rosso, ch'essi fanno crescere, di modo che, quando sarà il momento, tu possa avere un amico anche più forte di me, di Baloo, e di quelli del branco che ti vogliono bene. Procurati il fiore rosso». 
 
@@ -74,7 +74,7 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 34. «Che c'è, figlio?» domandò. 
 
-35. «Qualche chiacchiera di pipistrello sul conto di Shere Khan», egli rispose. «Vado a caccia nei campi arati, stanotte», e si slanciò giù tra i cespugli, verso il torrente in fondo alla valle. Là si trattenne, udendo il clamore del branco a caccia, ascoltò il bramito del sambhur inseguito, poi lo sbuffare del maschio che si disponeva a difesa. Allora ci furono perfidi, maligni ululati dei giovani lupi: «Akela! Akela! Che il lupo solitario mostri la sua forza. Largo al capo del branco! Salta, Akela, salta!». 
+35. «*Qualche chiacchiera di pipistrello* sul conto di Shere Khan», egli rispose. «Vado a caccia nei campi arati, stanotte», e si slanciò giù tra i cespugli, verso il torrente in fondo alla valle. Là si trattenne, udendo il clamore del branco a caccia, ascoltò il bramito del sambhur inseguito, poi lo sbuffare del maschio che si disponeva a difesa. Allora ci furono perfidi, maligni ululati dei giovani lupi: «Akela! Akela! Che il lupo solitario mostri la sua forza. Largo al capo del branco! *Salta, Akela, salta!*». 
 
 36. Il lupo solitario dovette saltare, ma anche fallire il colpo, perché Mowgli udì lo scatto dei denti a vuoto e subito dopo un gemito, mentre il sambhur lo respingeva, calciando con le zampe anteriori. 
 
@@ -84,7 +84,7 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 39. Poi premette il volto contro la finestra e stette a guardare il fuoco nel focolare. Vide la moglie dell'uomo alzarsi nel corso della notte ed alimentarlo con zolle nere; e quando  giunse il mattino e le nebbie erano tutte bianche e fredde, vide il figlio dell'uomo prendere un recipiente di vimini foderato all'interno di argilla, riempirlo di pezzi rosso-ardenti di carbone di legna, metterci sopra una coperta, ed uscir fuori per andare ad accudire le mucche nella stalla. 
 
-40. «È tutto qui?» si domandò Mowgli. «Se sa farlo un cucciolo, non c'è da aver paura»; girò a lunghi passi attorno all'angolo e si trovò faccia a faccia col ragazzo, al quale tolse di mano il recipiente, scomparendo poi subito nella nebbia, mentre il ragazzo gridava per la paura. 
+40. «È tutto qui?» si domandò Mowgli. «*Se sa farlo un cucciolo, non c'è da aver paura*»; girò a lunghi passi attorno all'angolo e si trovò faccia a faccia col ragazzo, al quale tolse di mano il recipiente, scomparendo poi subito nella nebbia, mentre il ragazzo gridava per la paura. 
 
 41. «Mi assomigliano molto», disse Mowgli, soffiando nel cesto, come aveva visto fare dalla donna. «Questa cosa morirà, se non le do nulla da mangiare»; e lasciò cadere stecchi e corteccia secca su quella roba rossa. A metà strada su per la collina, incontrò Bagheera, sulla cui pelliccia la rugiada mattutina splendeva come cristalli opalescenti. 
 
@@ -106,7 +106,7 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 50. «Visto che il comando ancora è vacante, ed essendo stato invitato a parlare...» Shere Khan incominciò. 
 
-51. «Da chi?, lo interruppe Mowgli. «Siamo noi, forse, tutti sciacalli per leccar le zampe a questo scannabestiame? Il comando del branco spetta al branco soltanto». 
+51. «Da chi?, lo interruppe Mowgli. «*Siamo noi, forse, tutti sciacalli per leccar le zampe a questo scannabestiame? Il comando del branco spetta al branco soltanto*». 
 
 52. Ci furono grida di «Zitto tu, cucciolo d'uomo». «Lasciatelo parlare. Ha rispettato la nostra legge»; e alla fine gli anziani del branco tuonarono: «Lasciate parlare il lupo morto». Quando il capo del branco ha mancato la sua preda, viene chiamato il lupo morto per tutto il tempo che gli rimane da vivere e che, di regola, non è lungo davvero. 
 
@@ -122,7 +122,7 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 58. «Già, perché mandi contro di noi tutta la gente dei villaggi» strepitò Shere Khan. «No. Datelo a me. È un uomo e nessuno di noi può guardarlo fisso negli occhi». 
 
-59. Akela alzò di nuovo la testa, e disse: «Ha mangiato il nostro cibo. Ha dormito al nostro fianco. Ha battuto per noi la selvaggina. Non ha mai infranto una sola legge della giungla». 
+59. Akela alzò di nuovo la testa, e disse: «*Ha mangiato il nostro cibo. Ha dormito al nostro fianco. Ha battuto per noi la selvaggina. Non ha mai infranto una sola legge della giungla*». 
 
 60. «Inoltre, io ho pagato per lui con un toro, quando fu accettato. Il valore di un toro è piccolo; ma l'onore di Bagheera è qualche cosa per il quale esso potrebbe anche combattere», disse Bagheera con la sua voce più dolce. 
 
@@ -160,7 +160,7 @@ I racconto del Fiore Rosso (il fuoco che tutti gli animali della giungla non osa
 
 77. «Che cos'è? Che cos'è» domandò. «Non voglio lasciare la giungla e non so che cosa mi stia succedendo. Sto per morire, Bagheera?». 
 
-78. «No, no, fratellino. Sono soltanto lacrime come quelle degli uomini» rispose Bagheera. «Ora so che sei proprio un uomo e non un cucciolo d'uomo. La giungla è davvero chiusa per te d'ora innanzi. Lasciale cadere, Mowgli, sono soltanto lacrime». Così Mowgli si sedette e pianse come se il cuore gli si dovesse spezzare; e non aveva mai pianto prima in vita sua. 
+78. «No, no, fratellino. Sono soltanto lacrime come quelle degli uomini» rispose Bagheera. «Ora so che sei proprio un uomo e non un cucciolo d'uomo. La giungla è davvero chiusa per te d'ora innanzi. *Lasciale cadere, Mowgli, sono soltanto lacrime*». Così Mowgli si sedette e pianse come se il cuore gli si dovesse spezzare; e non aveva mai pianto prima in vita sua. 
 
 79. «Ora», disse, «andrò dagli uomini. Ma prima debbo dire addio a mia madre»; e si recò alla caverna dove essa viveva con Babbo Lupo, e pianse, bagnandole il pelo di lacrime mentre i quattro fratelli di tana ululavano la loro profonda infelicità. 
 

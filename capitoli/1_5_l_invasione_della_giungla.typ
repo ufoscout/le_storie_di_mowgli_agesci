@@ -44,7 +44,7 @@ là dove la giungla l'ebbe sorpreso. \
 
 10. «La ragione c'è, rispose il lupo solitario: «Dopo che la pelle di quel ladrone giallo fu appesa alla rupe, io tornai indietro lungo la nostra traccia fino al villaggio, avendo cura di mettere i piedi nelle mie stesse orme, voltandomi da una parte, e sdraiandomi a terra, per rendere confusa la traccia nel caso che qualcuno avesse voluto seguirla Ma quando ebbi imbrogliata la traccia in tal modo che io stesso a stento riuscivo a riconoscerla, Mang, il pipistrello, venne planando tra gli alberi e si appese in alto sopra di me. Disse Mang: «Il villaggio del branco degli uomini che ha scacciato il cucciolo d'uomo, ronza come un nido di calabroni». 
 
-11. «È stata una pietra grossa quella che ho lanciato», ridacchiò Mowgli che spesso si era divertito a lanciare papaie mature dentro i nidi di calabroni, fuggendo poi di gran corsa a gettarsi nello stagno più vicino, prima che i calabroni lo raggiungessero.  
+11. «*È stata una pietra grossa quella che ho lanciato*», ridacchiò Mowgli che spesso si era divertito a lanciare papaie mature dentro i nidi di calabroni, fuggendo poi di gran corsa a gettarsi nello stagno più vicino, prima che i calabroni lo raggiungessero.  
 
 12. «Domandai a Mang che cosa avesse visto. Mi rispose che il fiore rosso era sbocciato alle porte del villaggio e che gli uomini vi sedevano attorno armati di fucili. Ora, io so bene, perché ne ho le mie vecchie cicatrici indurite sulle spalle e sulla schiena, che gli uomini non portano i fucili per divertimento. Tra non molto un uomo col suo fucile sarà sulla nostra traccia... se già non la sta seguendo». 
 
@@ -58,7 +58,7 @@ là dove la giungla l'ebbe sorpreso. \
 
 17. [«Phff! Quello è un dente aguzzo» disse Akela annusando il taglio che la lama aveva fatto per terra, «ma la vita tra gli uomini ti ha guastato l'occhio. Avrei avuto il tempo di ammazzare un daino mentre colpivi»]. 
 
-18. Bagheera balzò sulle zampe, lanciò in alto la testa più che poté, fiutò, irrigidita in tutto il suo corpo pur così sinuoso. Rapidamente Fratel Bigio seguì il suo esempio, tenendosi sulla sinistra per prendere il vento che soffiava da destra, mentre Akela balzò per cinquanta yarde controvento, e, a metà raccolto per il salto, s'irrigidì anch'esso. Mowgli guardava pieno di ammirazione. Sapeva riconoscere molte cose al fiuto come assai pochi uomini possono fare, ma non aveva mai potuto raggiungere la sensibilità sottilissima e prontissima di un naso della giungla; e i tre mesi passati nel villaggio fumoso lo avevano fatto regredire terribilmente. Tuttavia si umettò il dito, se lo strofinò sul naso, e si eresse in tutta la sua statura per afferrare l'effluvio più alto che, per quanto più debole, è certamente il più puro. 
+18. Bagheera balzò sulle zampe, lanciò in alto la testa più che poté, fiutò, irrigidita in tutto il suo corpo pur così sinuoso. Rapidamente Fratel Bigio seguì il suo esempio, tenendosi sulla sinistra per prendere il vento che soffiava da destra, mentre Akela balzò per cinquanta yarde controvento, e, a metà raccolto per il salto, s'irrigidì anch'esso. *Mowgli guardava pieno di ammirazione.* Sapeva riconoscere molte cose al fiuto come assai pochi uomini possono fare, ma non aveva mai potuto raggiungere la sensibilità sottilissima e prontissima di un naso della giungla; e i tre mesi passati nel villaggio fumoso lo avevano fatto regredire terribilmente. Tuttavia si umettò il dito, se lo strofinò sul naso, e si eresse in tutta la sua statura per afferrare l'effluvio più alto che, per quanto più debole, è certamente il più puro. 
 
 19. «Un uomo!» ringhiò Akela, accosciandosi sulle anche. 
 
@@ -74,7 +74,7 @@ là dove la giungla l'ebbe sorpreso. \
 
 25. «Sh! Rotoleremo il suo teschio qui davanti a te prima di mezzogiorno! rispose Fratel Bigio. 
 
-26. «Indietro! Tornate indietro e aspettate. L'uomo non mangia l'uomo!» Mowgli strillò. 
+26. «Indietro! Tornate indietro e aspettate. *L'uomo non mangia l'uomo!*» Mowgli strillò. 
 
 27. «Ma chi era un lupo appena pochi momenti fa? [Chi mi ha scagliato contro il coltello soltanto per aver pensato che potesse essere un uomo?]» domandò Akela, mentre i quattro tornavano indietro controvoglia e si accucciavano. 
 
@@ -241,7 +241,7 @@ a chi osserva la legge della giungla».* \
 
 90. «Anch'io li seguirò. Sono vecchia ma non ancora sdentata». Mamma Lupa si rizzò sulle zampe posteriori e guardò dalla finestra nel buio della capanna.  
 
-91. Dopo un minuto si lasciò ricadere senza rumore alcuno, e tutto quello che disse fu: «lo ti ho dato il latte per prima; ma Bagheera dice la verità: l'uomo torna all'uomo, alla fine». 
+91. Dopo un minuto si lasciò ricadere senza rumore alcuno, e tutto quello che disse fu: «lo ti ho dato il latte per prima; ma Bagheera dice la verità: *l'uomo torna all'uomo, alla fine*». 
 
 92. «Forse», rispose Mowgli, con il viso atteggiato a molta tristezza; «ma, per questa notte, sono molto lontano da quella traccia. Aspetta qui; ma non farti vedere da lei». 
 
@@ -289,7 +289,7 @@ a chi osserva la legge della giungla».* \
 
 114. Il lungo, cupo ululato si levò, poi si smorzò e Mowgli vide il marito di Messua farsi piccolo per la paura e voltarsi, pronto a correre indietro alla sua capanna. 
 
-115. «Andate avanti», gridò Mowgli incoraggiante. «Vi avevo avvertiti che ci sarebbero stati dei canti. Quel richiamo vi seguirà fino a Khanhiwara. È il favore della giungla». 
+115. «Andate avanti», gridò Mowgli incoraggiante. «Vi avevo avvertiti che ci sarebbero stati dei canti. Quel richiamo vi seguirà fino a Khanhiwara. *È il favore della giungla*». 
 
 116. Messua spinse avanti il marito e l'oscurità si richiuse su di loro, e su Mamma Lupa; contemporaneamente Bagheera spuntò quasi sotto i piedi di Mowgli, tutta fremente di quell'ebbrezza della notte che rende scatenato il popolo della giungla. 
 
@@ -365,7 +365,7 @@ a chi osserva la legge della giungla».* \
 
 152. «Era una parola maestra», gli bisbigliò Bagheera all'orecchio. «Stavano pascendosi lungo il fiume, ed hanno obbedito come se fossero giovenchi. Guarda, ora stanno venendo».  
 
-153. Hathi ed i suoi tre figli erano arrivati, secondo la loro abitudine, senza fare alcun rumore. Il fango del fiume era ancora fresco sui loro fianchi, ed Hathi stava macinando con aria pensosa il virgulto tenero di un giovane banano che aveva sradicato con le zanne. Ma ogni atteggiamento del suo grande corpo mostrava a Bagheera, che aveva occhi per vedere e perspicacia per comprendere, che non era il signore della giungla venuto per parlare ad un cucciolo d'uomo, ma un essere pieno di timore che veniva davanti ad un altro che di timore non ne aveva affatto. I suoi tre figli ondeggiavano fianco a fianco, dietro il padre. 
+153. Hathi ed i suoi tre figli erano arrivati, secondo la loro abitudine, senza fare alcun rumore. Il fango del fiume era ancora fresco sui loro fianchi, ed Hathi stava macinando con aria pensosa il virgulto tenero di un giovane banano che aveva sradicato con le zanne. Ma ogni atteggiamento del suo grande corpo mostrava a Bagheera, *che aveva occhi per vedere e perspicacia per comprendere*, che non era il signore della giungla venuto per parlare ad un cucciolo d'uomo, ma un essere pieno di timore che veniva davanti ad un altro che di timore non ne aveva affatto. I suoi tre figli ondeggiavano fianco a fianco, dietro il padre. 
 
 154. Mowgli alzò appena la testa quando Hathi gli dette il "Buona caccia". Lo tenne a lungo a dondolarsi e ad oscillare, spostandosi col peso or su un piede or sull'altro, prima di aprire bocca; e quando parlò si rivolse a Bagheera e non agli elefanti. 
 

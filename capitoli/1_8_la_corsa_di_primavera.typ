@@ -122,7 +122,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 50. «Come grida forte!» disse la bufala. 
 
-51. «Proprio così gridano», rispose Mysa con disprezzo, «quelli che dopo aver strappato l'erba non sanno mangiarla». 
+51. «*Proprio così gridano*», rispose Mysa con disprezzo, «*quelli che dopo aver strappato l'erba non sanno mangiarla*». 
 
 52. «Per meno di tanto», gemette Mowgli fra sé, «per meno di tanto che all'epoca delle ultime piogge, avrei punzecchiato Mysa fino a farlo uscire dal suo brago e l'avrei cavalcato per il pantano con un capestro di giunco». Stese una mano per spezzare una delle canne impennacchiate, ma la ritirò con un sospiro. Mysa continuò a ruminare con calma, e si sentiva strappare l'erba lunga là dove pascolava la bufala. «Non voglio morire qui», disse irosamente. «Mysa, che è dello stesso sangue con Jacala e con il cinghiale, mi vedrebbe. Andiamo di là dal pantano a vedere quello che succede. Non ho  mai corso una corsa di primavera come questa... provando freddo e caldo insieme... Su, Mowgli!». 
 
@@ -136,7 +136,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 57. «Vai verso il nord, allora», mugghiò il bufalo infuriato, perché Mowgli lo aveva punto piuttosto a fondo. «È stato uno scherzo da mandriano ignudo di vacche. Vallo a raccontare a quelli del villaggio in fondo alle paludi». 
 
-58. «Il branco degli uomini non s'interessa ai racconti della giungla, ed io non penso che uno sgraffio in più o in meno [sulla tua pellaccia, Mysa], sia argomento da portare in Consiglio. Ma andrò a vedere quel villaggio. Sì, ci andrò. Sì, ci andrò. Adagio, adesso. Non tutte le notti il signore della giungla può venire a guidarti al pascolo». 
+58. «Il branco degli uomini non s'interessa ai racconti della giungla, ed *io non penso che uno sgraffio in più o in meno* [sulla tua pellaccia, Mysa], *sia argomento da portare in Consiglio*. Ma andrò a vedere quel villaggio. Sì, ci andrò. Sì, ci andrò. Adagio, adesso. Non tutte le notti il signore della giungla può venire a guidarti al pascolo». 
 
 59. Si mosse spostandosi sulle sabbie mobili lungo i bordi della palude, ben sapendo che Mysa non avrebbe mai caricato su quelle, e rise mentre correva, ripensando all'ira del bufalo. 
 
@@ -262,7 +262,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 120. «E cosa disse?». 
 
-121. «L'Uomo torna all'Uomo, alla fine. Raksha, nostra madre, disse... 
+121. «*L'Uomo torna all'Uomo, alla fine. Raksha, nostra madre, disse...*». 
 
 122. «E lo stesso disse Akela, la notte del cane rosso», mormorò Mowgli.  
 
@@ -274,7 +274,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 126. «Ti ho domandato cosa dici tu!». 
 
-127. Mentre parlavano, continuavano a correre. Fratel Bigio galoppò per un pezzo prima di rispondere, poi, tra un balzo e l'altro, disse: «Cucciolo d'uomo... signore della giungla... figlio di Raksha, e fratello mio di tana... anche se per un po' me ne dimentico a primavera, la tua traccia è la mia traccia, la tua tana è la mia tana, la tua preda è la mia preda, la tua lotta mortale sarà la mia lotta mortale, Io parlo anche per gli altri tre. Ma cosa dirai alla giungla?». 
+127. Mentre parlavano, continuavano a correre. Fratel Bigio galoppò per un pezzo prima di rispondere, poi, tra un balzo e l'altro, disse: «Cucciolo d'uomo... signore della giungla... figlio di Raksha, e fratello mio di tana... anche se per un po' me ne dimentico a primavera, *la tua traccia è la mia traccia, la tua tana è la mia tana, la tua preda è la mia preda, la tua lotta mortale sarà la mia lotta mortale.* Io parlo anche per gli altri tre. Ma cosa dirai alla giungla?». 
 
 128. «Giusto pensiero. Non è bene aspettare ad uccidere, dopo avvistata la preda. Va' innanzi e chiama tutti alla Rupe del Consiglio, ed io dirò loro quello che ho in mente. Ma può darsi ch'essi non vengano... al tempo della parlata nuova possono anche dimenticarsi». 
 
@@ -300,7 +300,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 139. «Io ti ho insegnato la legge. Spetta a me parlare», disse; «e per quanto io non possa vedere le rupi che mi stanno dinnanzi, pure vedo lontano. Ranocchietto, prendi la tua traccia; fa' la tua tana in mezzo a quelli del tuo sangue, del tuo branco, del tuo popolo; ma quando ci sarà bisogno di una zampa, di una zanna, di un occhio, o di passare rapidamente un ordine di notte, ricordati, signore della giungla, che la giungla è tua quando vuoi». 
 
-140. «Anche la giungla di mezzo è tua», disse Kaa. «Io non parlo per gente da nulla».  
+140. «Anche la giungla di mezzo è tua», disse Kaa. «*Io non parlo per gente da nulla*».  
 
 141. «Hai-mai, fratelli miei», gridò Mowgli, alzando le braccia al cielo con un singhiozzo. «lo non so più cosa so! Non vorrei andare; ma sono trascinato da tutti e due i piedi. Come farò ad abbandonare queste notti?». 
 
@@ -314,11 +314,11 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 146. Le sue parole furono interrotte da un ruggito e da uno schianto nella boscaglia sottostante, e Bagheera, leggera, forte e terribile come sempre, fu davanti a lui. 
 
-147. «Proprio per questo», disse, allungando la zampa destra gocciolante, «non ero ancora venuta. È stata una caccia lunga, ma adesso giace morto fra i cespugli... un toro di non ancora due anni... il toro che ti libera, fratellino. Tutti i debiti sono ora pagati. Per il resto, la mia parola è la parola di Baloo». E leccò un piede di Mowgli. «Ricordati che Bagheera ti ha voluto bene», gridò e d'un balzo scomparve. Giunto ai piedi della collina, gridò ancora forte e a lungo: «Buona caccia sulla nuova pista, o signore della giungla! Ricordati che Bagheera ti ha voluto bene».  
+147. «*Proprio per questo*», disse, allungando la zampa destra gocciolante, «non ero ancora venuta. È stata una caccia lunga, ma adesso giace morto fra i cespugli... un toro di non ancora due anni... il toro che ti libera, fratellino. *Tutti i debiti sono ora pagati*. Per il resto, la mia parola è la parola di Baloo». E leccò un piede di Mowgli. «Ricordati che Bagheera ti ha voluto bene», gridò e d'un balzo scomparve. Giunto ai piedi della collina, gridò ancora forte e a lungo: «*Buona caccia sulla nuova pista, o signore della giungla!* Ricordati che Bagheera ti ha voluto bene».  
 
 148. «Hai inteso», disse Baloo. «Non c'è altro. Vai, adesso; ma prima vieni qui da me. Oh, saggio ranocchietto, vieni da me!». 
 
-149. «È duro spogliarsi della pelle», disse Kaa, mentre Mowgli singhiozzava, con la testa sulla spalla dell'orso cieco e le braccia attorno al collo di lui, mentre Baloo cercava debolmente di leccargli i piedi. 
+149. «*È duro spogliarsi della pelle*», disse Kaa, mentre Mowgli singhiozzava, con la testa sulla spalla dell'orso cieco e le braccia attorno al collo di lui, mentre Baloo cercava debolmente di leccargli i piedi. 
 
 150. «Le stelle si fanno più rare», disse Fratel Bigio, fiutando il vento dell'alba. «Dove faremo la nostra tana oggi? Perché d'ora in poi seguiremo nuove tracce». 
 
@@ -333,13 +333,13 @@ _Questo è il canto che Mowgli udì alle sue spalle nella giungla, finché arriv
 
 Per amore di colui che mostrò \
 ad un saggio ranocchio la via della giungla, \
-osserva la legge del branco degli uomini, \
+*osserva la legge del branco degli uomini,* \
 per amore del tuo vecchio e cieco Baloo. \
 Innocente o corrotta, \
-nuova o antica \
+*nuova o antica \
 seguila come se fosse la pista, \
 durante il giorno e durante la notte, \
-non guardando a destra o a sinistra. \
+non guardando a destra o a sinistra.* \
 Per amore di colui che ama te \
 più di ogni altra creatura, \
 quando il tuo braccio ti facesse soffrire \
@@ -362,8 +362,8 @@ L'ira è l'uovo della paura. \
 Solo gli occhi senza palpebra sono limpidi. \
 Nessuno può curare dal veleno del cobra, \
 e nessuno può curare dai suoi discorsi. \
-Un discorso aperto ti darà la forza\ 
-la cui compagna è la cortesia.\ 
+*Un discorso aperto ti darà la forza\ 
+la cui compagna è la cortesia.*\ 
 Non cercare di colpire troppo lontano, \
 non affidare il tuo peso ad un ramo fradicio. \
 Misura l'apertura della tua bocca \
@@ -391,7 +391,7 @@ Per la serratura rotta che mi ha liberato, \
 cucciolo d'uomo bada agli uomini. \
 Nel profondo della rugiada o alla pallida luce delle stelle \
 non seguire la pista intricata del gatto selvatico. \
-Branco o consiglio, caccia o tana \ 
+*Branco o consiglio, caccia o tana \ 
 non dichiarare mai tregua agli uomini-sciacallo. \
 Resta in silenzio quando essi ti diranno: \
 «segui con noi una strada facile», \
@@ -400,7 +400,7 @@ il tuo aiuto per colpire il debole. \
 Non far vanto, come il Bandar, della tua abilità, \
 ma conserva la tua calma davanti alla preda. \
 Non lasciare che richiamo o canto o segnale \
-ti distolgano dal sentiero di caccia. \
+ti distolgano dal sentiero di caccia.* \
 (Foschie del mattino o crepuscolo luminoso \
 servitelo, voi guardiani del cervo). \
 Boschi ed acque, venti ed alberi, \
@@ -420,9 +420,9 @@ udendo noi, che tu ami, passare vicini, \
 nelle albe, quando ti sveglierai \
 per quel vincolo che non puoi spezzare, \
 col cuore ammalato per il desiderio della giungla: \
-boschi ed acque, venti ed alberi, \
+*boschi ed acque, venti ed alberi, \
 saggezza, forza e cortesia, \
-il favore della giungla ti accompagna. \
+il favore della giungla ti accompagna. *\
 ]
 
 == Utilizzazione

@@ -26,7 +26,7 @@ Fratello, corro alla mia tana... a morire. \
 
 2. «Uhm», pensò, poiché si era imbattuto in più d'una di quelle barricate durante le sue scorribande notturne in cerca di cose da mangiare. «E così gli uomini hanno paura del popolo della giungla anche da queste parti». Si mise a sedere vicino alla porta, in attesa, e quando un uomo comparve, si alzò, spalancando la bocca e, indicandola, cercò di far capire che aveva bisogno di mangiare. L'uomo guardò con occhi sbarrati, poi corse indietro per l'unica via del villaggio chiamando a gran voce il bramino, che era un omone grasso vestito di bianco, con un marchio rosso e giallo sulla fronte. Il bramino venne fino alla porta, seguito da almeno un centinaio di persone, che sgranavano gli occhi e parlavano e gridavano e additavano Mowgli.  
 
-3. «Non hanno belle maniere, questa razza di uomini», disse Mowgli fra sé. «Soltanto la scimmia grigia, si comporterebbe come essi fanno». Perciò si gettò indietro i lunghi capelli e guardò accigliato verso la folla. 
+3. «Non hanno belle maniere, questa razza di uomini», disse Mowgli fra sé. «*Soltanto la scimmia grigia, si comporterebbe come essi fanno*». Perciò si gettò indietro i lunghi capelli e guardò accigliato verso la folla. 
 
 4. «Non c'è da aver paura», disse il bramino. «Guardate i segni che ha sulle braccia e le gambe. Sono i morsi dei lupi. Non è altro che un ragazzo-lupo fuggito dalla giungla». 
 
@@ -36,7 +36,7 @@ Fratello, corro alla mia tana... a morire. \
 
 7. «Lasciatemelo guardare», disse una donna dai pesanti anelli di rame ai polsi e alle caviglie, e scrutò intensamente Mowgli, facendosi schermo con la mano. «Certo gli somiglia. È più slanciato, ma ha proprio l'aspetto del mio ragazzo». 
 
-8. Il bramino era un uomo scaltro, e sapeva che Messua era la moglie del più ricco contadino del villaggio. Perciò tenne gli occhi alzati al cielo per un minuto, e poi disse solennemente: «Ciò che la giungla ha preso, la giungla ha restituito. Conduci il ragazzo nella tua casa, sorella, e non dimenticare di rendere onore a chi vede così lontano nella vita degli uomini». 
+8. Il bramino era un uomo scaltro, e sapeva che Messua era la moglie del più ricco contadino del villaggio. Perciò tenne gli occhi alzati al cielo per un minuto, e poi disse solennemente: «*Ciò che la giungla ha preso, la giungla ha restituito.* Conduci il ragazzo nella tua casa, sorella, e non dimenticare di rendere onore a chi vede così lontano nella vita degli uomini». 
 
 9. «Per il toro che mi ha riscattato», pensava frattanto Mowgli, «tutto questo parlare mi dà tanto l'aria di un altro esame come per l'ammissione nel branco! Ebbene, se sono un uomo, uomo dovrò diventare». 
 
@@ -58,15 +58,15 @@ Fratello, corro alla mia tana... a morire. \
 
 18. «Tutti, tranne quei lupi che furono bruciacchiati col Fiore Rosso. Vuoi ascoltarmi, adesso? Shere Khan si è allontanato per andare a cacciare molto lontano finché non gli ricresca il pelo, perché è strinato ben bene. Giura che quando tornerà, getterà le tue ossa nella Waingunga». 
 
-19. «Quanto a questo, le parole che son state date sono due, perché anch'io ho fatto una piccola promessa. Ma essere informati è sempre bene. Sono stanco stasera... molto stanco per tutte le novità, Fratel Bigio... ma, ti prego, portami sempre notizie». 
+19. «Quanto a questo, le parole che son state date sono due, perché anch'io ho fatto una piccola promessa. *Ma essere informati è sempre bene.* Sono stanco stasera... molto stanco per tutte le novità, Fratel Bigio... ma, ti prego, portami sempre notizie». 
 
-20. «Non ti dimenticherai che sei un lupo? Gli uomini non te lo faranno dimenticare?» chiese Fratel Bigio, con affettuosa ansietà. 
+20. «*Non ti dimenticherai che sei un lupo?* Gli uomini non te lo faranno dimenticare?» chiese Fratel Bigio, con affettuosa ansietà. 
 
 21. «Mai. Mi ricorderò sempre che voglio bene a te e a tutti della nostra tana, ma dovrò anche tener presente che sono stato cacciato dal branco». 
 
-22. «E che tu potresti essere cacciato anche da un altro branco. Gli uomini sono soltanto uomini, fratellino, e le loro chiacchiere sono come le chiacchiere delle rane nello stagno. La prossima volta che scenderò qui di nuovo, ti aspetterò fra i bambù, al margine dei pascoli». 
+22. «E che tu potresti essere cacciato anche da un altro branco. Gli uomini sono soltanto uomini, fratellino, e *le loro chiacchiere sono come le chiacchiere delle rane nello stagno.* La prossima volta che scenderò qui di nuovo, ti aspetterò fra i bambù, al margine dei pascoli». 
 
-23. Per tre mesi dopo quella notte, si può dire che Mowgli non oltrepassasse mai la porta del villaggio, tanto egli era occupato ad imparare gli usi e i costumi degli uomini. Come prima cosa fu costretto a mettere un panno attorno ai fianchi, cosa che lo infastidiva terribilmente; dovette poi imparare qualche cosa attorno alle monete, cosa che non comprendeva affatto, e all'aratura, della quale non vedeva l'utilità. Poi c'erano i piccoli bimbi del villaggio che proprio lo indispettivano. Per fortuna, la legge della giungla gli aveva insegnato a sapersi dominare, dato che nella giungla la vita ed il cibo dipendono dal controllo che ciascuno ha di sé; ma quando si prendevano gioco di lui perché non voleva partecipare ai  loro giochi insignificanti o lanciare gli aquiloni, o perché pronunciava male qualche parola, soltanto la coscienza che non sarebbe stato degno d'un cacciatore uccidere quegli esserini nudi e indifesi lo tratteneva dall'afferrarli e spezzarli in due. 
+23. Per tre mesi dopo quella notte, si può dire che Mowgli non oltrepassasse mai la porta del villaggio, tanto egli era occupato ad imparare gli usi e i costumi degli uomini. Come prima cosa fu costretto a mettere un panno attorno ai fianchi, cosa che lo infastidiva terribilmente; dovette poi imparare qualche cosa attorno alle monete, cosa che non comprendeva affatto, e all'aratura, della quale non vedeva l'utilità. Poi c'erano i piccoli bimbi del villaggio che proprio lo indispettivano. Per fortuna, la legge della giungla gli aveva insegnato a sapersi dominare, dato che *nella giungla la vita ed il cibo dipendono dal controllo che ciascuno ha di sé*; ma quando si prendevano gioco di lui perché non voleva partecipare ai  loro giochi insignificanti o lanciare gli aquiloni, o perché pronunciava male qualche parola, soltanto la coscienza che *non sarebbe stato degno d'un cacciatore uccidere quegli esserini nudi* e indifesi lo tratteneva dall'afferrarli e spezzarli in due. 
 
 24. Non aveva la minima idea della sua forza. Nella giungla egli sapeva di esser debole al confronto delle belve; ma nel villaggio la gente diceva che era forte come un toro. 
 
@@ -78,7 +78,7 @@ Fratello, corro alla mia tana... a morire. \
 
 28. «Vero, vero; deve essere vero», approvarono tutte insieme le barbe grigie. 
 
-29. «Tutti i tuoi racconti sono ragnatele e polvere di luna come quest'ultimo?» domandò Mowgli. «Quella tigre zoppica perché è nata zoppa, come tutti sanno. E parlare dell'anima di un usuraio nel corpo di una bestia che non ha nemmeno il coraggio di uno sciacallo, è un discorso da bambini». 
+29. «Tutti i tuoi racconti *sono ragnatele e polvere di luna come quest'ultimo?*» domandò Mowgli. «Quella tigre zoppica perché è nata zoppa, come tutti sanno. E parlare dell'anima di un usuraio nel corpo di una bestia che non ha nemmeno il coraggio di uno sciacallo, è un discorso da bambini». 
 
 30. Buldeo per un momento rimase senza parole per la sorpresa, ed il capo del villaggio sgranò gli occhi. 
 
@@ -112,9 +112,9 @@ Fratello, corro alla mia tana... a morire. \
 
 45. «Ha mangiato oggi, oppure verrà a caccia a ventre vuoto?» domandò Mowgli, e la risposta, per lui, era questione di vita o di morte. 
 
-46. «Ha scannato un porco all'alba... ed ha anche bevuto. Ricordati che Shere Khan non è stato mai capace di digiunare, nemmeno per amore di vendetta». 
+46. «Ha scannato un porco all'alba... ed ha anche bevuto. *Ricordati che Shere Khan non è stato mai capace di digiunare, nemmeno per amore di vendetta*». 
 
-47. «On! che pazzia, che pazzia! che cucciolo di cucciolo che è! Ha mangiato ed anche bevuto, e s'immagina che io aspetti pure che abbia dormito! Allora, dov'è che s'è gettato a dormire? Se fossimo soltanto in dieci potremmo annientarlo dove si trova. Questi bufali non caricheranno, se non ne avranno inteso l'odore ed io non conosco il loro linguaggio. Credi che potremmo portarli sulla sua traccia sottovento, in modo che possano fiutarla?». 
+47. «*Oh! che pazzia, che pazzia! che cucciolo di cucciolo che è!* Ha mangiato ed anche bevuto, e s'immagina che io aspetti pure che abbia dormito! Allora, dov'è che s'è gettato a dormire? Se fossimo soltanto in dieci potremmo annientarlo dove si trova. Questi bufali non caricheranno, se non ne avranno inteso l'odore ed io non conosco il loro linguaggio. Credi che potremmo portarli sulla sua traccia sottovento, in modo che possano fiutarla?». 
 
 48. «Ha nuotato per un gran tratto nella Waingunga, appunto per interrompere la traccia, disse Fratel Bigio. 
 
@@ -164,7 +164,7 @@ Fratello, corro alla mia tana... a morire. \
 
 71. Shere Khan non aveva più bisogno di essere calpestato. Era morto, e già gli avvoltoi gli stavano calando addosso. 
 
-72. «Fratelli, è stata una morte da cane», disse Mowgli cercando con la mano il coltello, che da quando viveva fra gli uomini portava in una guaina, appesa attorno al collo. «Ma non avrebbe mai provato a combattere. La sua pelle starà bene sulla Rupe del Consiglio. Dobbiamo metterci subito all'opera». 
+72. «*Fratelli, è stata una morte da cane*», disse Mowgli cercando con la mano il coltello, che da quando viveva fra gli uomini portava in una guaina, appesa attorno al collo. «Ma non avrebbe mai provato a combattere. La sua pelle starà bene sulla Rupe del Consiglio. Dobbiamo metterci subito all'opera». 
 
 73. Un ragazzo allevato tra gli uomini non avrebbe nemmeno potuto sognarsi di scuoiare da solo una tigre lunga dieci piedi, ma Mowgli sapeva meglio di chiunque altro come è disposta la pelle di un animale, ed in qual modo tirarla via. Ma era un lavoro duro, e Mowgli tagliuzzò, strappò e bofonchiò per un'ora buona, mentre i lupi stavano con la lingua penzoloni, o si facevano avanti quando Mowgli li chiamava per tirare secondo i suoi ordini. 
 
@@ -230,7 +230,7 @@ Fratello, corro alla mia tana... a morire. \
 
 104. La luna era sul punto di tramontare, quando Mowgli ed i due lupi giunsero sulla collina dove era la Rupe del Consiglio, e si fermarono alla tana di Mamma Lupa. 
 
-105. «Mi hanno scacciato dal branco degli uomini, Mamma», gridò Mowgli; «ma vengo con la pelle di Shere Khan per mantenere la mia parola». Mamma Lupa uscì con passo rigido dalla tana, con i figli che la seguivano, e i suoi occhi fiammeggiarono quando vide la pelle. 
+105. «Mi hanno scacciato dal branco degli uomini, Mamma», gridò Mowgli; «ma vengo con la pelle di Shere Khan *per mantenere la mia parola*». Mamma Lupa uscì con passo rigido dalla tana, con i figli che la seguivano, e i suoi occhi fiammeggiarono quando vide la pelle. 
 
 106. «Glielo dissi, quel giorno che si ficcò con la testa e le spalle dentro questa tana, per toglierti la vita, ranocchietto... glielo dissi che il cacciatore sarebbe stato cacciato a sua volta. Hai fatto bene». 
 
@@ -240,7 +240,7 @@ Fratello, corro alla mia tana... a morire. \
 
 109. «Guardate bene, o lupi! Ho mantenuto la mia parola?» disse Mowgli quand'ebbe finito; ed i lupi risposero, «Sì», ed un lupo malconcio ululò: 
 
-110. «Guidaci ancora o Akela. Guidaci ancora o cucciolo d'uomo perché siamo stanchi di questo vivere senza legge, e vorremmo essere di nuovo il Popolo Libero». 
+110. «Guidaci ancora o Akela. Guidaci ancora o cucciolo d'uomo perché *siamo stanchi di questo vivere senza legge, e vorremmo essere di nuovo il Popolo Libero*». 
 
 111. «No», ronfiò Bagheera, «questo non può essere. Quando foste di nuovo ben nutriti, la pazzia potrebbe tornare su di voi. Non per nulla siete chiamati il Popolo Libero. Avete combattuto per la libertà; è vostra, ora. Mangiatevela, o lupi!». 
 

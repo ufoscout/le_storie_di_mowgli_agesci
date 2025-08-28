@@ -80,7 +80,7 @@ Son quattro i matti! \
 
 29. «Andremo a vederle», disse Mowgli. «Mi ricordo, ora, che una volta sono stato un uomo». 
 
-30. «Piano... piano. Fu la fretta ad uccidere il serpente giallo che mangiò il sole. Noi due parlammo insieme sotto terra, ed io parlai di te; nominandoti come uomo. Disse il cappuccio bianco (ed è veramente vecchio quanto la giungla): "È tanto tempo che non ho più visto un uomo. Fallo venire, ed egli guarderà tutte queste cose. Per la più piccola di queste moltissimi uomini sarebbero disposti a morire". 
+30. «*Piano... piano. Fu la fretta ad uccidere il serpente giallo che mangiò il sole.* Noi due parlammo insieme sotto terra, ed io parlai di te; nominandoti come uomo. Disse il cappuccio bianco (ed è veramente vecchio quanto la giungla): "È tanto tempo che non ho più visto un uomo. Fallo venire, ed egli guarderà tutte queste cose. Per la più piccola di queste moltissimi uomini sarebbero disposti a morire". 
 
 31. «Deve trattarsi di una nuova selvaggina. Eppure il popolo velenoso non c'informa mai quando c'è selvaggina in giro. È un popolo ostile». 
 
@@ -108,7 +108,7 @@ Son quattro i matti! \
 
 43. «La città - la grande città della foresta, le cui porte sono guardate dalle torri del re non potrà mai sparire. Fu costruita prima che il padre di mio padre uscisse dall'uovo e finirà quando i figli di mio figlio saranno bianchi come me! Salomdhi, figlio di Chandrabija, figlio di Viyeja, figlio di Yegasuri, la costruì al tempo di Bappa Rawal. Bestiame di chi, siete voi?» 
 
-44. «È una traccia perduta», esclamò Mowgli, rivolgendosi a Kaa. «Non conosco il suo linguaggio». 
+44. «*È una traccia perduta*», esclamò Mowgli, rivolgendosi a Kaa. «Non conosco il suo linguaggio». 
 
 45. «Ed io nemmeno. È molto vecchio. Padre dei cobra, qui c'è soltanto la giungla, come c'è sempre stata fin dal principio». 
 
@@ -168,7 +168,7 @@ Son quattro i matti! \
 
 73. «Ma non si parlò di uccidere. Come posso tornare nella giungla e dire che l'ho condotto io stesso alla morte?» disse Kaa. 
 
-74. «Non sto parlando di uccidere e non ne parlerò finché il momento non sarà venuto. E per quel che riguarda il tuo andartene o non andartene, là c'è ancora il buco nel muro.  Calma, adesso, o grasso uccisore di scimmie! Non avrei altro che da toccarti il collo, e la giungla non saprebbe mai più nulla di te. Nessun uomo è venuto quaggiù e ne è uscito conservando il respiro sotto le costole. Io sono il guardiano del tesoro del re della città». 
+74. «Non sto parlando di uccidere e non ne parlerò finché il momento non sarà venuto. E per quel che riguarda il tuo andartene o non andartene, là c'è ancora il buco nel muro.  Calma, adesso, o grasso uccisore di scimmie! Non avrei altro che da toccarti il collo, e la giungla non saprebbe mai più nulla di te. Nessun uomo è venuto quaggiù e ne è uscito conservando il respiro sotto le costole. *Io sono il guardiano del tesoro del re della città*». 
 
 75. «Ma ti dico, bianco verme del buio, ti dico che non c'è più né re, né città! La giungla ci sta attorno da ogni parte!» gridò Kaa. 
 
@@ -196,7 +196,7 @@ Son quattro i matti! \
 
 87. Furono tutti e due molto contenti di uscire di nuovo alla luce del giorno; e quando furono tornati alla loro giungla e Mowgli fece scintillare l'ankus alla luce del mattino, fu quasi tanto felice come quando trovava un mazzetto di fiori novelli da infilarsi nei capelli. 
 
-88. «È ancora più splendente degli occhi di Bagheera», disse compiaciuto, facendo girare il rubino. «Glielo andrò a mostrare; ma che cosa intendeva dire il thuu parlando di morte?». 
+88. «*È ancora più splendente degli occhi di Bagheera*», disse compiaciuto, facendo girare il rubino. «Glielo andrò a mostrare; ma che cosa intendeva dire il thuu parlando di morte?». 
 
 89. «Non ti saprei dire. [Mi dispiace fino alla coda della mia coda che non abbia assaggiato il tuo coltello]. C'è sempre qualche cosa di male alle Tane Fredde... sopra e sotto terra. Ma ora ho fame. Vieni a caccia con me in quest'alba?» disse Kaa. 
 
@@ -236,7 +236,7 @@ Son quattro i matti! \
 
 107. «Ora vedremo se il thuu ha detto la verità. Se la cosa puntuta è morte, quell'uomo morirà. Seguiamolo». 
 
-108. «Mangiamo, prima», disse Bagheera. «Lo stomaco vuoto rende l'occhio distratto. Gli uomini camminano molto lentamente, e la giungla è abbastanza umida per conservare il segno più lieve». 
+108. «Mangiamo, prima», disse Bagheera. «*Lo stomaco vuoto rende l'occhio distratto.* Gli uomini camminano molto lentamente, e la giungla è abbastanza umida per conservare il segno più lieve». 
 
 109. Conclusero la loro caccia più presto che poterono, ma passarono circa tre ore prima che avessero finito di mangiare e di bere, e si mettessero al lavoro sul serio sulla pista. Il popolo della giungla sa che nulla può compensare un pasto affrettato. 
 
@@ -332,7 +332,7 @@ Son quattro i matti! \
 
 155. «Cosa importa? Non sono che uomini. Si sono uccisi fra di loro e sono stati felici di farlo», disse Bagheera. «Il primo piccolo uomo dei boschi ha svolto una caccia abile». 
 
-156. «Nonostante ciò sono dei cuccioli; ed un cucciolo si annega per mordere il riflesso della luna sull'acqua. La colpa è stata mia», disse Mowgli, che parlava come se sapesse tutto di tutto. «Non porterò mai più nella giungla strane cose... anche se esse fossero belle come i fiori. Questo - e maneggiò l'ankus pian piano - tornerà dal padre dei cobra. Ma prima dobbiamo dormire, e non possiamo dormire vicino a questi dormienti. Dobbiamo anche seppellire lui, per impedirgli di fuggire ed ammazzarne altri sei. Scavami un buco sotto quell'albero, per piacere». 
+156. «Nonostante ciò sono dei cuccioli; ed *un cucciolo si annega per mordere il riflesso della luna sull'acqua.* La colpa è stata mia», disse Mowgli, che parlava come se sapesse tutto di tutto. «Non porterò mai più nella giungla strane cose... anche se esse fossero belle come i fiori. Questo - e maneggiò l'ankus pian piano - tornerà dal padre dei cobra. Ma prima dobbiamo dormire, e non possiamo dormire vicino a questi dormienti. Dobbiamo anche seppellire lui, per impedirgli di fuggire ed ammazzarne altri sei. Scavami un buco sotto quell'albero, per piacere». 
 
 157. «Ma, fratellino, disse Bagheera, avvicinandosi al luogo indicato, «ti ripeto che la colpa non è del bevitore di sangue. Il male è negli uomini». 
 
@@ -344,7 +344,7 @@ Son quattro i matti! \
 
 161. «Ah-ah! È ritornato, alfine. Te l'avevo detto che quella cosa era la morte. E com'è successo che tu sei ancora vivo?», mormorò il vecchio cobra, avvolgendosi amorosamente attorno al manico dell'ankus. 
 
-162. «Per il toro che mi ha riscattato, davvero non lo so! Quella cosa ha ucciso sei volte in una notte. Non farla uscire mai più».
+162. «Per il toro che mi ha riscattato, davvero non lo so! *Quella cosa ha ucciso sei volte in una notte. Non farla uscire mai più*».
 
 == Utilizzazione
 Il racconto si presta a numerosissime utilizzazioni pratiche: giochi tecnici, di allenamento fisico e allenamento sensi, applicazione delle Parole Maestre. Tutto l'episodio si presta altresì ad una magnifica grande caccia di un'intera giornata.

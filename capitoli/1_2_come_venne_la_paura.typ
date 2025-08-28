@@ -36,7 +36,7 @@ lascino libera quella pioggia attesa \
 che dovrà porre fine alla nostra tregua dell'acqua. \
 ]
 
-1. La legge della giungla, che è di gran lunga la più antica del mondo, ha preveduto norme per quasi ogni caso che possa capitare al popolo della giungla, sicché ora il suo codice è perfetto, quanto il tempo e le consuetudini hanno saputo farlo. Ricorderete che Mowgli passò gran parte della sua vita nel branco dei lupi di Seeonee, imparando la legge da Baloo, l'orso bruno; e fu Baloo a dirgli, quando il ragazzo diveniva impaziente di dover sempre obbedire, che la legge era come la liana gigante, che si stringe addosso a tutti ed alla quale nessuno può sottrarsi. «Quando avrai vissuto a lungo come me, fratellino, vedrai che tutta la giungla obbedisce ad almeno una legge. E non sarà cosa piacevole», disse Baloo. 
+1. *La legge della giungla, che è di gran lunga la più antica del mondo*, ha preveduto norme per quasi ogni caso che possa capitare al popolo della giungla, sicché ora il suo codice è perfetto, quanto il tempo e le consuetudini hanno saputo farlo. Ricorderete che Mowgli passò gran parte della sua vita nel branco dei lupi di Seeonee, imparando la legge da Baloo, l'orso bruno; e fu Baloo a dirgli, quando il ragazzo diveniva impaziente di dover sempre obbedire, che la legge era come la liana gigante, che si stringe addosso a tutti ed alla quale nessuno può sottrarsi. «Quando avrai vissuto a lungo come me, fratellino, vedrai che tutta la giungla obbedisce ad almeno una legge. E non sarà cosa piacevole», disse Baloo. 
 
 2. Questo discorso gli entrò da un orecchio e gli uscì dall'altro, perché un ragazzo che passa la vita a mangiare e a dormire, non si preoccupa di nulla, finché di fatto accada qualche cosa che lo obblighi a guardare bene in faccia la realtà. Ma, un anno, le parole di Baloo si avverarono e Mowgli vide davvero tutta la giungla sottomessa alla legge. 
 
@@ -44,9 +44,9 @@ che dovrà porre fine alla nostra tregua dell'acqua. \
 
 4. «Non molto adesso», ribatté Ikki, duro duro e a disagio, facendo stridere gli aculei, «ma vedremo più tardi. C'è ancora abbastanza acqua per tuffarsi nella profonda vasca di pietra sotto la roccia delle api, fratellino». 
 
-5. «No. Quella stupida acqua se ne sta andando via tutta, e io non voglio spaccarmi la testa», disse Mowgli, che, a quell'epoca era assolutamente convinto di saperne almeno quanto cinque del popolo della giungla messi assieme. 
+5. «No. Quella stupida acqua se ne sta andando via tutta, e io non voglio spaccarmi la testa», disse Mowgli, che, a quell'epoca era assolutamente *convinto di saperne almeno quanto cinque del popolo della giungla messi assieme*. 
 
-6. «È tutto a scapito tuo. Un piccolo spacco potrebbe fare entrare un po' di saggezza». Ikki subito abbassò di colpo la testa per impedire a Mowgli di tirargli le setole del naso, e Mowgli raccontò a Baloo ciò che Ikki aveva detto. Baloo apparve molto preoccupato e mormorò quasi a se stesso: «Se fossi solo cambierei subito terreno di caccia, prima che ci pensino gli altri. Tuttavia... cacciare in mezzo agli stranieri finisce in zuffe; ‘ed il cucciolo d'uomo potrebbe uscirne malconcio. Dobbiamo aspettare per vedere come fiorirà la mowha». 
+6. «È tutto a scapito tuo. Un piccolo spacco potrebbe fare entrare un po' di saggezza». Ikki subito abbassò di colpo la testa per impedire a Mowgli di tirargli le setole del naso, e Mowgli raccontò a Baloo ciò che Ikki aveva detto. Baloo apparve molto preoccupato e mormorò quasi a se stesso: «Se fossi solo cambierei subito terreno di caccia, prima che ci pensino gli altri. Tuttavia... cacciare in mezzo agli stranieri finisce in zuffe; ‘ed il cucciolo d'uomo potrebbe uscirne malconcio. *Dobbiamo aspettare per vedere come fiorirà la mowha*». 
 
 7. Quella primavera l'albero della mowha, che piaceva tanto a Baloo, non fiorì affatto. I cerei fiori color crema venati di verde furono uccisi dal caldo prima di nascere, e quando egli, drizzato sulle zampe posteriori, scosse l'albero, caddero giù soltanto pochi petali maleodoranti. Da allora, pollice a pollice, il caldo implacabile penetrò sin nel cuore della giungla, facendola diventare gialla, bruna ed infine nera. La vegetazione sulle sponde dei burroni fu arrostita sino ad apparire un groviglio di fili di ferro e pellicole accartocciate di materia morta; le pozze d'acqua più riparate si abbassarono e scoprirono il fondo indurito, conservando, su quelle che erano state le loro sponde, le ultime anche minime impronte di zampe, come fuse nel ferro; le liane, sempre ricche di linfa, caddero giù dagli alberi ai quali si aggrappavano e morivano ai loro piedi; i bambù avvizzirono e, quando i venti caldi li scuotevano, mandavano un sordo suono metallico, ed il muschio, anche nel profondo della giungla, si distaccò dalle rocce, che rimasero nude e divennero roventi come i massi nel letto del torrente che tremolavano azzurrini nella caligine.  
 
@@ -80,7 +80,7 @@ che dovrà porre fine alla nostra tregua dell'acqua. \
 
 22. Verso monte, alla curva della pigra pozza attorno alla roccia della pace e custode della tregua dell'acqua stava Hathi, l'elefante selvaggio, con i suoi figli, macilento e grigio sotto i raggi della luna, dondolando su e giù... eternamente dondolandosi. Un poco al di sotto di lui stava l'avanguardia dei daini; ancora al di sotto di questi i cinghiali ed i bufali selvatici; e  sulla riva opposta, dove gli alberi si spingevano fin sull'orlo dell'acqua, c'era il posto separato per i mangiatori di carne... la tigre, i lupi, la pantera, l'orso e gli altri. 
 
-23. «Siamo davvero tutti sotto una stessa legge», disse Bagheera, inoltrandosi nell'acqua e guardando, al di là di essa, verso le file di corna picchiettanti e di occhi spauriti, dove daini e cinghiali si spingevano l'un l'altro qua e là. «Buona caccia a tutti voi del mio sangue», aggiunse, sdraiandosi quant'era lungo sul basso fondo, sì che un fianco gli rimase fuori; e poi, tra i denti: «Se non fosse per la legge, sarebbe davvero una gran buona caccia». 
+23. «*Siamo davvero tutti sotto una stessa legge*», disse Bagheera, inoltrandosi nell'acqua e guardando, al di là di essa, verso le file di corna picchiettanti e di occhi spauriti, dove daini e cinghiali si spingevano l'un l'altro qua e là. «Buona caccia a tutti voi del mio sangue», aggiunse, sdraiandosi quant'era lungo sul basso fondo, sì che un fianco gli rimase fuori; e poi, tra i denti: «Se non fosse per la legge, sarebbe davvero una gran buona caccia». 
 
 24. Le orecchie dei daini subito pronte afferrarono anche quest'ultima frase ed un terrorizzato fremito corse fra i ranghi: «La tregua! Ricorda la tregua!». 
 
@@ -122,7 +122,7 @@ che dovrà porre fine alla nostra tregua dell'acqua. \
 
 43. Mowgli guardò, o meglio fissò la tigre con tutta l'audace sicurezza di cui si sentiva capace e dopo un minuto Shere Khan, a disagio, dovette volgere altrove la testa. «Cucciolo d'uomo di qua e cucciolo d'uomo di là», seguitò a brontolare, riprendendo a bere, «questo cucciolo non è né uomo né cucciolo, altrimenti avrebbe avuto paura. La prossima stagione dovrò chiedere come grazia a lui di poter bere, Augrh». 
 
-44. «Questo potrebbe anche accadere», disse Bagheera guardandolo con fermezza negli occhi. «Sicuro, potrebbe accadere, Faugh, Shere Khan! Quale nuova vergogna hai portato quid». 
+44. «Questo potrebbe anche accadere», disse Bagheera guardandolo con fermezza negli occhi. «Sicuro, potrebbe accadere, Faugh, Shere Khan! *Quale nuova vergogna hai portato qui?*». 
 
 45. La tigre zoppa aveva affondato il mento e le mascelle nell'acqua, ed ora scure strisce oleose venivano trascinate a valle dalla corrente. 
 
@@ -250,20 +250,20 @@ che dovrà porre fine alla nostra tregua dell'acqua. \
 Per darvi appena un'idea dell'immensa varietà della legge della giungla, ho tradotto (Baloo la recitava sempre con una specie di cantilena) alcune di quelle strofe che si applicano più particolarmente ai lupi. Sono, naturalmente, centinaia e centinaia di più, ma queste saranno un esempio delle norme più semplici. 
 
 
-Questa - ascolta - è la legge della giungla - vecchia e vera come il cielo: \
+*Questa* - ascolta - *è la legge della giungla - vecchia e vera come il cielo: \
 ed il lupo che la osserva vivrà lieto e prospero: se l'infrange morrà. Come la liana cinge il tronco dell'albero, così la legge corre avanti e indietro... \
 Poiché la forza del branco è nel lupo, e la forza del lupo è nel branco. Ogni giorno bisogna lavarsi dalla punta del naso fin giù alla punta della coda. \
-Quando bevi, bevi profondo ed a lungo, ma mai troppo a lungo.\
+Quando bevi, bevi profondo ed a lungo, ma mai troppo a lungo.*\
 Ricorda che la notte è destinata alla caccia; mentre il giorno, tu non lo scorderai, è più propizio al sonno. \
 Lo sciacallo può seguire la tigre; ma, quando i tuoi baffi saranno cresciuti, cucciolo, \
-Ricorda che il lupo è un cacciatore: vai per la giungla, e da solo conquista la tua preda. \
+*Ricorda che il lupo è un cacciatore: vai per la giungla, e da solo conquista la tua preda.* \
 Vivi in pace coi signori della giungla: siano i tuoi amici l'orso e la pantera; \
 Non disturbare Hathi, il silenzioso; non canzonare il verro nella sua tana. \
 Quando branco con branco si incontra nella giungla, sullo stretto sentiero, \
 Mentre i capi si parlano, siedi tranquillo da un lato, finché prevarranno i saggi consigli. \
 Se scoppiasse una lotta fra te ed un altro lupo del branco, dovrai combattere da solo e lontano, \
 ed evitare che altri si immischino nella lite, e che il branco soffra per la tua lotta. \
-La tana del lupo è sua casa e rifugio, \
+*La tana del lupo è sua casa e rifugio,* \
 e là dove egli si è sistemato, \
 nessuno può entrare: né il capo del branco e nemmeno il Consiglio. \
 La tana è rifugio del lupo; ma se egli la scavò troppo allo scoperto, il Consiglio potrà mandargli un messaggio, cosicché dovrà mutarla di nuovo. \
@@ -272,22 +272,22 @@ Perché i daini spaventati non fuggano dai campi... e a stomaco vuoto non debban
 Per te stesso, per i compagni, per i cuccioli, tu puoi uccidere secondo il bisogno, e finché ti duri la forza. \
 Ma non uccidere per il piacere di uccidere; e, sette volte te lo ripeto, mai dovrai uccidere l'uomo. \
 Se la sua preda strappi al più debole, nel tuo orgoglio non divorarla tutta. \
-Il diritto del branco è il diritto del più debole: \
+*Il diritto del branco è il diritto del più debole*: \
 dunque testa e pelle lascia a lui. \
 
 La preda del branco è carne del branco. Tu devi mangiarla là dove essa si trova; e nessuno potrà portare quella carne alla tana, altrimenti sarà punito con la morte. \
 La preda del lupo è carne del lupo. Potrà fare con essa ciò che vorrà; perciò il branco finché egli non abbia dato il permesso, non dovrà mangiare quella preda. \
-Il diritto del cucciolo non dura che un anno. \
+*Il diritto del cucciolo non dura che un anno.* \
 Fino ad allora egli può reclamare dal suo branco \
 Una buona porzione della preda di ognuno, quando questi ha mangiato per sé, e nessuno può dire di no. \
 Il diritto della tana è il diritto della madre. Da ciascuno della sua età essa potrà reclamare \
 Un cosciotto di preda per la fame dei suoi cuccioli, e nessuno può dire di no. \
 Il diritto di caverna è il diritto del buon padre. Caccerà per conto suo, solo per sé, se lo vorrà. \
 A nessuno dei richiami del branco dovrà rispondere; soltanto dal Consiglio può essere giudicato. \
-Nei confronti di ogni cosa che la legge non precisa, la parola del tuo capo è per te la legge, lupo: \
+*Nei confronti di ogni cosa che la legge non precisa, la parola del tuo capo è per te la legge, lupo: \
 Per la sua età e per la stretta che non molla, per la zampa sua possente. \
 Or le leggi della giungla sono queste, sono molte e vigorose; \
-Ma la testa della legge e la zampa, l'anca e il dorso, è: obbedisci alla legge! \
+Ma la testa della legge e la zampa, l'anca e il dorso, è: obbedisci alla legge!* \
 
 == Utilizzazione
 Questo racconto arricchisce la giungla di nuovo fascino e di nuove leggende. La prima parte si presta a ribadire l'importanza e la funzione della Legge, ma debbono venir attenuati i concetti di costrizione violenta che affiorano qua e lì.
