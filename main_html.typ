@@ -1,0 +1,12 @@
+
+#include "./capitoli/prima_pagina.typ"
+#include "./capitoli/i_fratelli_di_mowgli.typ"
+#include "./capitoli/la_caccia_di_kaa.typ"
+#include "./capitoli/come_venne_la_paura.typ"
+#include "./capitoli/il_fiore_rosso.typ"
+#include "./capitoli/la_tigre_la_tigre.typ"
+#include "./capitoli/l_invasione_della_giungla.typ"
+#include "./capitoli/l_ankus_del_re.typ"
+#include "./capitoli/i_cani_rossi.typ"
+#include "./capitoli/la_corsa_di_primavera.typ"
+#include "./capitoli/appendice.typ"
