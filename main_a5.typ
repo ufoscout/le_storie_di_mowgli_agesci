@@ -1,4 +1,5 @@
 #show heading.where(level: 1): it => { pagebreak(weak: true); it }
+#show heading: set block(below: 1.2em, above: 2em)
 // #set heading(numbering: "1.")
 
 // Global Style

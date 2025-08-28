@@ -2,8 +2,10 @@
 = Appendice 
 
 == Spiegazione dei simboli usati nel testo
-- Tra parentesi quadre sono quelle parole o frasi che è bene eliminare dal racconto.
-- Le frasi in grassetto sono quelle che vanno tenute presenti in modo particolare durante il racconto, e che possono essere sfruttate per quanto riguarda il linguaggio e l'atmosfera Giungla nel Branco.
+Tra parentesi quadre sono quelle parole o frasi che è bene eliminare dal racconto.
+
+Le frasi in grassetto sono quelle che vanno tenute presenti in modo particolare durante il racconto, e che possono essere sfruttate per quanto riguarda il linguaggio e l'atmosfera Giungla nel Branco.
+
 
 == Abbreviazioni
 *F.F.* -> Famiglia Felice
