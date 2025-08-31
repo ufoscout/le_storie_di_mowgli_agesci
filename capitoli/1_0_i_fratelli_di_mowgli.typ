@@ -22,6 +22,7 @@ Oh, ascoltate il richiamo! - *Buona caccia a tutti \
 coloro che rispettano la legge della giungla.*
 ]
 
+\
 
 1. Erano le sette di una caldissima sera tra le colline di Seeonee, quando Babbo Lupo si destò dal suo riposo diurno: si grattò, sbadigliò e stiracchiò le zampe una dopo l'altra per liberarne le estremità dal torpore del sonno. Mamma Lupa giaceva col grosso muso grigio allungato in mezzo ai suoi quattro cuccioli guaiolanti, ancora malfermi sulle loro zampe; la luna splendeva nella bocca della caverna, dove essi tutti vivevano. «Augrh!» disse Babbo Lupo «è tempo di mettersi nuovamente in caccia»; e stava per slanciarsi giù dalla collina, quando un'ombra piccola dalla coda fioccosa traversò la soglia e mugolò: «Buona fortuna t'accompagni, o capo dei lupi; e buona fortuna e forti zanne bianche ai nobili cuccioli; che essi non dimentichino mai gli affamati che ci sono in questo mondo».
 
@@ -33,7 +34,7 @@ coloro che rispettano la legge della giungla.*
 
 5. «Tante grazie, per questo buon pasto», disse leccandosi le labbra. «Come sono belli i nobili piccini! Che occhi grandi! E sono ancora così giovani! *Davvero, davvero avrei dovuto ricordare che i figli di re nascono principi!*».
 
-6. Ora Tabaqui sapeva bene, come chiunque altro, che niente è tanto di malaugurio come il fare complimenti ai piccoli in loro presenza, e gli faceva piacere di constatare che Mamma Lupa e Babbo Lupo erano proprio a disagio.
+6. Ora Tabaqui sapeva bene, come chiunque altro, che niente è tanto di malaugurio come il fare complimenti ai piccoli in loro presenza, e gli faceva piacere constatare che Mamma Lupa e Babbo Lupo erano proprio a disagio.
 
 7. Tabaqui rimase accucciato immobile a godersi il male che aveva fatto; poi aggiunse malignamente:
 
@@ -43,7 +44,7 @@ coloro che rispettano la legge della giungla.*
 
 10. «Non ne ha il diritto!» cominciò Babbo Lupo, inquieto... «Secondo la legge della giungla non ha diritto di mutare zona di caccia senza il debito preavviso. Spaventerà ogni capo di selvaggina per dieci miglia all'intorno, ed io... io debbo cacciare per due in questo periodo».
 
-11. «Non per nulla sua madre lo ha chiamato Lungri (lo zoppo)», disse Mamma Lupa con calma. «È zoppo da un piede fin dalla nascita. Questa è la ragione per la quale ha sempre ucciso soltanto buoi e vitelli. Ora i contadini della Waingunga ce l'hanno con lui ed egli è venuto qui per fare andare in collera anche i nostri. Batteranno in lungo e largo la giungla cercandolo, quando egli già sarà lontano, e noi ed i nostri piccoli dovremo fuggire, quando daranno fuoco alle erbe. Davvero siamo molto grati a Shere Khan»!
+11. «Non per nulla sua madre lo ha chiamato Lungri (lo zoppo)», disse Mamma Lupa con calma. «È zoppo da un piede fin dalla nascita. Questa è la ragione per la quale ha sempre ucciso soltanto buoi e vitelli. Ora i contadini della Waingunga ce l'hanno con lui ed egli è venuto qui per fare andare in collera anche i nostri. Batteranno in lungo e largo la giungla cercandolo, quando egli già sarà lontano, e noi ed i nostri piccoli dovremo fuggire, quando daranno fuoco alle erbe. Davvero siamo molto grati a Shere Khan!»
 
 12. «Debbo andargli a dire della vostra gratitudine?» disse Tabaqui.
 
@@ -59,7 +60,7 @@ coloro che rispettano la legge della giungla.*
 
 18. «L'uomo!» disse Babbo Lupo, scoprendo tutti i suoi bianchi denti. «Pah! *Non ci sono abbastanza insetti e rane nelle pozze, che egli debba mangiare l'uomo*, e per di più nel nostro territorio!».
 
-19. La legge della giungla, che non ordina nulla senza una ragione, vieta ad ogni belva di divorare l'uomo, a meno che essa non l'uccida per insegnare ai suoi piccoli la maniera di uccidere; ma allora deve assalirlo fuori del territorio di caccia del branco o tribù. La vera ragione di ciò sta nel fatto che uccidere l'uomo significa, presto o tardi, l'arrivo di uomini bianchi montati su elefanti, con fucili e centinaia di uomini bruni, armati di gong, razzi e torce. E allora tutti la scontano nella giungla. La spiegazione che ne danno le belve è che l'uomo è il più debole e naturalmente indifeso tra gli esseri viventi, e che non è generoso e leale attaccarlo. Dicono anche - ed è vero - che i mangiatori di uomini diventano rognosi e perdono i denti.
+19. La legge della giungla, che non ordina nulla senza una ragione, vieta ad ogni belva di divorare l'uomo, a meno che essa non l'uccida per insegnare ai suoi piccoli la maniera di uccidere; ma allora deve assalirlo fuori dal territorio di caccia del branco o tribù. La vera ragione di ciò sta nel fatto che uccidere l'uomo significa, presto o tardi, l'arrivo di uomini bianchi montati su elefanti, con fucili e centinaia di uomini bruni, armati di gong, razzi e torce. E allora tutti la scontano nella giungla. La spiegazione che ne danno le belve è che l'uomo è il più debole e naturalmente indifeso tra gli esseri viventi, e che non è generoso e leale attaccarlo. Dicono anche - ed è vero - che i mangiatori di uomini diventano rognosi e perdono i denti.
 
 20. Il brontolio divenne sempre più forte e terminò coll'Aaarh! a piena gola della tigre che assale.
 
@@ -99,7 +100,7 @@ coloro che rispettano la legge della giungla.*
 
 38. Il ruggito della tigre rimbombò come un tuono nella caverna. Mamma Lupa si scosse di dosso i cuccioli e balzò in avanti; i suoi occhi, simili a due lune verdi nell'oscurità, affrontarono quelli fiammeggianti di Shere Khan.
 
-39. «E sono io, Raksha (la diavola), che ti rispondo. Il cucciolo d'uomo è mio. Lungri..., mio proprio mio! e non sarà ucciso. *Vivrà per correre con il branco e con il branco cacciare; ed alla fine, stai bene attento, cacciatore di piccoli cuccioli nudi... mangiatore di ranocchi... ammazza pesci... darà la caccia a te! E adesso vattene di lì, o, per il sambhur che ho ucciso (io non mangio bestiame morto di fame), te ne ritornerai da tua madre, bestia bruciata dalla giungla, ancor più zoppo di quando venisti al mondo! Vattene!*».
+39. «E sono io, Raksha (la diavola), che ti rispondo. Il cucciolo d'uomo è mio. Lungri..., mio proprio mio! E non sarà ucciso. *Vivrà per correre con il branco e con il branco cacciare; ed alla fine, stai bene attento, cacciatore di piccoli cuccioli nudi... mangiatore di ranocchi... ammazza pesci... darà la caccia a te! E adesso vattene di lì, o, per il sambhur che ho ucciso (io non mangio bestiame morto di fame), te ne ritornerai da tua madre, bestia bruciata dalla giungla, ancor più zoppo di quando venisti al mondo! Vattene!*».
 
 40. Babbo Lupo assisteva, sbalordito. Aveva quasi dimenticato i giorni [nei quali si era conquistato Mamma Lupa in leale combattimento con altri cinque lupi] quando essa correva col branco e non era chiamata la diavola per complimento. Shere Khan avrebbe potuto affrontare Babbo Lupo; ma non tener testa a Mamma Lupa, giacché sapeva che lì dove egli era, essa aveva tutto il vantaggio del terreno, e si sarebbe battuta a morte. Perciò indietreggiò dalla bocca della caverna, ringhiando, e quando fu all'aperto gridò:
 
@@ -187,7 +188,7 @@ per una volta, due, e poi daccapo! \
 Questo racconto ha certamente una fondamentale importanza metodologica. Lo stesso B.P. vi fa esplicito riferimento nello scrivere i primi tre morsi del suo Manuale dei Lupetti.
 I più importanti personaggi della giungla sono qui rappresentati, introducendo così immediatamente la morale per tipi, essenziale nell'azione educativa di questa età. Il brano inoltre ci fornisce l'ambiente ideale per due momenti basilari della progressione individuale del Lupetto: l'ingresso nel Branco e la sua accettazione.
 Nella prima parte, assistiamo all'avventuroso salvataggio di Mowgli che sfuggendo a Shere Khan, viene accolto nella tana di Mamma Lupa. È il brano che guida e ambienta la caccia dell'entrata dei cuccioli in Branco all'inizio di ogni nuovo anno scout.
-I nuovi, come Mowgli, saranno accolti dal Branco che li contenderà a Shere Khan, conducendoli magari lungo un percorso tracce sicuro. Subito saranno messi alla prova, con qualche gioco di destrezza fisica e poi affidati a Raksha o a un Vecchio Lupo, che li proteggerà e guiderà fino al giorno in cui saranno pronti per essere presentati alla Rupe e così accettati ufficialmente da tutto il Branco.
+I nuovi, come Mowgli, saranno accolti dal Branco che li contenderà a Shere Khan, conducendoli magari lungo un percorso di tracce sicuro. Subito saranno messi alla prova, con qualche gioco di destrezza fisica e poi affidati a Raksha o a un Vecchio Lupo, che li proteggerà e guiderà fino al giorno in cui saranno pronti per essere presentati alla Rupe e così accettati ufficialmente da tutto il Branco.
 È un momento importante per tutto il Branco, che avviene solitamente due o tre mesi dopo l’ingresso dei nuovi e che viene solennizzato con una caccia particolare.
 Tutto il primo racconto, ricco d'immagini e suggestivo nell'azione dei personaggi, si presta a essere tradotto metodologicamente quasi alla lettera. I Vecchi Lupi dovranno conoscerlo molto bene, per poterlo far vivere intensamente ai propri Lupetti.
 

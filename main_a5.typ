@@ -8,6 +8,7 @@
 #set text(
   // font: "New Computer Modern",
   size: 0.92em,
+  lang: "it",
 )
 
 #set par(
