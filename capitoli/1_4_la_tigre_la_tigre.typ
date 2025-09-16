@@ -22,11 +22,11 @@ Dove ti spinge la fretta ad andare? \
 Fratello, corro alla mia tana... a morire. \
 ]
 
-1. [Ed ora dobbiamo tornare indietro al primo racconto]. Quando Mowgli ebbe lasciato la tana di Babbo Lupo, dopo la disputa col branco alla Rupe del Consiglio, scese giù alle terre arate, dove vivevano i contadini, ma non si volle fermare lì perché era troppo vicino alla giungla, ed egli sapeva di essersi fatto almeno un nemico feroce al Consiglio. Perciò si affrettò oltre, seguendo il sentiero campestre, che correva in fondo alla valle, e lo percorse al piccolo trotto, con lena costante, per una ventina di miglia, fin che giunse in una regione che non conosceva. La valle si apriva a formare una larga pianura cosparsa di rocce e solcata da burroni. Ad una estremità si vedeva un piccolo villaggio, mentre dall'altra la fitta giungla formava un'ampia ansa che scendeva fino ai pascoli, e lì bruscamente si arrestava come tagliata netta con la zappa. Sparsi per tutta la pianura, buoi e bufali stavano pascolando, e quando i ragazzetti che stavano a guardia delle mandrie videro Mowgli si misero a gridare e scapparono via, mentre i cani gialli randagi, che circolavano attorno ad ogni villaggio indiano, abbaiarono. Mowgli proseguì, perché era affamato, e quando giunse alla porta del villaggio, vide la grande barriera di spini, che al crepuscolo viene messa a sbarrare la porta, tirata da parte. 
+1. [Ed ora dobbiamo tornare indietro al primo racconto]. Quando Mowgli ebbe lasciato la tana di Babbo Lupo, dopo la disputa col branco alla Rupe del Consiglio, scese giù alle terre arate, dove vivevano i contadini, ma non si volle fermare lì perché era troppo vicino alla giungla, ed egli sapeva di essersi fatto almeno un nemico feroce al Consiglio. Perciò si affrettò oltre, seguendo il sentiero campestre, che correva in fondo alla valle, e lo percorse al piccolo trotto, con lena costante, per una ventina di miglia, finché _giunse in una regione che non conosceva_. La valle si apriva a formare una larga pianura cosparsa di rocce e solcata da burroni. Ad una estremità si vedeva un piccolo villaggio, mentre dall'altra la fitta giungla formava un'ampia ansa che scendeva fino ai pascoli, e lì bruscamente si arrestava come tagliata netta con la zappa. Sparsi per tutta la pianura, buoi e bufali stavano pascolando, e quando i ragazzetti che stavano a guardia delle mandrie videro Mowgli si misero a gridare e scapparono via, mentre i cani gialli randagi, che circolavano attorno ad ogni villaggio indiano, abbaiarono. Mowgli proseguì, perché era affamato, e quando giunse alla porta del villaggio, vide la grande barriera di spini, che al crepuscolo viene messa a sbarrare la porta, tirata da parte. 
 
 2. «Uhm», pensò, poiché si era imbattuto in più d'una di quelle barricate durante le sue scorribande notturne in cerca di cose da mangiare. «E così gli uomini hanno paura del popolo della giungla anche da queste parti». Si mise a sedere vicino alla porta, in attesa, e quando un uomo comparve, si alzò, spalancando la bocca e, indicandola, cercò di far capire che aveva bisogno di mangiare. L'uomo guardò con occhi sbarrati, poi corse indietro per l'unica via del villaggio chiamando a gran voce il bramino, che era un omone grasso vestito di bianco, con un marchio rosso e giallo sulla fronte. Il bramino venne fino alla porta, seguito da almeno un centinaio di persone, che sgranavano gli occhi e parlavano e gridavano e additavano Mowgli.  
 
-3. «Non hanno belle maniere, questa razza di uomini», disse Mowgli fra sé. «*Soltanto la scimmia grigia si comporterebbe come essi fanno*». Perciò si gettò indietro i lunghi capelli e guardò accigliato verso la folla. 
+3. «Non hanno belle maniere, questa razza di uomini», disse Mowgli fra sé. «_Soltanto la scimmia grigia si comporterebbe come essi fanno_». Perciò si gettò indietro i lunghi capelli e guardò accigliato verso la folla. 
 
 4. «Non c'è da aver paura», disse il bramino. «Guardate i segni che ha sulle braccia e le gambe. Sono i morsi dei lupi. Non è altro che un ragazzo-lupo fuggito dalla giungla». 
 
@@ -38,13 +38,13 @@ Fratello, corro alla mia tana... a morire. \
 
 8. Il bramino era un uomo scaltro e sapeva che Messua era la moglie del più ricco contadino del villaggio. Perciò tenne gli occhi alzati al cielo per un minuto, e poi disse solennemente: «*Ciò che la giungla ha preso, la giungla ha restituito.* Conduci il ragazzo nella tua casa, sorella, e non dimenticare di rendere onore a chi vede così lontano nella vita degli uomini». 
 
-9. «Per il toro che mi ha riscattato», pensava frattanto Mowgli, «tutto questo parlare mi dà tanto l'aria di un altro esame come per l'ammissione nel branco! Ebbene, se sono un uomo, uomo dovrò diventare». 
+9. «Per il toro che mi ha riscattato», pensava frattanto Mowgli, «tutto questo parlare mi dà tanto l'aria di un altro esame come per l'ammissione nel branco! _Ebbene, se sono un uomo, uomo dovrò diventare_». 
 
 10. La folla si divise quando la donna fece cenno a Mowgli di seguirla nella sua capanna, nella quale c'era un letto laccato di rosso, un grande orcio di terracotta per tenere il grano, decorato con strani disegni in rilievo, una mezza dozzina di recipienti da cucina in rame, un'immagine di una divinità indiana dentro una piccola nicchia, e al muro un vero specchio, come quelli che si vendono nelle fiere di paese.  
 
 11. Ella gli diede un bel po' di latte e del pane, gli posò poi le mani sulla testa e lo guardò negli occhi, perché pensava che forse potesse essere davvero suo figlio ritornato dalla giungla, dove la tigre se l'era portato. Perciò lo chiamò: «Nathoo, o Nathoo!». Mowgli non diede alcun segno di riconoscere il nome. «Non ti ricordi il giorno in cui ti comprai le scarpe nuove?» e toccò quei piedi, che erano duri quasi come il corno. «No,» disse con rammarico, «questi piedi non hanno mai calzato scarpe, ma tu assomigli proprio al mio Nathoo, e sarai mio figlio». 
 
-12. Mowgli si trovava a disagio, perché non era mai stato sotto un tetto prima; ma, guardando al tetto di paglia, si accorse che avrebbe potuto sfondarlo in qualsiasi momento avesse voluto andarsene, e che la finestra non aveva sbarre di chiusura. «A che mi serve essere uomo», disse alla fine tra sé, «se non comprendo il linguaggio degli uomini? Eccomi qui sciocco e muto, come lo sarebbe un uomo in mezzo a noi nella giungla. Bisogna che impari il loro linguaggio». 
+12. Mowgli si trovava a disagio, perché non era mai stato sotto un tetto prima; ma, guardando al tetto di paglia, si accorse che avrebbe potuto sfondarlo in qualsiasi momento avesse voluto andarsene, e che la finestra non aveva sbarre di chiusura. «_A che mi serve essere uomo_», disse alla fine tra sé, «_se non comprendo il linguaggio degli uomini?_ Eccomi qui sciocco e muto, come lo sarebbe un uomo in mezzo a noi nella giungla. _Bisogna che impari il loro linguaggio_». 
 
 13. Non era stato soltanto per gioco che, mentre era coi lupi, egli aveva imparato ad imitare il bramito di sfida del daino nella giungla, e il grugnito dei giovani cinghiali. E così appena Messua pronunciava una parola, Mowgli la imitava quasi perfettamente, e prima di buio aveva imparato i nomi di parecchi oggetti nella capanna. 
 
@@ -64,9 +64,9 @@ Fratello, corro alla mia tana... a morire. \
 
 21. «Mai. Mi ricorderò sempre che voglio bene a te e a tutti della nostra tana, ma dovrò anche tener presente che sono stato cacciato dal branco». 
 
-22. «E che tu potresti essere cacciato anche da un altro branco. Gli uomini sono soltanto uomini, fratellino, e *le loro chiacchiere sono come le chiacchiere delle rane nello stagno.* La prossima volta che scenderò qui di nuovo, ti aspetterò fra i bambù, al margine dei pascoli». 
+22. «E che tu potresti essere cacciato anche da un altro branco. _Gli uomini sono soltanto uomini_, fratellino, e _le loro chiacchiere sono come le chiacchiere delle rane nello stagno._ La prossima volta che scenderò qui di nuovo, ti aspetterò fra i bambù, al margine dei pascoli». 
 
-23. Per tre mesi dopo quella notte, si può dire che Mowgli non oltrepassasse mai la porta del villaggio, tanto egli era occupato ad imparare gli usi e i costumi degli uomini. Come prima cosa fu costretto a mettere un panno attorno ai fianchi, cosa che lo infastidiva terribilmente; dovette poi imparare qualche cosa attorno alle monete, cosa che non comprendeva affatto, e all'aratura, della quale non vedeva l'utilità. Poi c'erano i piccoli bimbi del villaggio che proprio lo indispettivano. Per fortuna, la legge della giungla gli aveva insegnato a sapersi dominare, dato che *nella giungla la vita ed il cibo dipendono dal controllo che ciascuno ha di sé*; ma quando si prendevano gioco di lui perché non voleva partecipare ai  loro giochi insignificanti o lanciare gli aquiloni, o perché pronunciava male qualche parola, soltanto la coscienza che *non sarebbe stato degno d'un cacciatore uccidere quegli esserini nudi* e indifesi lo tratteneva dall'afferrarli e spezzarli in due. 
+23. Per tre mesi dopo quella notte, si può dire che Mowgli non oltrepassasse mai la porta del villaggio, tanto egli era occupato ad imparare gli usi e i costumi degli uomini. Come prima cosa fu costretto a mettere un panno attorno ai fianchi, cosa che lo infastidiva terribilmente; dovette poi imparare qualche cosa attorno alle monete, cosa che non comprendeva affatto, e all'aratura, della quale non vedeva l'utilità. Poi c'erano i piccoli bimbi del villaggio che proprio lo indispettivano. Per fortuna, la legge della giungla gli aveva insegnato a sapersi dominare, dato che *nella giungla la vita ed il cibo dipendono dal controllo che ciascuno ha di sé*; ma quando si prendevano gioco di lui perché non voleva partecipare ai  loro giochi insignificanti o lanciare gli aquiloni, o perché pronunciava male qualche parola, soltanto la coscienza che _non sarebbe stato degno d'un cacciatore uccidere quegli esserini nudi_ e indifesi lo tratteneva dall'afferrarli e spezzarli in due. 
 
 24. Non aveva la minima idea della sua forza. Nella giungla egli sapeva di esser debole al confronto delle belve; ma nel villaggio la gente diceva che era forte come un toro. 
 
@@ -118,11 +118,11 @@ Fratello, corro alla mia tana... a morire. \
 
 48. «Ha nuotato per un gran tratto nella Waingunga, appunto per interrompere la traccia», disse Fratel Bigio. 
 
-49. «Questo è un consiglio che deve avergli dato Tabaqui. Da solo non ci sarebbe mai arrivato». Mowgli rimase a pensare, con un dito in bocca. «Il grande burrone della Waingunga... sbocca nella pianura a nemmeno mezzo miglio da qui. Potrei portare la mandria all'imboccatura superiore attraverso la giungla e poi buttarla dentro a precipizio... ma allora potrebbe svignarsela dal basso. Dobbiamo bloccare anche quello sbocco. Fratel Bigio, saresti capace di dividermi la mandria in due». 
+49. «Questo è un consiglio che deve avergli dato Tabaqui. Da solo non ci sarebbe mai arrivato». _Mowgli rimase a pensare_, con un dito in bocca. «Il grande burrone della Waingunga... sbocca nella pianura a nemmeno mezzo miglio da qui. Potrei portare la mandria all'imboccatura superiore attraverso la giungla e poi buttarla dentro a precipizio... ma allora potrebbe svignarsela dal basso. Dobbiamo bloccare anche quello sbocco. Fratel Bigio, saresti capace di dividermi la mandria in due». 
 
 50. «Forse non da solo... ma ho portato un esperto aiutante». Fratel Bigio si allontanò trotterellando e sparì in una buca. Allora di là emerse una grande testa grigia che Mowgli ben conosceva, e l'aria afosa si riempì di un grido più unico che raro in tutta la giungla: l'urlo di caccia del lupo in pieno giorno.  
 
-51. «Akela! Akela!» gridò Mowgli, battendo le mani. «Dovevo ben saperlo che non mi avresti dimenticato. Abbiamo una grossa impresa per le mani. Bisogna dividere la mandria in due, Akela, tenendo le femmine e i loro piccoli da una parte, e i maschi con i bufali da lavoro dall'altra». 
+51. «*Akela! Akela!*» gridò Mowgli, battendo le mani. «*Dovevo ben saperlo che non mi avresti dimenticato*. Abbiamo una grossa impresa per le mani. Bisogna dividere la mandria in due, Akela, tenendo le femmine e i loro piccoli da una parte, e i maschi con i bufali da lavoro dall'altra». 
 
 52. I due lupi si misero a correre serpeggiando, uno in dentro ed uno in fuori, prima a destra poi a sinistra, tra gli animali della mandria, che sbuffando e sollevando di scatto le teste, si divisero in due gruppi. In uno le bufale, tenendo al centro i loro bufalotti, stavano scalpitanti e guardavano con occhi inferociti, pronte, se uno dei lupi si fosse fermato un solo istante a caricarlo e calpestarlo a morte. Nell'altro i bufali maschi, adulti e giovani, sbuffavano e tempestavano il terreno di zampate; ma per quanto all'aspetto apparissero più impressionanti, pure erano assai meno pericolosi delle femmine, perché non avevano i piccoli da proteggere. Sei uomini insieme non avrebbero potuto dividere la mandria così nettamente. 
 
@@ -138,13 +138,13 @@ Fratello, corro alla mia tana... a morire. \
 
 58. «Ho dato... ho dato la caccia anche a questi al tempo mio» rispose Akela affannosamente nel polverone. «Devo farli svoltare per la giungla?». 
 
-59. «Sì, svolta! Presto, adesso, falli svoltare! Rama è pazzo di furore. Oh! se soltanto potessi dirgli quello che voglio da lui oggi!». 
+59. «Sì, svolta! Presto, adesso, falli svoltare! Rama è pazzo di furore.* Oh! se soltanto potessi dirgli quello che voglio da lui oggi!*». 
 
 60. I bufali furono fatti svoltare a destra, questa volta, e piombarono nella macchia fitta, stroncando ogni cosa che stesse ritta. Gli altri piccoli mandriani, che stavano con i buoi e avevano visto la scena da lontano, si affrettarono verso il villaggio con tutta la velocità consentita dalle loro gambe, gridando che i bufali erano impazziti ed erano scappati via. 
 
 61. Ma il piano di Mowgli era abbastanza semplice. Tutto quello che voleva fare era di compiere un vasto giro su per la collina per arrivare all'inizio del burrone, e poi spingere i bufali verso il basso prendendo Shere Khan tra i bufali e le bufale; perché sapeva che Shere Khan, dopo un pasto ed una grande bevuta, non sarebbe stato in condizioni di arrampicarsi su per i fianchi del burrone e di sfuggire così alla lotta. Cercò ora di calmare i bufali alla voce, e Akela si era lasciato superare per far da serra file e si limitava a mugolare una o due volte per affrettare la retroguardia. Fu un lungo cerchio quello che descrissero, perché non volevano avvicinarsi troppo al burrone e mettere Shere Khan in allarme. Infine Mowgli radunò la mandria stordita all'imboccatura del burrone, su uno spazio erboso che scendeva ripidamente nel profondo del burrone stesso. Da quell'altezza si poteva vedere, attraverso la cima degli alberi, la pianura in basso; ma ciò che Mowgli subito si preoccupò di guardare furono i fianchi del burrone, e si accorse con grandissima sua soddisfazione che si ergevano quasi a strapiombo, mentre i tralci e le liane che pendevano da essi non avrebbero fornito alcun punto d'appoggio ad una tigre che avesse voluto uscirne. 
 
-62. «Lasciali riprender fiato, Akela», disse alzando la mano. «Non l'hanno ancora fiutata. Lasciali riprendere fiato. Devo pur dire a Shere Khan chi sta arrivando. Ormai è in trappola». 
+62. «Lasciali riprender fiato, Akela», disse alzando la mano. «Non l'hanno ancora fiutata. Lasciali riprendere fiato. _Devo pur dire a Shere Khan chi sta arrivando._ Ormai è in trappola». 
 
 63. Mise le mani attorno alla bocca e gridò giù nel burrone - era quasi come gridare dentro una galleria - e l'eco rimbalzò di roccia in roccia.  
 
@@ -166,7 +166,7 @@ Fratello, corro alla mia tana... a morire. \
 
 72. «*Fratelli, è stata una morte da cane*», disse Mowgli cercando con la mano il coltello, che da quando viveva fra gli uomini portava in una guaina, appesa attorno al collo. «Ma non avrebbe mai provato a combattere. La sua pelle starà bene sulla Rupe del Consiglio. Dobbiamo metterci subito all'opera». 
 
-73. Un ragazzo allevato tra gli uomini non avrebbe nemmeno potuto sognarsi di scuoiare da solo una tigre lunga dieci piedi, ma Mowgli sapeva meglio di chiunque altro come è disposta la pelle di un animale, ed in qual modo tirarla via. Ma era un lavoro duro, e Mowgli tagliuzzò, strappò e bofonchiò per un'ora buona, mentre i lupi stavano con la lingua penzoloni, o si facevano avanti quando Mowgli li chiamava per tirare secondo i suoi ordini. 
+73. Un ragazzo allevato tra gli uomini non avrebbe nemmeno potuto sognarsi di scuoiare da solo una tigre lunga dieci piedi, ma Mowgli sapeva meglio di chiunque altro come è disposta la pelle di un animale, ed in qual modo tirarla via. _Ma era un lavoro duro_, e Mowgli tagliuzzò, strappò e bofonchiò per un'ora buona, mentre i lupi stavano con la lingua penzoloni, o si facevano avanti quando Mowgli li chiamava per tirare secondo i suoi ordini. 
 
 74. D'un tratto una mano piombò sulla sua spalla, e guardando in su egli vide Buldeo con l'inseparabile moschetto. I bambini avevano raccontato al villaggio della precipitosa fuga dei bufali, e Buldeo si era avviato, pieno di furore e fin troppo ansioso di dare una dura lezione a Mowgli, per non avere avuto maggior cura della mandria. I lupi erano scomparsi non appena avevano veduto arrivare l'uomo. 
 
@@ -210,7 +210,7 @@ Fratello, corro alla mia tana... a morire. \
 
 94. «Lupo! Figlio di lupi! Vattene!» gridava anche il bramino, agitando un ramoscello della sacra pianta del tulsi. 
 
-95. «Bella, questa! L'altra volta mi scacciarono perché ero un uomo. Ora perché sono un lupo. Andiamocene, Akela». 
+95. «Bella, questa! _L'altra volta mi scacciarono perché ero un uomo. Ora perché sono un lupo._ Andiamocene, Akela». 
 
 96. Una donna - era Messua - venne correndo verso la mandria, e gridò: «Figlio, figlio mio! Dicono che tu sia uno stregone che si può trasformare in una belva quando vuole. Io non ci credo, ma via via altrimenti ti uccideranno. Buldeo dice che sei un mago, ma io so che hai soltanto vendicato la morte di Nathoo». 
 
@@ -222,25 +222,25 @@ Fratello, corro alla mia tana... a morire. \
 
 100. I bufali erano abbastanza impazienti di rientrare al villaggio. Non avrebbero avuto neppure bisogno dell'incitamento di Akela; si precipitarono attraverso la porta come un turbine, facendo disperdere la gente a destra e a sinistra. 
 
-101. «Contateli bene» gridò Mowgli indignato. «Potrebbe darsi che ne abbia rubato uno. Contateli, perché io non li porterò più al pascolo. Buona fortuna, figli degli uomini, e ringraziate Messua, se non entro con i miei lupi a darvi la caccia su e giù per la vostra strada». 
+101. «_Contateli bene_» gridò Mowgli indignato. «Potrebbe darsi che ne abbia rubato uno. Contateli, perché io non li porterò più al pascolo. Buona fortuna, figli degli uomini, e ringraziate Messua, se non entro con i miei lupi a darvi la caccia su e giù per la vostra strada». 
 
-102. Girò sui talloni e si allontanò insieme al lupo solitario, e alzando gli occhi verso le stelle si sentì felice. «Non dormirò più in quelle trappole, Akela. Andiamo a riprendere la pelle di Shere Khan e allontaniamoci. No, non faremo alcun male al villaggio, perché Messua è stata gentile con me».  
+102. Girò sui talloni e si allontanò insieme al lupo solitario, *e alzando gli occhi verso le stelle si sentì felice*. «Non dormirò più in quelle trappole, Akela. Andiamo a riprendere la pelle di Shere Khan e allontaniamoci. No, non faremo alcun male al villaggio, perché Messua è stata gentile con me».  
 
 103. Quando la luna si alzò sopra la pianura, facendola apparire bianca come il latte, i contadini spaventati videro Mowgli, con due lupi alle calcagna ed un fardello sulla testa, attraversarla al costante instancabile trotto dei lupi che divora come il fuoco le lunghe miglia. Allora suonarono le campane del tempio e soffiarono nelle buccine più forte che mai; e Messua pianse, e Buldeo ricamò ancora sulla storia delle sue avventure nella giungla, tanto che finì coll'affermare che Akela si era alzato sulle zampe posteriori ed aveva parlato come un uomo. 
 
 104. La luna era sul punto di tramontare, quando Mowgli ed i due lupi giunsero sulla collina dove era la Rupe del Consiglio, e si fermarono alla tana di Mamma Lupa. 
 
-105. «Mi hanno scacciato dal branco degli uomini, Mamma», gridò Mowgli; «ma vengo con la pelle di Shere Khan *per mantenere la mia parola*». Mamma Lupa uscì con passo rigido dalla tana, con i figli che la seguivano, e i suoi occhi fiammeggiarono quando vide la pelle. 
+105. «Mi hanno scacciato dal branco degli uomini, Mamma», gridò Mowgli; «*ma vengo con la pelle di Shere Khan per mantenere la mia parola*». Mamma Lupa uscì con passo rigido dalla tana, con i figli che la seguivano, e i suoi occhi fiammeggiarono quando vide la pelle. 
 
-106. «Glielo dissi, quel giorno che si ficcò con la testa e le spalle dentro questa tana, per toglierti la vita, ranocchietto... glielo dissi che il cacciatore sarebbe stato cacciato a sua volta. Hai fatto bene». 
+106. «_Glielo dissi_, quel giorno che si ficcò con la testa e le spalle dentro questa tana, per toglierti la vita, ranocchietto... _glielo dissi che il cacciatore sarebbe stato cacciato a sua volta._ Hai fatto bene». 
 
-107. «Hai fatto bene, fratellino», disse una voce profonda dalla macchia. «Eravamo troppo soli nella giungla, senza te», e Bagheera venne correndo ai piedi nudi di Mowgli. S'inerpicarono tutti insieme sulla Rupe del Consiglio, e Mowgli distese la pelle sulla pietra spaziosa sulla quale era solito mettersi Akela. La picchettò con quattro schegge di bambù. Akela ci si distese sopra e lanciò l'antico richiamo per convocare il Consiglio: «Guardate, guardate bene, o Lupi!» esattamente lo stesso che aveva lanciato quando Mowgli vi era stato portato per la prima volta. 
+107. «Hai fatto bene, fratellino», disse una voce profonda dalla macchia. «*Eravamo troppo soli nella giungla, senza te*», e Bagheera venne correndo ai piedi nudi di Mowgli. S'inerpicarono tutti insieme sulla Rupe del Consiglio, e _Mowgli distese la pelle sulla pietra spaziosa sulla quale era solito mettersi Akela_. La picchettò con quattro schegge di bambù. Akela ci si distese sopra e lanciò l'antico richiamo per convocare il Consiglio: «*Guardate, guardate bene, o Lupi!*» esattamente lo stesso che aveva lanciato quando Mowgli vi era stato portato per la prima volta. 
 
 108. Sin da quando Akela era stato deposto, il branco era rimasto senza un capo e ciascuno aveva cacciato e combattuto secondo il proprio capriccio. I lupi risposero al richiamo per abitudine; ma alcuni di essi erano zoppi per essere caduti in qualche trappola, altri arrancavano perché feriti da colpi d'arma da fuoco, alcuni erano rognosi per aver mangiato chissà quale robaccia, e molti erano morti; ma tutti quelli che erano rimasti vennero alla Rupe del Consiglio e videro sul macigno la pelle striata di Shere Khan, con gli enormi arti gli pendenti dalle estremità delle zampe vuote. Fu allora che Mowgli compose una sua canzone senza rime, una canzone che gli venne alle labbra spontaneamente e che declamò a gran voce danzando su e giù sulla pelle frusciante, battendo il tempo con i talloni fino a rimanere senza fiato, mentre Fratel Bigio e Akela facevano il contrappunto con i loro ululati tra una strofa e l'altra. 
 
-109. «Guardate bene, o lupi! Ho mantenuto la mia parola?» disse Mowgli quand'ebbe finito; ed i lupi risposero, «Sì», ed un lupo malconcio ululò: 
+109. «_Guardate bene, o lupi! Ho mantenuto la mia parola?_» disse Mowgli quand'ebbe finito; ed i lupi risposero, _«Sì», ed un lupo malconcio ululò_: 
 
-110. «Guidaci ancora o Akela. Guidaci ancora o cucciolo d'uomo perché *siamo stanchi di questo vivere senza legge, e vorremmo essere di nuovo il Popolo Libero*». 
+110. «*Guidaci ancora o Akela*. Guidaci ancora o cucciolo d'uomo perché *siamo stanchi di questo vivere senza legge, e vorremmo essere di nuovo il Popolo Libero*». 
 
 111. «No», ronfiò Bagheera, «questo non può essere. Quando foste di nuovo ben nutriti, la pazzia potrebbe tornare su di voi. Non per nulla siete chiamati il Popolo Libero. Avete combattuto per la libertà; è vostra, ora. Mangiatevela, o lupi!». 
 
@@ -290,8 +290,14 @@ Tutto il racconto offre numerosi spunti utilizzabili per attività pratiche. La 
 Infine, «da danza della morte di Shere Khan» (vedi B-P, il Manuale dei Lupetti, Quinto morso) può essere usata per chiudere nella maniera più degna questo capitolo della vita di Mowgli.
 
 == Divisione del racconto
-Possibili suddivisioni del racconto:
+Possibile suddivisione del racconto:
     1. capoversi 1 - 22
     2. capoversi 23 - 39
     3. capoversi 40 - 71
     4. capoversi 72 - 115
+
+Oppure:
+    1. capoversi 1 - 39
+    2. capoversi 40 - 71
+    3. capoversi 72 - 115
+    

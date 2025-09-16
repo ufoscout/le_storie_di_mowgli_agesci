@@ -2,9 +2,10 @@
 = Appendice 
 
 == Spiegazione dei simboli usati nel testo
-Tra parentesi quadre sono quelle parole o frasi che è bene eliminare dal racconto.
 
-Le frasi in grassetto sono quelle che vanno tenute presenti in modo particolare durante il racconto, e che possono essere sfruttate per quanto riguarda il linguaggio e l'atmosfera Giungla nel Branco.
+- *Grassetto*: è usato per per far risaltare Parole Maestre, Detti e Modi di dire della Giungla
+- _Corsivo_: è usato per mettere in evidenza frasi importanti che è bene saper raccontare in maniera fedele al racconto
+- [parentesi quadrate]: indicano passaggi che possono essere omessi perchè eccessivi o potrebbero generare confusione sulla moralità dei personaggi
 
 
 == Abbreviazioni

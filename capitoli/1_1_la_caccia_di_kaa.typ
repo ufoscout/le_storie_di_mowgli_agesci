@@ -13,8 +13,8 @@ A questo motivo fondamentale altri, non meno importante, se ne aggiungono: la pr
 #canto[
 Le macchie sono la gioia del leopardo; \
 le corna sono l'orgoglio del bufalo. \
-*Sii pulito, poiché la forza del cacciatore \
-si riconosce dalla lucentezza della sua pelle.* \
+_Sii pulito, poiché la forza del cacciatore \
+si riconosce dalla lucentezza della sua pelle._ \
 Se scopri che un giovenco può mandarti a gambe \
 all'aria, o che il sambhur può trafiggerti con le \
 corna possenti, \
@@ -24,21 +24,21 @@ Non uccidere i cuccioli dello straniero, ma salutali \
 come fratello e sorella. \
 Poiché anche se sono piccoli e grassocci, può darsi \
 che la loro madre sia l'orsa. \
-*«Non c'è nessuno bravo come me!» dice il cucciolo \
+«Non c'è nessuno bravo come me!» dice il cucciolo \
 inorgoglito dalla sua prima preda. \
-Ma la giungla è grande e il cucciolo è piccolo. \
-Lasciate che rifletta e si calmi*.
+*Ma la giungla è grande e il cucciolo è piccolo*. \
+Lasciate che rifletta e si calmi.
 ]
 
 \
 
-1. [Tutto quello che qui è narrato accadde nel periodo durante il quale Baloo stava insegnando a Mowgli la legge della giungla, qualche tempo prima che questi fosse scacciato dal branco dei lupi di Seeonee e che prendesse la sua rivincita sulla tigre Shere Khan]. Il vecchio orso bruno, grosso e grave, non felice di avere un allievo così pronto, perché i giovani lupi volevano solo imparare quel tanto della legge della giungla che riguarda il loro singolo branco o la tribù, e scappavano via non appena sapevano ripetere il ritornello di caccia: ...«*Zampe che non fanno rumore; occhi che vedono nell'oscurità; orecchi che odono il vento dalle tane, e denti bianchi taglienti: tutti questi sono i segni dei nostri fratelli, tranne che di Tabaqui lo sciacallo e della iena, che noi disprezziamo*». Invece Mowgli, come cucciolo d'uomo, doveva imparare ben di più. A volte Bagheera, la pantera nera, gironzolando per la giungla, veniva a vedere come progrediva il suo prediletto e faceva le fusa strofinando la testa contro un albero, mentre Mowgli recitava a Baloo la lezione del giorno. Il ragazzo sapeva arrampicarsi quasi tanto bene quanto sapeva nuotare, e nuotare quasi tanto bene come correre; perciò Baloo, il maestro della legge, gli aveva insegnato le leggi del bosco e dell'acqua: come distinguere un ramo fradicio da uno sano; come parlare gentilmente alle api selvatiche quando si imbatteva in un loro alveare a cinquanta piedi d'altezza; cosa dire a Mang, il pipistrello, quando lo disturbava tra i rami nel bel mezzo del giorno; e come avvertire i serpenti d'acqua negli stagni prima di tuffarsi in mezzo a loro. A nessun popolo della giungla piace essere disturbato, e tutti sono molto pronti ad avventarsi sull'intruso. Poi a Mowgli fu insegnato anche il grido di caccia degli stranieri, grido che dev'essere ripetuto a gran voce sinché non riceva risposta, ogni qual volta uno del popolo della giungla cacci fuori dal proprio territorio. Tradotto, significa: «*Datemi il permesso di cacciare qui, perché ho fame*»: e la risposta è: «*Caccia, dunque, per sfamarti, ma non per divertimento*».
+1. [Tutto quello che qui è narrato accadde nel periodo durante il quale Baloo stava insegnando a Mowgli la legge della giungla, qualche tempo prima che questi fosse scacciato dal branco dei lupi di Seeonee e che prendesse la sua rivincita sulla tigre Shere Khan]. Il vecchio orso bruno, grosso e grave, non felice di avere un allievo così pronto, perché i giovani lupi volevano solo imparare quel tanto della legge della giungla che riguarda il loro singolo branco o la tribù, e scappavano via non appena sapevano ripetere _il ritornello di caccia:_ ...«*Zampe che non fanno rumore; occhi che vedono nell'oscurità; orecchi che odono il vento dalle tane, e denti bianchi taglienti: tutti questi sono i segni dei nostri fratelli, tranne che di Tabaqui lo sciacallo e della iena, che noi disprezziamo*». Invece Mowgli, come cucciolo d'uomo, doveva imparare ben di più. A volte Bagheera, la pantera nera, gironzolando per la giungla, veniva a vedere come progrediva il suo prediletto e faceva le fusa strofinando la testa contro un albero, mentre Mowgli recitava a Baloo la lezione del giorno. Il ragazzo sapeva arrampicarsi quasi tanto bene quanto sapeva nuotare, e nuotare quasi tanto bene come correre; perciò Baloo, il maestro della legge, gli aveva insegnato le leggi del bosco e dell'acqua: come distinguere un ramo fradicio da uno sano; come parlare gentilmente alle api selvatiche quando si imbatteva in un loro alveare a cinquanta piedi d'altezza; cosa dire a Mang, il pipistrello, quando lo disturbava tra i rami nel bel mezzo del giorno; e come avvertire i serpenti d'acqua negli stagni prima di tuffarsi in mezzo a loro. A nessun popolo della giungla piace essere disturbato, e tutti sono molto pronti ad avventarsi sull'intruso. Poi a Mowgli fu insegnato anche il grido di caccia degli stranieri, grido che dev'essere ripetuto a gran voce sinché non riceva risposta, ogni qual volta uno del popolo della giungla cacci fuori dal proprio territorio. Tradotto, significa: «_Datemi il permesso di cacciare qui, perché ho fame_»: e la risposta è: «_Caccia, dunque, per sfamarti, ma non per divertimento_».
 
-2. Tutto questo vi farà intendere quante cose mai Mowgli dovesse imparare a memoria, e alla fine divenne proprio stanco di dover ripetere le stesse cose per centinaia di volte; ma, come Baloo disse a Bagheera un giorno che Mowgli, avendole buscate, era scappato via infuriato: «Un cucciolo d'uomo è un cucciolo d'uomo e deve imparare tutte le leggi della giungla».
+2. Tutto questo vi farà intendere quante cose mai Mowgli dovesse imparare a memoria, e alla fine divenne proprio stanco di dover ripetere le stesse cose per centinaia di volte; ma, come Baloo disse a Bagheera un giorno che Mowgli, avendole buscate, era scappato via infuriato: «*Un cucciolo d'uomo è un cucciolo d'uomo e deve imparare tutte le leggi della giungla*».
 
 3. «Ma pensa quant'è piccino» disse la pantera nera, che avrebbe viziato Mowgli, se avesse potuto fare a modo suo. «Come può quella sua testolina sopportare tutti i tuoi lunghi discorsi?».
 
-4. «C'è nella giungla qualche cosa di tanto piccolo che non possa essere ucciso? No. Ecco perché gli insegno queste cose e perché lo picchio, molto delicatamente, quando lo dimentica».
+4. «_C'è nella giungla qualche cosa di tanto piccolo che non possa essere ucciso?_ No. Ecco perché gli insegno queste cose e perché lo picchio, molto delicatamente, quando lo dimentica».
 
 5. «Delicatamente! Che ne sai tu di delicatezza, vecchia zampa di ferro?» brontolò Bagheera. «La sua faccia oggi è tutta livida per le tue... delicatezze. Uff».
 
@@ -48,7 +48,7 @@ Lasciate che rifletta e si calmi*.
 
 8. «Chiamerò Mowgli ed egli te le dirà... se vorrà. Vieni, fratellino!».
 
-9. «*La testa mi ronza come un alveare*», disse una vocetta contrariata sopra le loro teste, e Mowgli scivolò giù da un tronco d'albero, molto stizzito ed indignato, e aggiunse prendendo terra: «Vengo per Bagheera e non per te, [vecchio grasso] Baloo!».
+9. «_La testa mi ronza come un alveare_», disse una vocetta contrariata sopra le loro teste, e Mowgli scivolò giù da un tronco d'albero, molto stizzito ed indignato, e aggiunse prendendo terra: «Vengo per Bagheera e non per te, [vecchio grasso] Baloo!».
 
 10. «Per me è indifferente» rispose Baloo, ma era offeso e addolorato. «Dì, dunque, a Bagheera le parole maestre della giungla che ti ho insegnato oggi».
 
@@ -70,11 +70,11 @@ Lasciate che rifletta e si calmi*.
 
 19. «Dunque, non ha nessuno da temere», concluse Baloo, accarezzandosi con orgoglio il grande petto villoso.
 
-20. «Eccetto la sua stessa tribù», disse Bagheera sottovoce; e poi forte a Mowgli: «Abbi un po' di riguardo per le mie costole, fratellino! Che significa tutto questo ballare su e giù?».
+20. «_Eccetto la sua stessa tribù_», disse Bagheera sottovoce; e poi forte a Mowgli: «Abbi un po' di riguardo per le mie costole, fratellino! Che significa tutto questo ballare su e giù?».
 
 21. Da un po' Mowgli stava cercando di farsi ascoltare da Bagheera tirandole il pelo delle spalle e scalciando forte. Quando i due gli dettero ascolto, stava gridando con tutto il fiato che aveva in corpo: «E così avrò una tribù tutta mia, e la guiderò su tra i rami per tutto il giorno».
 
-22. «*Cos'è questa nuova pazzia, piccolo sognatore di castelli in aria?*» chiese Bagheera.
+22. «_Cos'è questa nuova pazzia, piccolo sognatore di castelli in aria?_» chiese Bagheera.
 
 23. «Sì», continuò Mowgli, «e getteremo rami e sporcizie addosso al vecchio Baloo. Me l'hanno promesso, Ah!».
 
@@ -92,19 +92,19 @@ Lasciate che rifletta e si calmi*.
 
 30. «E poi, e poi mi hanno dato noci e cose buone da mangiare e mi hanno portato in braccio fino in cima agli alberi e detto che ero loro fratello di sangue con la sola differenza che io non ho la coda, e che dovrei diventare il loro capo un giorno o l'altro».
 
-31. «*Le scimmie non hanno un capo*», disse Bagheera, «*Mentono. Hanno sempre mentito*».
+31. «_Le scimmie non hanno un capo_», disse Bagheera, «_Mentono. Hanno sempre mentito_».
 
 32. «Sono state molto gentili e mi hanno invitato a tornare ancora. Perché non sono mai stato condotto tra il popolo delle scimmie? Si tengono in piedi come me, e non mi battono con zampe pesanti. Giocano tutto il giorno. Lasciatemi andar su! Cattivo Baloo, lasciami andar su! Voglio giocare ancora con loro».
 
-33. «Ascolta, cucciolo d'uomo», disse l'orso, e *la sua voce brontolò come il tuono in una notte calda*, «Io ti ho insegnato tutta la legge della giungla per tutti i popoli della giungla... eccetto che per quella gente, le scimmie, che vive sugli alberi. Esse non hanno legge. Sono messe al bando. Non hanno una loro lingua, ma usano parole rubate che carpiscono quando ascoltano e guardano di nascosto e attendono lassù in alto tra i rami. *Le loro usanze non sono le nostre usanze.* Sono senza capi. Non hanno memoria. Si vantano e spettegolano, fingono di essere un grande popolo in procinto di compiere grandi imprese nella giungla, ma basta che una noce cada per distrarre la loro mente, buttarsi a ridere e tutto è dimenticato. *Noi della giungla non abbiamo rapporti con loro. Noi non beviamo dove le scimmie bevono; non andiamo dove le scimmie vanno; non cacciamo dove esse cacciano; non moriamo dove loro muoiono.* Mi hai mai inteso parlare del Bandar-log prima di oggi?».
+33. «Ascolta, cucciolo d'uomo», disse l'orso, e _la sua voce brontolò come il tuono in una notte calda_, «Io ti ho insegnato tutta la legge della giungla per tutti i popoli della giungla... eccetto che per quella gente, le scimmie, che vive sugli alberi. Esse non hanno legge. Sono messe al bando. Non hanno una loro lingua, ma usano parole rubate che carpiscono quando ascoltano e guardano di nascosto e attendono lassù in alto tra i rami. *Le loro usanze non sono le nostre usanze.* Sono senza capi. Non hanno memoria. Si vantano e spettegolano, fingono di essere un grande popolo in procinto di compiere grandi imprese nella giungla, ma *basta che una noce cada per distrarre la loro mente*, buttarsi a ridere e tutto è dimenticato. _Noi della giungla non abbiamo rapporti con loro. Noi non beviamo dove le scimmie bevono; non andiamo dove le scimmie vanno; non cacciamo dove esse cacciano; non moriamo dove loro muoiono._ Mi hai mai inteso parlare del Bandar-log prima di oggi?».
 
 34. «No» disse Mowgli con un filo di voce, perché la foresta era immersa nel più profondo silenzio, ora che Baloo aveva finito di parlare.
 
-35. «Il popolo della giungla le ha cancellate dalla sua bocca e dalla sua mente. Sono innumerevoli, cattive, sudicione e svergognate, e desiderano, se mai possono avere un desiderio definito, essere notate dal popolo della giungla. Ma noi non facciamo caso ad esse, neppure quando ci gettano noci e sporcizie sulla testa».
+35. «_Il popolo della giungla le ha cancellate dalla sua bocca e dalla sua mente_. Sono innumerevoli, cattive, sudicione e svergognate, e desiderano, se mai possono avere un desiderio definito, essere notate dal popolo della giungla. Ma noi non facciamo caso ad esse, neppure quando ci gettano noci e sporcizie sulla testa».
 
 36. Aveva appena finito di parlare, quando una pioggia di noci e ramoscelli si sparse giù attraverso i rami, e da quelli più alti e sottili su nel cielo si udirono colpi di tosse e ululati e balzi rabbiosi.
 
-37. «*Il popolo delle scimmie è vietato*», disse Baloo, «*vietato al popolo della giungla. Ricordatene*».
+37. «Il popolo delle scimmie è vietato», disse Baloo, «vietato al popolo della giungla. Ricordatene».
 
 38. «Vietato», ripeté Bagheera: [«ma io sono ancora del parere che Baloo avrebbe dovuto metterti in guardia contro di loro»].
 
@@ -116,7 +116,7 @@ Lasciate che rifletta e si calmi*.
 
 42. La prima cosa di cui prese coscienza, al risveglio, fu quella di sentire mani... piccole, forti, dure mani... che gli tenevano le braccia e le gambe, e poi uno scrosciare di rami sulla faccia. Subito dopo egli guardò in basso ad occhi sbarrati attraverso i rami ondeggianti, mentre Baloo risvegliava la giungla con le sue grida profonde e Bagheera balzava su per il tronco dell'albero con tutti i denti scoperti. Il Bandar-log gettò un grido di trionfo e tumultuò battagliando verso i rami più alti dove Bagheera non avrebbe osato seguirlo, gridando: «Ci ha visto! Bagheera ci ha guardato! Tutto il popolo della giungla ci ammira per la nostra bravura e per la nostra astuzia». Allora cominciarono a fuggire; e la fuga del popolo delle scimmie attraverso il mondo degli alberi è una delle cose che nessuno riesce a descrivere. Esse hanno le loro strade abituali e crocicchi, che salgono e scendono, tutte tracciate a cinquanta, settanta o cento piedi da terra, e lungo questo possono spostarsi anche di notte, se occorre. Due delle scimmie più forti presero Mowgli sotto le braccia e scattarono con lui, oscillando di cima in cima con balzi di venti piedi ognuno. Se fossero state sole sarebbero andate due volte più svelte, ma il peso del ragazzo le tratteneva. Preso dalla nausea e dalla vertigine com'era, tuttavia Mowgli non poteva fare a meno di godersi quella folle corsa, sebbene le fugaci visioni della terra laggiù sotto, lontana, lo atterrissero, e i terribili scossoni ed arresti alla fine di ogni salto sopra il vuoto gli facessero balzare il cuore in gola. La sua scorta l'avventava in alto sulla cima di un albero, là dove egli sentiva i rami più sottili e più alti piegarsi e scricchiolare sotto di loro, in quel momento, con un colpo di tosse ed un urlo di gioia, si tuffavano nell'aria in fuori e verso il basso, per riprendersi, aggrappandosi, mani e piedi, ai rami più bassi dell'albero successivo. A volte il suo sguardo poteva spaziare per miglia e miglia sulla verde giungla immota, come per miglia vede il mare una vedetta di coffa dall'alto del suo albero; poi rami e foglie tornavano a sferzargli la faccia, e di nuovo veniva a trovarsi, insieme ai suoi due guardiani, quasi al livello del terreno. Così tra balzi e schianti, urla di gioia e schiamazzi, l'intera tribù del Bandar-log sparì rapidamente lungo le vie degli alberi con Mowgli prigioniero.
 
-43. Dapprima temette di essere lasciato cadere: poi cominciò ad infuriarsi; ma, essendo in grado di fare qualcosa di meglio che lottare, alla fine si mise a pensare. La prima cosa era quella di mandare un messaggio a Baloo e Bagheera, giacché egli sapeva che, alla velocità che le scimmie stavano tenendo, i suoi amici sarebbero stati lasciati molto indietro. Era inutile guardare in basso perché riusciva a scorgere soltanto il lato superiore dei rami; fissò dunque lo sguardo in alto e vide, lontanissimo nell'azzurro, Chil l'avvoltoio che planava e volteggiava, sorvegliando la giungla, in attesa che qualcuno morisse. Chil si accorse che le scimmie stavano trasportando qualche cosa e si lasciò cadere per poche centinaia di yarde per scoprire se il loro carico fosse buono da mangiare. Gettò un fischio di sorpresa quando vide Mowgli trascinato su fino alla cima di un albero e si sentì chiamare da lui con la parola maestra degli avvoltoi: «Siamo di uno stesso sangue, tu ed io». Onde di fogliame si richiusero sul ragazzo, ma Chil si librò fino all'albero vicino, in tempo per vedere ricomparire la piccola faccia bruna. «Osserva la mia traccia», gridò Mowgli. «Informa Baloo del Branco di Seeonee e Bagheera della Rupe del Consiglio».
+43. Dapprima temette di essere lasciato cadere: poi cominciò ad infuriarsi; ma, _essendo in grado di fare qualcosa di meglio che lottare, alla fine si mise a pensare_. La prima cosa era quella di mandare un messaggio a Baloo e Bagheera, giacché egli sapeva che, alla velocità che le scimmie stavano tenendo, i suoi amici sarebbero stati lasciati molto indietro. Era inutile guardare in basso perché riusciva a scorgere soltanto il lato superiore dei rami; fissò dunque lo sguardo in alto e vide, lontanissimo nell'azzurro, Chil l'avvoltoio che planava e volteggiava, sorvegliando la giungla, in attesa che qualcuno morisse. Chil si accorse che le scimmie stavano trasportando qualche cosa e si lasciò cadere per poche centinaia di yarde per scoprire se il loro carico fosse buono da mangiare. Gettò un fischio di sorpresa quando vide Mowgli trascinato su fino alla cima di un albero e si sentì chiamare da lui con la parola maestra degli avvoltoi: «Siamo di uno stesso sangue, tu ed io». Onde di fogliame si richiusero sul ragazzo, ma Chil si librò fino all'albero vicino, in tempo per vedere ricomparire la piccola faccia bruna. «Osserva la mia traccia», gridò Mowgli. «Informa Baloo del Branco di Seeonee e Bagheera della Rupe del Consiglio».
 
 44. «In nome di chi, fratello?». Chil non aveva mai visto Mowgli prima, per quanto, naturalmente, avesse inteso parlare di lui.
 
@@ -136,7 +136,7 @@ Lasciate che rifletta e si calmi*.
 
 52. «Di quel passo!? Non stancherebbe neppure una vacca ferita. [Maestro della legge... bastonatore di cuccioli...] un miglio di quel rullìo su e giù ti farebbe scoppiare. Siediti tranquillo e rifletti! Fa' piano. Non è il momento per inseguirle. Potrebbero lasciarlo cadere, se ci avvicinassimo troppo».
 
-53. «Arrula! Whoo! Potrebbero già essersi stancate di portarlo ed averlo lasciato cadere. Chi si può fidare del Bandar-log? *Mettimi pipistrelli morti sulla testa! Costringimi a mangiare ossa stantie! Rotolami in mezzo agli alveari delle api selvatiche, che mi pungano a morte e seppelliscimi insieme con la iena perché sono il più miserabile degli orsi!* Arulala! Wahooa! Oh, Mowgli, Mowgli, perché non ti ho messo in guardia contro il popolo delle scimmie invece di romperti la testa? Ora forse, con le mie botte gli avrò scacciato dalla memoria la lezione di oggi, e si troverà solo nella giungla senza le parole maestre».
+53. «Arrula! Whoo! Potrebbero già essersi stancate di portarlo ed averlo lasciato cadere. Chi si può fidare del Bandar-log? _Mettimi pipistrelli morti sulla testa! Costringimi a mangiare ossa stantie! Rotolami in mezzo agli alveari delle api selvatiche, che mi pungano a morte e seppelliscimi insieme con la iena perché sono il più miserabile degli orsi!_ Arulala! Wahooa! Oh, Mowgli, Mowgli, perché non ti ho messo in guardia contro il popolo delle scimmie invece di romperti la testa? Ora forse, con le mie botte gli avrò scacciato dalla memoria la lezione di oggi, e si troverà solo nella giungla senza le parole maestre».
 
 54. E Baloo si stringeva la testa fra le zampe e si agitava su e giù gemendo.
 
@@ -144,7 +144,7 @@ Lasciate che rifletta e si calmi*.
 
 56. «Che m'importa di ciò che pensa la giungla? Può essere morto a quest'ora».
 
-57. «A meno e fintanto che non lo lascino cadere dai rami per divertimento, o lo uccidano per non sapere che fare, non ho paura per il cucciolo d'uomo. Egli è saggio e ben istruito, e soprattutto ha quegli occhi che incutono timore a tutto il popolo della giungla. Ma (e questo è un gran male) è in potere del Bandar-log, ed esso, dato che vive sugli alberi, non ha alcuna paura del nostro popolo». Bagheera, con aria pensosa, si leccò una zampa anteriore.
+57. «A meno e fintanto che non lo lascino cadere dai rami per divertimento, o lo uccidano per non sapere che fare, _non ho paura per il cucciolo d'uomo_. Egli è saggio e ben istruito, e soprattutto ha quegli occhi che incutono timore a tutto il popolo della giungla. Ma (e questo è un gran male) è in potere del Bandar-log, ed esso, dato che vive sugli alberi, non ha alcuna paura del nostro popolo». Bagheera, con aria pensosa, si leccò una zampa anteriore.
 
 58. «Sciocco che sono! O grasso, bruno e sciocco scavaradici che altro non sono», disse Baloo, raddrizzandosi di scatto, «è vero ciò che dice Hathi, l'elefante selvaggio: "*A ciascuno la sua paura*"; e loro del Bandar-log temono Kaa, il serpente delle rocce. Si arrampica come loro e, di notte, ruba gli scimmiottini. Il suo nome, anche solo bisbigliato, le agghiaccia fino a quella miserabile coda. Andiamo da Kaa».
 
@@ -160,9 +160,9 @@ Lasciate che rifletta e si calmi*.
 
 64. «Non ha mangiato», disse Baloo, con un grugnito di sollievo, appena vide la bella pelle chiazzata di bruno e di giallo. «Attenzione, Bagheera! Ci vede sempre poco dopo aver cambiato pelle, ed è molto rapido a colpire».
 
-65. Kaa non era un serpente velenoso, a dire il vero disprezzava [anziché no] i serpenti velenosi, giudicandoli codardi... ma la sua forza consisteva nella stretta, e una volta che si fosse afferrato con le sue enormi spire attorno a qualcuno, non c'era più nulla da dire. «*Buona caccia!*» gridò Baloo, sedendosi sulle anche. Come tutti i serpenti della sua specie, Kaa era piuttosto sordo e non udì dapprima il richiamo. Poi si attorcigliò pronto ad ogni evenienza, a testa abbassata.
+65. Kaa non era un serpente velenoso, a dire il vero disprezzava [anziché no] i serpenti velenosi, giudicandoli codardi... ma la sua forza consisteva nella stretta, e una volta che si fosse afferrato con le sue enormi spire attorno a qualcuno, non c'era più nulla da dire. «_Buona caccia!_» gridò Baloo, sedendosi sulle anche. Come tutti i serpenti della sua specie, Kaa era piuttosto sordo e non udì dapprima il richiamo. Poi si attorcigliò pronto ad ogni evenienza, a testa abbassata.
 
-66. «Buona caccia a noi tutti», rispose, «Ooh! Baloo! E che ci fai da queste parti? Buona caccia, Bagheera. Almeno uno di noi ha bisogno di mangiare. C'è qualche notizia di selvaggina in giro? Una daina forse, oppure un giovanotto maschio? *Sono vuoto quanto un pozzo asciutto*».
+66. «Buona caccia a noi tutti», rispose, «Ooh! Baloo! E che ci fai da queste parti? Buona caccia, Bagheera. Almeno uno di noi ha bisogno di mangiare. C'è qualche notizia di selvaggina in giro? Una daina forse, oppure un giovanotto maschio? _Sono vuoto quanto un pozzo asciutto_».
 
 67. «Siamo in caccia», ammise Baloo con fare incurante. Sapeva che non bisogna mettere fretta a Kaa: è troppo grosso.
 
@@ -182,7 +182,7 @@ Lasciate che rifletta e si calmi*.
 
 75. «Il Bandar-log ha cambiato il suo terreno di caccia», disse con calma. «Oggi, quando son venuto su al sole, ho udito lo scroscio del loro passaggio sulle cime degli alberi».
 
-76. «È... è il Bandar-log che ora stiamo inseguendo», disse Baloo, ma *le parole gli si appiccicavano alla gola*, perché era la prima volta, a sua memoria, che uno del popolo della giungla ammettesse d'interessarsi a quel che facevano le scimmie.
+76. «È... è il Bandar-log che ora stiamo inseguendo», disse Baloo, ma _le parole gli si appiccicavano alla gola_, perché era la prima volta, a sua memoria, che uno del popolo della giungla ammettesse d'interessarsi a quel che facevano le scimmie.
 
 77. «Allora senza dubbio non è certo piccola cosa quella che porta due tali cacciatori... capi nella propria giungla, ne son sicuro... sulle tracce del Bandar-log», Kaa replicò cortesemente, mentre tuttavia moriva di curiosità.
 
@@ -190,15 +190,15 @@ Lasciate che rifletta e si calmi*.
 
 79. «È Bagheera», disse la pantera nera, e le sue mascelle si chiusero con uno scatto, perché non credeva nell'utilità di farsi più piccini di quel che si è. «Il guaio è questo, Kaa. Quei ladri di noci e sgraffignatori di foglie di palma hanno rapito il nostro cucciolo del quale hai forse inteso parlare».
 
-80. «Ho inteso qualche cosa da Ikki (i suoi aculei lo rendono presuntuoso) di un coso-uomo che era stato accolto in un branco di lupi, ma non l'ho creduto. *Ikki è pieno di storie udite a metà e molto mal ripetute*».
+80. «Ho inteso qualche cosa da Ikki (i suoi aculei lo rendono presuntuoso) di un coso-uomo che era stato accolto in un branco di lupi, ma non l'ho creduto. _Ikki è pieno di storie udite a metà e molto mal ripetute_».
 
-81. «Ma è vero. Ed è un cucciolo d'uomo quale mai ve ne fu l'uguale», disse Baloo. «Il migliore, il più saggio ed il più coraggioso dei cuccioli d'uomo... allievo mio, che renderà famoso il nome di Baloo in tutte le giungle; e poi, io... noi... gli vogliamo molto bene, Kaa».
+81. «Ma è vero. Ed è un cucciolo d'uomo quale mai ve ne fu l'uguale», disse Baloo. «Il migliore, il più saggio ed il più coraggioso dei cuccioli d'uomo... allievo mio, che renderà famoso il nome di Baloo in tutte le giungle; _e poi, io... noi... gli vogliamo molto bene_, Kaa».
 
-82. «Tss! Tss!» sibilò Kaa scuotendo la testa avanti e indietro. «Anch'io ho conosciuto cosa sia voler bene. Ci sono storie che vi potrei raccontare...».
+82. «Tss! Tss!» sibilò Kaa scuotendo la testa avanti e indietro. «*Anch'io ho conosciuto cosa sia voler bene*. Ci sono storie che vi potrei raccontare...».
 
 83. «Ma richiederebbero una limpida notte, quando tutti avessimo ben mangiato, per essere apprezzate a dovere», interruppe prontamente Bagheera. «Il nostro cucciolo d'uomo è ora nelle mani del Bandar-log, e noi sappiamo che di tutti i popoli della giungla esse temono soltanto Kaa».
 
-84. «Hanno paura soltanto di me; e ne hanno buoni motivi», riprese Kaa. «*Pettegole, stupide, vanitose... vanitose, stupide, pettegole, sono le scimmie*. Ma un coso-uomo nelle loro mani non è certo fortunato. Si stancano delle noci che raccolgono e le gettano giù. Si portano appresso un ramo per mezza giornata, con l'intenzione di farci grandi cose, e poi lo spezzano in due. Quel coso-uomo non è certo da invidiare. Mi hanno chiamato anche… "pesce giallo", non è vero?».
+84. «Hanno paura soltanto di me; e ne hanno buoni motivi», riprese Kaa. «_Pettegole, stupide, vanitose... vanitose, stupide, pettegole, sono le scimmie_. Ma un coso-uomo nelle loro mani non è certo fortunato. Si stancano delle noci che raccolgono e le gettano giù. Si portano appresso un ramo per mezza giornata, con l'intenzione di farci grandi cose, e poi lo spezzano in due. Quel coso-uomo non è certo da invidiare. Mi hanno chiamato anche… "pesce giallo", non è vero?».
 
 85. «Verme, verme, verme della terra», disse Bagheera, «e con altri nomi ancora che ora mi vergogno a ripetere».
 
@@ -214,11 +214,11 @@ Lasciate che rifletta e si calmi*.
 
 91. «Che c'è?» domandò Baloo.
 
-92. «Ho visto Mowgli in mezzo al Bandar-log. Mi ha pregato di avvertirti. Sono stato all'erta. Il Bandar-log l'ha portato di là dal fiume nella città delle scimmie... alle Tane Fredde. Possono rimanerci per una notte come per dieci, oppure per un'ora sola. Ho detto ai pipistrelli di far buona guardia da quando comincerà a fare buio. *Questo è il messaggio. Buona caccia a tutti voi, laggiù*».
+92. «Ho visto Mowgli in mezzo al Bandar-log. Mi ha pregato di avvertirti. Sono stato all'erta. Il Bandar-log l'ha portato di là dal fiume nella città delle scimmie... alle Tane Fredde. Possono rimanerci per una notte come per dieci, oppure per un'ora sola. Ho detto ai pipistrelli di far buona guardia da quando comincerà a fare buio. Questo è il messaggio. Buona caccia a tutti voi, laggiù».
 
-93. «*Gozzo pieno e sonno profondo a te, Chil»* gridò Bagheera. «Mi ricorderò di te alla mia prossima caccia e metterò da parte la testa tutta per te, *il migliore degli avvoltoi*».
+93. «*Gozzo pieno e sonno profondo a te, Chil»* gridò Bagheera. «Mi ricorderò di te alla mia prossima caccia e metterò da parte la testa tutta per te, _il migliore degli avvoltoi_».
 
-94. «Non c'è di che, non c'è di che. Il ragazzo era in possesso della parola maestra. Non avrei potuto far di meno», e Chil tornò a roteare verso il suo covo.
+94. «Non c'è di che, non c'è di che. _Il ragazzo era in possesso della parola maestra. Non avrei potuto far di meno_», e Chil tornò a roteare verso il suo covo.
 
 95. «Non ha dimenticato di usare la lingua di Chil», disse Baloo con un risolino d'orgoglio. «Pensare, un cosino così giovane ricordarsi perfino la parola maestra degli uccelli, mentre veniva trascinato a quel modo su per gli alberi!».
 
@@ -248,11 +248,11 @@ Lasciate che rifletta e si calmi*.
 
 108. «Desidererei mangiare», disse Mowgli. «Sono uno straniero in questa parte della giungla. Datemi il permesso di cacciare qui, oppure portatemi voi del cibo».
 
-109. Venti, trenta scimmie schizzarono via per andargli a prendere noci e papaie selvatiche; ma, strada facendo, vennero alle mani e trovarono troppo fastidioso tornare indietro con quel che era rimasto della frutta dopo la lotta. Mowgli, dolorante e furibondo non meno che affamato, cominciò ad aggirarsi per la deserta città lanciando di quando in quando il richiamo di caccia dello straniero, ma nessuno gli rispondeva. Allora Mowgli comprese di essere arrivato in un luogo davvero assai brutto. «*Tutto ciò che Baloo ha detto del Bandar-log è proprio vero*», pensò tra sé «*Non hanno legge, né richiamo di caccia, né capi... null'altro che sciocche parole e piccole mani rapaci da ladri.* Se qui mi accadrà di morire di fame o di essere ucciso, la colpa sarà soltanto mia. Ma che penso! Devo cercare di ritornare alla mia giungla. Baloo certo mi picchierà, ma *è sempre meglio che dar la caccia stupidamente alle foglie di rosa insieme al Bandar-log*».
+109. Venti, trenta scimmie schizzarono via per andargli a prendere noci e papaie selvatiche; ma, strada facendo, vennero alle mani e trovarono troppo fastidioso tornare indietro con quel che era rimasto della frutta dopo la lotta. Mowgli, dolorante e furibondo non meno che affamato, cominciò ad aggirarsi per la deserta città lanciando di quando in quando il richiamo di caccia dello straniero, ma nessuno gli rispondeva. Allora Mowgli comprese di essere arrivato in un luogo davvero assai brutto. «*Tutto ciò che Baloo ha detto del Bandar-log è proprio vero*», pensò tra sé «_Non hanno legge, né richiamo di caccia, né capi... null'altro che sciocche parole e piccole mani rapaci da ladri._ Se qui mi accadrà di morire di fame o di essere ucciso, la colpa sarà soltanto mia. Ma che penso! Devo cercare di ritornare alla mia giungla. Baloo certo mi picchierà, ma _è sempre meglio che dar la caccia stupidamente alle foglie di rosa insieme al Bandar-log_».
 
 110. Era appena giunto alle mura della città che le scimmie lo spinsero indietro, meravigliandosi che non si rendesse conto di quanto era fortunato e dandogli un bel po' di pizzicotti per insegnarli a essere grato. Strinse i denti e senza risponder parola seguì le scimmie urlanti fino ad una terrazza sovrastante le cisterne di pietra arenaria rossa, allora quasi piena di acqua piovana. Nel mezzo di quella terrazza c'era un padiglione di marmo bianco in rovina, costruito per regine morte un centinaio d'anni prima. Il tetto a cupola era crollato all'interno ed aveva bloccato il corridoio sotterraneo, che le regine erano solite percorrere quando ci venivano dal palazzo; ma le mura erano costituite da pannelli tutti un ricamo di marmo... un meraviglioso lavoro d'intaglio color bianco latte, adorno di agate, cornaline, diaspro e lapislazzuli, e quando la luna sorse da dietro la collina la sua luce brillò attraverso tutto quel lavoro a giorno, e disegnò ombre sul terreno che sembravano un ricamo di velluto nero. Indolenzito, assonnato e affamato com'era, Mowgli non poté fare a meno di ridere quando il Bandar-log cominciò a raccontargli, a venti per volta, quanto grandi, sagge, forti e gentili fossero le scimmie e quale sciocchezza egli commettesse nel cercare di andarsene. «Noi siamo grandi. Noi siamo libere. Noi siamo straordinarie. *Noi siamo il popolo più straordinario di tutta la giungla!* Lo diciamo tutte e per ciò deve essere vero», gridavano. «Ed ora, dato che è la prima volta che tu ci ascolti e che in futuro esso ci tenga nel giusto conto, ti racconteremo tutto in merito alle nostre eccellentissime persone». Mowgli non fece alcuna obiezione, e le scimmie si radunarono a centinaia e centinaia sulla terrazza per ascoltare i loro oratori che cantavano le lodi del Bandar-log, ed appena uno di questi si fermava a riprender fiato, le altre gridavano in coro: «È vero, lo diciamo tutte». Mowgli annuiva e ammiccava, rispondeva di sì ogni volta che gli rivolgevano una domanda, ma la testa gli girava come un arcolaio per il gran baccano. «Tabaqui, lo sciacallo, deve aver morsicato tutta questa gente», pensava, «ed ora sono in preda alla follia. Certo è questa la dewanee, la pazzia. Ma non vanno mai a dormire? Ecco che c'è una nuvola che avanza a coprire la luna; se fosse grande abbastanza potrei tentare di scappare via finché dura l'oscurità. Ma sono stanco».
 
-111. Quella stessa nuvola era tenuta d'occhio da qualche minuto da due buoni amici nel fossato in rovina sotto le mura della città perché Bagheera e Kaa, ben sapendo quant'era pericoloso il popolo delle scimmie quando sono in gran numero, non volevano correre rischi inutili. *Le scimmie non combattono mai se non sono in cento contro uno*, e ben pochi nella giungla osano affrontare una disparità così grande.
+111. Quella stessa nuvola era tenuta d'occhio da qualche minuto da due buoni amici nel fossato in rovina sotto le mura della città perché Bagheera e Kaa, ben sapendo quant'era pericoloso il popolo delle scimmie quando sono in gran numero, non volevano correre rischi inutili. _Le scimmie non combattono mai se non sono in cento contro uno_, e ben pochi nella giungla osano affrontare una disparità così grande.
 
 112. «Io andrò alle mura dalla parte di occidente», bisbigliò Kaa, «e verrò giù rapidamente con il pendìo in mio favore. Non oseranno gettarsi addosso a me nemmeno a centinaia, Ma...».
 
@@ -304,17 +304,17 @@ Lasciate che rifletta e si calmi*.
 
 136. «Di questo decideremo poi», intervenne Bagheera, con un tono secco che non piacque affatto a Mowgli. «Ma qui c'è Kaa, al quale noi dobbiamo per aver vinto la battaglia e tu la vita. *Ringrazialo secondo le nostre usanze, Mowgli*».
 
-137. Mowgli si volse e vide la testa del grande pitone dondolare ad un piede sopra la sua.
+137. _Mowgli si volse e vide la testa del grande pitone dondolare ad un piede sopra la sua._
 
 138. «Questo è, dunque, l'ometto», disse Kaa. «Molto morbida è la sua pelle, e non è gran che diverso dal Bandar-log. Fa' attenzione, omino, che non ti scambi per una scimmia, una volta o l'altra al crepuscolo, quando ho mutato da poco la pelle».
 
-139. «Siamo di uno stesso sangue, tu ed io», rispose Mowgli. «Tu mi hai salvato la vita stanotte. *La mia preda sarà la tua preda, se mai avrai fame, o Kaa*».
+139. «Siamo di uno stesso sangue, tu ed io», rispose Mowgli. «Tu mi hai salvato la vita stanotte. *La mia preda sarà la tua preda*, se mai avrai fame, o Kaa».
 
 140. «Tante grazie, fratellino», disse Kaa, e i suoi occhi brillavano un poco ironici. «E cosa sa uccidere un così audace cacciatore? Lo domando per poterlo seguire la prossima volta che uscirà a caccia».
 
 141. «Niente ancora... Sono troppo piccolo... Ma spingo le capre in bocca a quelli che sanno mangiarle. Quando ti sentirai lo stomaco vuoto, vieni a cercarmi e vedrai se ho detto la verità. Ho anche una certa abilità in queste qui (e mostrò le mani) e se tu cadessi in una trappola, potrei pagare il debito che ho con te, con Bagheera e con Baloo, qui. *Buona caccia a voi tutti, maestri miei*».
 
-142. «Ben detto» borbottò Baloo, perché Mowgli aveva ringraziato con molto bel garbo. Il pitone posò leggermente la testa per un minuto sulla spalla di Mowgli. «*Un cuore coraggioso ed una lingua cortese ti porteranno lontano nella giungla*, omino» disse. «Ma ora vattene presto con i tuoi amici. Va' a dormire, che la luna tramonta, e non è bene che tu stia a vedere ciò che qui succederà».
+142. «Ben detto» borbottò Baloo, perché Mowgli aveva ringraziato con molto bel garbo. _Il pitone posò leggermente la testa per un minuto sulla spalla di Mowgli._ «*Un cuore coraggioso ed una lingua cortese ti porteranno lontano nella giungla*, omino» disse. «Ma ora vattene presto con i tuoi amici. Va' a dormire, che la luna tramonta, e non è bene che tu stia a vedere ciò che qui succederà».
 
 143. La luna affondava dietro le colline, e le righe delle scimmie tremanti strette assieme sulle mura e tra i merli sembravano una frangia inanimata, lacera e malferma. Baloo discese alla cisterna per bere e Bagheera cominciò a ravviarsi il pelo, mentre Kaa, strisciato nel bel mezzo della terrazza, chiuse le mascelle con uno scatto sonoro, che attirò su di lui gli occhi di tutte le scimmie.
 
@@ -428,8 +428,16 @@ Il racconto della Caccia di Kaa si presta a numerose applicazioni concrete nella
 Per finire, essendo la Caccia di Kaa uno dei racconti più lunghi e più ricchi, si consiglia di suddividerlo in parti più corte, da raccontare con continuità ma in momenti distinti, per poter presentare e sfruttare nel modo migliore tutte le immagini, i personaggi e le descrizioni contenute in esso. Qualche pezzo è bene conoscerlo quasi a memoria.
 
 == Divisione del racconto
-Possibili suddivisioni del racconto:
+Possibile suddivisione del racconto:
+
     1. capoversi 1 - 41
-    2. capoversi 42 - 89
-    3. capoversi 90 - 113
-    4. capoversi 114 - 172
+    2. capoversi 42 - 88
+    3. capoversi 89 - 113
+    4. capoversi 114 - 121
+    5. capoversi 122 - 172
+
+Oppure:
+
+    1. capoversi 1 - 101
+    2. capoversi 102 - 121
+    3. capoversi 122 - 142

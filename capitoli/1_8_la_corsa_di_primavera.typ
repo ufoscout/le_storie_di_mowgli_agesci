@@ -32,7 +32,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 4. Erano sdraiati molto in alto sul fianco di una collina che dominava la Waingunga, e le nebbie del mattino erano sparse sotto di loro in colori di bianco e verde. Quando si levò il sole, lo scenario si cambiò in mari ribollenti d'oro rosso, si rimescolò tutto, lasciando filtrare i bassi raggi, che vennero a segnare di strisce l'erba secca sulla quale riposavano Mowgli e Bagheera. Era la fine della stagione fredda, le foglie e gli alberi apparivano come consunti e scoloriti, e c'era dunque un secco ticchettante fruscìo, quando soffiava il vento. Una fogliolina - tap, tap, tap - sbatteva furiosamente contro uno sterpo, proprio come fa una foglia isolata quand'è presa in una corrente. Quel rumore eccitò Bagheera, che fiutò l'aria del mattino; con un profondo cavernoso colpo di tosse, si voltò sulla schiena e mandò colpi con le zampe anteriori in direzione dell'agitata foglia lassù in alto. 
 
-5. «L'anno s'inoltra», disse. «La giungla si muove. Il tempo della parlata nuova è vicino. Quella foglia lo sa. Che cosa bella!». 
+5. «L'anno s'inoltra», disse. «La giungla si muove. _Il tempo della parlata nuova è vicino. Quella foglia lo sa. Che cosa bella!_». 
 
 6. «L'erba è secca», rispose Mowgli strappandone un ciuffo, «Anche occhio-di-primavera (è un piccolo fiorellino a forma di trombetta, color rosso cereo, che cresce in mezzo alle erbe)... anche occhio-di-primavera ancora non è spuntato e... Ma, Bagheera, sta bene che la pantera nera se ne stia sdraiata sulla schiena a battere l'aria con le zampe, come se fosse un gatto selvatico?». 
 
@@ -54,7 +54,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 15. «Fratellino, le tue orecchie sono proprio otturate, tutt'e due? Questo non è canto di caccia, ma la mia canzone che sto preparando per quando ne avrò bisogno». 
 
-16. «L'avevo dimenticato. Mi accorgerò quando sarà giunto il tempo della parlata nuova, perché allora tu e gli altri scapperete tutti via e mi lascerete solo». Mowgli aveva parlato piuttosto impetuosamente. 
+16. «L'avevo dimenticato. _Mi accorgerò quando sarà giunto il tempo della parlata nuova, perché allora tu e gli altri scapperete tutti via e mi lascerete solo_». Mowgli aveva parlato piuttosto impetuosamente. 
 
 17. «Ma, davvero, fratellino», cominciò Bagheera, «non siamo sempre...». 
 
@@ -66,15 +66,15 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 21. «Era il tempo della parlata nuova», disse la pantera, sempre molto umilmente. «Forse, fratellino, quel giorno non gli facesti dire una parola maestra. Ascolta Ferao, e goditela!». 
 
-22. Il malumore di Mowgli sembrava sbollito. Si sdraiò con gli occhi chiusi, mettendo le braccia sotto la testa. «Non so... né me ne importa», disse con voce sonnacchiosa. «Dormiamo, Bagheera. Lo stomaco è pesante in me. Fammi appoggiare la testa». 
+22. Il malumore di Mowgli sembrava sbollito. Si sdraiò con gli occhi chiusi, mettendo le braccia sotto la testa. «Non so... né me ne importa», disse con voce sonnacchiosa. «Dormiamo, Bagheera. *Lo stomaco è pesante in me.* _Fammi appoggiare la testa_». 
 
 23. La pantera si sdraiò di nuovo con un respiro, perché prestava ascolto a Ferao che ancora continuava ad esercitarsi nella sua canzone, in vista della primavera, della nuova parlata, com'essi dicono. 
 
 24. Nella giungla indiana le stagioni trascorrono una dopo l'altra quasi senza distacco. Sembra che ce ne siano soltanto due: la stagione asciutta e quella delle piogge; ma se si guarda da presso, sotto i diluvi torrenziali e le nuvole di fumo delle carbonaie e di polvere si troveranno tutt'e quattro che si susseguono nel loro ciclo regolare. La primavera è la più bella, perché non ha da coprire di nuove foglie e fiori un terreno nudo e spoglio; ma deve respingere innanzi a sé metter via tutti i resti di cose mezze verdi che si trascinano, sopravvissute al loro tempo, e che il mite inverno consentì a lasciare in vita. Deve far sì che la terra rafferma, e solo in parte vestita, torni a sentirsi nuova e giovane ancora una volta. E ciò fa così bene che non c'è primavera nel mondo che valga la primavera della giungla. 
 
-25. Ecco, c'è un giorno che tutte le cose sembrano stanche e perfino gli odori, mentre vagano nell'aria pesante, sono vecchi e consueti. È un fatto che non si può spiegare, ma si sente che è così. Poi il giorno seguente, eppure non c'è assolutamente nulla di cambiato, tutti gli odori sono nuovi e deliziosi ed i baffi del popolo della giungla vibrano fino alla radice ed il pelo invernale si distacca dai loro fianchi in lunghe ciocche pendule. Poi, capita una leggera pioggia casuale, e tutti gli alberi ed i cespugli, e i bambù, e i muschi, e le piante dalle foglie piene di succhi si destano con un rumore di crescita che quasi si potrebbe udire, e sotto questo rumore corre, giorno e notte, un sordo ronzio. Questo è il rumore della  primavera... un rimbombo vibrante che non è né le api, né le acque d'una cascata, né il vento tra la cima degli alberi, ma soltanto il caldo mondo felice che fa le fusa. 
+25. Ecco, c'è un giorno che tutte le cose sembrano stanche e perfino gli odori, mentre vagano nell'aria pesante, sono vecchi e consueti. È un fatto che non si può spiegare, ma si sente che è così. Poi il giorno seguente, eppure non c'è assolutamente nulla di cambiato, tutti gli odori sono nuovi e deliziosi ed i baffi del popolo della giungla vibrano fino alla radice ed il pelo invernale si distacca dai loro fianchi in lunghe ciocche pendule. Poi, capita una leggera pioggia casuale, e tutti gli alberi ed i cespugli, e i bambù, e i muschi, e le piante dalle foglie piene di succhi _si destano con un rumore di crescita che quasi si potrebbe udire_, e sotto questo rumore corre, giorno e notte, un sordo ronzio. Questo è il rumore della  primavera... un rimbombo vibrante che non è né le api, né le acque d'una cascata, né il vento tra la cima degli alberi, _ma soltanto il caldo mondo felice che fa le fusa_. 
 
-26. Fino a quell'anno Mowgli si era sempre deliziato di questi cambiamenti di stagione. Generalmente era lui a vedere il primo occhio-di-primavera tutto nascosto ancora fra le erbe, ed il primo cumulo di nuvole primaverili, le quali non hanno paragone possibile con alcuna altra cosa nella giungla. Si sentiva la sua voce nei luoghi più disparati: nei punti più umidi, sotto la luce delle stelle, tra i fiori sboccianti; qui ad unirsi alle rane nei loro cori, là a canzonare le civette appese all'ingiù, mentre lanciavano il loro grido nella notte bianca. Come tutti quelli della sua gente, la primavera era la stagione preferita per i suoi spostamenti... e si trasferiva per la sola gioia di slanciarsi attraverso l'aria calda per trenta, quaranta o cinquanta miglia tra il crepuscolo ed il sorgere della stella del mattino, e ritornare ansante e ridente, e coronato con i più strani fiori. I quattro non lo seguivano in questi pazzi giri nella giungla, ma se ne andavano via a cantare le loro canzoni con altri lupi. Il popolo della giungla è molto occupato durante la primavera, e Mowgli poteva udirli, mentre grugnivano, strillavano o fischiavano, ciascuno a seconda della propria specie. Le loro voci sono allora diverse da quelle che hanno negli altri periodi dell'anno, e questa è una delle ragioni per le quali la primavera nella giungla è chiamata il tempo della nuova parlata. 
+26. Fino a quell'anno Mowgli si era sempre deliziato di questi cambiamenti di stagione. Generalmente era lui a vedere il primo occhio-di-primavera tutto nascosto ancora fra le erbe, ed il primo cumulo di nuvole primaverili, le quali non hanno paragone possibile con alcuna altra cosa nella giungla. Si sentiva la sua voce nei luoghi più disparati: nei punti più umidi, sotto la luce delle stelle, tra i fiori sboccianti; qui ad unirsi alle rane nei loro cori, là a canzonare le civette appese all'ingiù, mentre lanciavano il loro grido nella notte bianca. Come tutti quelli della sua gente, la primavera era la stagione preferita per i suoi spostamenti... e si trasferiva per la sola gioia di slanciarsi attraverso l'aria calda per trenta, quaranta o cinquanta miglia tra il crepuscolo ed il sorgere della stella del mattino, e ritornare ansante e ridente, e coronato con i più strani fiori. I quattro non lo seguivano in questi pazzi giri nella giungla, ma se ne andavano via a cantare le loro canzoni con altri lupi. Il popolo della giungla è molto occupato durante la primavera, e Mowgli poteva udirli, mentre grugnivano, strillavano o fischiavano, ciascuno a seconda della propria specie. _Le loro voci sono allora diverse da quelle che hanno negli altri periodi dell'anno, e questa è una delle ragioni per le quali la primavera nella giungla è chiamata il tempo della nuova parlata_. 
 
 27. Ma, quella primavera, come aveva detto a Bagheera, il suo stomaco era cambiato dentro di lui. Sin da quando i germogli di bambù si erano chiazzati di bruno, era stato in attesa della mattina, nella quale gli odori si sarebbero trasformati. Ma quando giunse quella mattina, e Mor il pavone, splendente di bronzo, d'azzurro e d'oro, lo gridò a gran voce lungo tutti i boschi ancora nebbiosi e Mowgli aprì la bocca per passare la voce, le parole gli si strozzarono in gola e lo colse una sensazione che saliva dalla punta dei piedi fino alla radice dei capelli... un senso di pura infelicità, tanto che si guardò accuratamente per essere certo di non aver calpestato qualche spina. Mor annunciò i nuovi odori, gli altri uccelli raccolsero il grido, e dalle rocce della Waingunga egli udì il grido roco di Bagheera... qualche cosa d'intermedio fra il grido dell'aquila ed il nitrito di un cavallo. Ci fu uno schiamazzo ed un disperdersi di Bandar fra i rami sovrastanti, carichi di nuove gemme, e Mowgli rimase immobile, col torace gonfiato per rispondere a Mor, che si svuotava a poco a poco in piccoli ansiti strappati al suo petto da quella infelicità. 
 
@@ -86,7 +86,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 31. Una lieve pioggia di primavera - pioggia dell'elefante, la chiamano - passò sulla giungla su una fascia larga mezzo miglio, si lasciò indietro bagnate e ondeggianti le foglie nuove, svanì in un doppio arcobaleno ed un tenue brontolio di tuono. Il ronzìo della primavera proruppe per un attimo soltanto, e si chetò; ma tutta la gente della giungla fu pronta a dar fiato alle loro voci. Tutti, eccetto Mowgli. 
 
-32. «Eppure», diceva tra sé, «ho mangiato buoni cibi, ho bevuto acqua buona. La gola non mi brucia e non mi si chiude, come fece quella volta che assaggiai la radice venata d'azzurro, che Oo, la tartaruga, mi aveva consigliato come buona da mangiare. Ma il mio stomaco è pesante, ed ho detto parole molto sgarbate a Bagheera e agli altri che sono popolo della giungla e mio popolo. Anche adesso, a momenti ho caldo e a momenti ho freddo, e a momenti né caldo né freddo; ma sono soltanto inquieto contro ciò che non posso vedere. Huhu! Sarà meglio fare una bella corsa! Stanotte attraverserò le montagne; sì, voglio fare una corsa di primavera fino alle paludi del nord e ritorno. Per troppo tempo sono andato a caccia senza fatica. I quattro verranno con me, perché si stanno facendo grassi, come i bruchi bianchi». 
+32. «Eppure», diceva tra sé, «ho mangiato buoni cibi, ho bevuto acqua buona. La gola non mi brucia e non mi si chiude, come fece quella volta che assaggiai la radice venata d'azzurro, che Oo, la tartaruga, mi aveva consigliato come buona da mangiare. _Ma il mio stomaco è pesante_, ed ho detto parole molto sgarbate a Bagheera e agli altri che sono popolo della giungla e mio popolo. Anche adesso, a momenti ho caldo e a momenti ho freddo, e a momenti né caldo né freddo; ma sono soltanto inquieto contro ciò che non posso vedere. Huhu! Sarà meglio fare una bella corsa! *Stanotte attraverserò le montagne;* _sì, voglio fare una corsa di primavera fino alle paludi del nord e ritorno._ Per troppo tempo sono andato a caccia senza fatica. I quattro verranno con me, perché si stanno facendo grassi, come i bruchi bianchi». 
 
 33. Chiamò, ma neppure uno dei quattro rispose. Si trovavano molto più lontani che a portata d'orecchio, per cantare a voce spiegata le loro canzoni di primavera - i canti della Luna e del sambhur - con i lupi del branco; poiché all'epoca della primavera il popolo della giungla non fa quasi differenza tra il giorno e la notte. Lanciò la nota aspra abbaiante; ma la sola risposta che ebbe fu il derisorio miau del piccolo gatto selvatico maculato, che s'aggirava fra i rami in cerca di nidi d'uccelli primaticci. Al sentirlo fu tutto scosso di rabbia, e sfoderò a mezzo il coltello. Poi assunse un'aria molto altera, benché non ci fosse nessuno a guardarlo, e a grandi passi discese rigidamente la collina, col mento sollevato e le sopracciglia aggrottate. Ma neppure uno del popolo gli pose alcuna domanda, perché erano tutti troppo occupati nelle loro faccende. 
 
@@ -100,17 +100,17 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 38. Il combattimento continuò finché uno dei lupi fuggì, e Mowgli rimase solo sul terreno sconvolto e insanguinato, a guardarsi ora le gambe e le braccia, ora il coltello, mentre la sensazione d'infelicità, che egli non aveva mai conosciuto prima, lo ricopriva come l'acqua ricopre un tronco caduto. 
 
-39. Quella sera uccise per tempo e mangiò poco, in modo da essere in perfetta forma per la sua corsa di primavera, e mangiò da solo perché tutto il popolo della giungla era in giro a cantare o a combattere. Era una perfetta notte bianca, come dicono loro. Sembrava che tutte le cose verdi fossero cresciute di un mese, in quella stessa mattina.  Il ramo che il giorno prima era ammantato di foglie gialle, stillò linfa quando Mowgli lo spezzò. Il muschio s'arricciava spesso e caldo sopra i suoi piedi, l'erba novella non aveva bordi taglienti, e tutte le voci della giungla risuonavano echeggiando come una corda bassa d'arpa, pizzicata dalla luna. La luna della parlata nuova, che sprizzava la sua luce piena su rocce e stagni, l'insinuava tra tronco e liana, la frangeva attraverso il crivello di milioni di foglie. Dimenticando la sua infelicità, Mowgli cantò a voce alta, mentre aggiustava il passo. Era quasi un volare, perché aveva scelto il lungo pendio declinante che conduce alle paludi del nord, attraversando il cuore della giungla principale, dove il terreno elastico ammortizzava la battuta del piede. Un uomo allevato fra gli uomini si sarebbe fatto strada su quel terreno inciampando spesso nell'ingannevole chiarore della luna, ma i muscoli di Mowgli, allenati da anni di esercizio, lo sostenevano come se fosse una piuma. Quando un ceppo fradicio o un sasso nascosto gli cedevano sotto il piede, egli riprendeva immediatamente, senza mai rallentare il passo, senza sforzo e senza nemmeno pensarci. Quando si stancava di correre sul terreno, gettava in alto le braccia, come una scimmia, afferrandosi alla liana più vicina, ed allora sembrava che galleggiasse piuttosto che si arrampicasse su per i rami fino a quelli più sottili, da dove avrebbe poi proseguito lungo la strada degli alberi finché, cambiato umore di nuovo, si proiettava in basso, a riprender terra con una lunga traiettoria tra le foglie. Incontrava depressioni calde e stagnanti, circondate da rupi bagnate, dove poteva respirare a fatica per i gravi profumi dei fiori notturni e dei boccioli che si schiudevano dalle gemme lungo le liane; scuri viali dove la luce della luna si allungava in fasce regolari, come quelle di marmo variegato nella navata di una chiesa; cespugli nei quali i giovani virgulti umidi gli giungevano all'altezza del petto e lo cingevano alla vita con le loro braccia; e cime di colline coronate di rocce ineguali, dove era costretto a saltare di sasso in sasso, scavalcando le tane di piccole volpi spaventate. Talvolta gli capitava d'udire, molto debole e da grande distanza, il ritmato ciugh-drugh del cinghiale che affilava le zanne contro il fusto di un albero, salvo poi ad incontrare più tardi la grossa bestia grigia tutta sola, intenta a squadrare e straziare la corteccia di qualche grande albero, il grugno grondante bava e gli occhi accesi come fuoco. Altre volte, richiamato dal rumore di corna cozzanti e da sibilanti grugniti, deviava per guizzare oltre una coppia di sambhur infuriati, vacillanti avanti e indietro a testa bassa, striati di sangue che appariva nero nel chiarore lunare. Oppure a qualche guado impetuoso, udiva Jacala il coccodrillo che muggiva come un toro; ovvero disturbava una coppia annodata del Popolo Velenoso, ma prima che quelli potessero morderlo, egli era già lontano, attraversati i ciottoli lucenti, nuovamente nel folto della giungla. 
+39. _Quella sera uccise per tempo e mangiò poco, in modo da essere in perfetta forma per la sua corsa di primavera_, e mangiò da solo perché tutto il popolo della giungla era in giro a cantare o a combattere. Era una perfetta notte bianca, come dicono loro. Sembrava che tutte le cose verdi fossero cresciute di un mese, in quella stessa mattina.  Il ramo che il giorno prima era ammantato di foglie gialle, stillò linfa quando Mowgli lo spezzò. Il muschio s'arricciava spesso e caldo sopra i suoi piedi, l'erba novella non aveva bordi taglienti, e tutte le voci della giungla risuonavano echeggiando come una corda bassa d'arpa, pizzicata dalla luna. La luna della parlata nuova, che sprizzava la sua luce piena su rocce e stagni, l'insinuava tra tronco e liana, la frangeva attraverso il crivello di milioni di foglie. Dimenticando la sua infelicità, Mowgli cantò a voce alta, mentre aggiustava il passo. *Era quasi un volare*, perché aveva scelto il lungo pendio declinante che conduce alle paludi del nord, attraversando il cuore della giungla principale, dove il terreno elastico ammortizzava la battuta del piede. Un uomo allevato fra gli uomini si sarebbe fatto strada su quel terreno inciampando spesso nell'ingannevole chiarore della luna, ma i muscoli di Mowgli, allenati da anni di esercizio, lo sostenevano come se fosse una piuma. Quando un ceppo fradicio o un sasso nascosto gli cedevano sotto il piede, egli riprendeva immediatamente, senza mai rallentare il passo, senza sforzo e senza nemmeno pensarci. Quando si stancava di correre sul terreno, gettava in alto le braccia, come una scimmia, afferrandosi alla liana più vicina, ed allora sembrava che galleggiasse piuttosto che si arrampicasse su per i rami fino a quelli più sottili, da dove avrebbe poi proseguito lungo la strada degli alberi finché, cambiato umore di nuovo, si proiettava in basso, a riprender terra con una lunga traiettoria tra le foglie. Incontrava depressioni calde e stagnanti, circondate da rupi bagnate, dove poteva respirare a fatica per i gravi profumi dei fiori notturni e dei boccioli che si schiudevano dalle gemme lungo le liane; scuri viali dove la luce della luna si allungava in fasce regolari, come quelle di marmo variegato nella navata di una chiesa; cespugli nei quali i giovani virgulti umidi gli giungevano all'altezza del petto e lo cingevano alla vita con le loro braccia; e cime di colline coronate di rocce ineguali, dove era costretto a saltare di sasso in sasso, scavalcando le tane di piccole volpi spaventate. Talvolta gli capitava d'udire, molto debole e da grande distanza, il ritmato ciugh-drugh del cinghiale che affilava le zanne contro il fusto di un albero, salvo poi ad incontrare più tardi la grossa bestia grigia tutta sola, intenta a squadrare e straziare la corteccia di qualche grande albero, il grugno grondante bava e gli occhi accesi come fuoco. Altre volte, richiamato dal rumore di corna cozzanti e da sibilanti grugniti, deviava per guizzare oltre una coppia di sambhur infuriati, vacillanti avanti e indietro a testa bassa, striati di sangue che appariva nero nel chiarore lunare. Oppure a qualche guado impetuoso, udiva Jacala il coccodrillo che muggiva come un toro; ovvero disturbava una coppia annodata del Popolo Velenoso, ma prima che quelli potessero morderlo, egli era già lontano, attraversati i ciottoli lucenti, nuovamente nel folto della giungla. 
 
 40. Corse così, ora gridando a gran voce, ora cantando tra sé, l'essere più felice di tutta la giungla in quella notte, finché l'odore dei fiori lo avvertì che era ormai giunto vicino alle paludi e queste si trovavano molto al di là dei suoi più lontani territori di caccia.  
 
-41. Anche qui un uomo allevato tra gli uomini sarebbe sprofondato fino alla testa dopo tre passi, ma i piedi di Mowgli sembravano muniti di occhi e lo portavano di zolla in zolla, da un appoggio incerto all'altro, senza chieder soccorso agli occhi della testa. Corse fino al centro del pantano, disturbando le anitre al passaggio, e si sedette su un tronco d'albero rivestito di muschio lambito dall'acqua nera. La palude era tutta desta attorno a lui, perché a primavera il Popolo degli Uccelli dorme molto leggermente, ed interi stormi andavano e venivano da un capo all'altro della notte. Ma nessuno fece caso a Mowgli, seduto fra gli alti canneti, che, canterellando canzoni senza parole, si esaminava le piante coriacee dei suoi piedi bruni, nel timore di spine neglette. Sembrava che tutta la sua infelicità fosse stata lasciata alle spalle, laggiù nella sua giungla, e già era sul punto d'intonare un canto a gola spiegata, quand'eccola ritornare... peggio ancora di prima. 
+41. Anche qui un uomo allevato tra gli uomini sarebbe sprofondato fino alla testa dopo tre passi, ma i piedi di Mowgli sembravano muniti di occhi e lo portavano di zolla in zolla, da un appoggio incerto all'altro, senza chieder soccorso agli occhi della testa. Corse fino al centro del pantano, disturbando le anitre al passaggio, e si sedette su un tronco d'albero rivestito di muschio lambito dall'acqua nera. La palude era tutta desta attorno a lui, perché a primavera il Popolo degli Uccelli dorme molto leggermente, ed interi stormi andavano e venivano da un capo all'altro della notte. Ma nessuno fece caso a Mowgli, seduto fra gli alti canneti, che, canterellando canzoni senza parole, si esaminava le piante coriacee dei suoi piedi bruni, nel timore di spine neglette. Sembrava che tutta la sua infelicità fosse stata lasciata alle spalle, laggiù nella sua giungla, e già _era sul punto d'intonare un canto a gola spiegata, quand'eccola ritornare... peggio ancora di prima_. 
 
 42. Questa volta Mowgli si spaventò. «C'è anche qui!» disse a mezza voce. «Mi ha seguito», e si voltò, guardando al di sopra della spalla, per vedere se lei non fosse lì dietro. «Non c'è nessuno qui». I rumori notturni della palude continuarono, ma nessun uccello o altro animale mai gli parlò ed il nuovo senso di sconforto aumentò. 
 
-43. «Ho certo mangiato del veleno», disse con voce piena di sgomento. «Devo avere sbadatamente mangiato del veleno e la forza mi sta abbandonando. Ho avuto paura... eppure non ero io ad avere paura. Mowgli ha avuto paura quando i due lupi combattevano. Akela, o anche Phao li avrebbero fatti tacere; e invece Mowgli ha avuto paura. Questo è il vero segno che ho mangiato il veleno... Ma chi se ne cura nella giungla? Stanno a cantare, ad ululare e a battersi, e corrono a frotte sotto la luna, ed io - Hai-mai! - io sto morendo nelle paludi, per quel veleno che ho mangiato». Ed era tanta la pietà che sentiva in sé, che quasi si mise a piangere. «E poi», continuò, «mi troveranno steso nell'acqua nera. No, voglio tornare nella mia giungla e morire sulla Rupe del Consiglio, e Bagheera, al quale voglio bene, se non starà a schiamazzare nella valle... Bagheera, forse, potrà far la guardia per un poco a ciò che sarà rimasto di me [perché Chil non mi faccia fare la stessa fine che fece fare ad Akela]». 
+43. «_Ho certo mangiato del veleno_», disse con voce piena di sgomento. «Devo avere sbadatamente mangiato del veleno e la forza mi sta abbandonando. Ho avuto paura... eppure non ero io ad avere paura. Mowgli ha avuto paura quando i due lupi combattevano. Akela, o anche Phao li avrebbero fatti tacere; e invece Mowgli ha avuto paura. Questo è il vero segno che ho mangiato il veleno... Ma chi se ne cura nella giungla? Stanno a cantare, ad ululare e a battersi, e corrono a frotte sotto la luna, ed io - Hai-mai! - io sto morendo nelle paludi, per quel veleno che ho mangiato». Ed era tanta la pietà che sentiva in sé, che quasi si mise a piangere. «E poi», continuò, «mi troveranno steso nell'acqua nera. No, voglio tornare nella mia giungla e morire sulla Rupe del Consiglio, e Bagheera, al quale voglio bene, se non starà a schiamazzare nella valle... Bagheera, forse, potrà far la guardia per un poco a ciò che sarà rimasto di me [perché Chil non mi faccia fare la stessa fine che fece fare ad Akela]». 
 
-44. Una grossa lacrima calda gli schizzò sul ginocchio e, sconfortato come era, Mowgli si sentì felice d'essere tanto infelice, se vi riesce di capire questa sorta di felicità alla rovescia. [«La fine che Chil fece fare ad Akela», ripeté], «in quella notte, quando io salvai il branco  dal cane rosso». Stette in silenzio per un po', ripensando alle ultime parole del lupo solitario, che voi certamente ricorderete. «Akela mi disse molte cose strane, prima di morire, perché quando moriamo le nostre idee cambiano. Mi disse... ciò nonostante, io sono della giungla!». 
+44. Una grossa lacrima calda gli schizzò sul ginocchio e, sconfortato come era, _Mowgli si sentì felice d'essere tanto infelice_, se vi riesce di capire questa sorta di felicità alla rovescia. [«La fine che Chil fece fare ad Akela», ripeté], «in quella notte, quando io salvai il branco  dal cane rosso». Stette in silenzio per un po', ripensando alle ultime parole del lupo solitario, che voi certamente ricorderete. «Akela mi disse molte cose strane, prima di morire, perché quando moriamo le nostre idee cambiano. Mi disse... ciò nonostante, io sono della giungla!». 
 
 45. Nell'eccitazione, che accompagnò il ricordo del combattimento sulle sponde della Waingunga, gridò forte le ultime parole, ed una bufala selvaggia fra le canne balzò sulle ginocchia, sbuffando: «L'uomo!». 
 
@@ -124,7 +124,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 50. «Come grida forte!» disse la bufala. 
 
-51. «*Proprio così gridano*», rispose Mysa con disprezzo, «*quelli che dopo aver strappato l'erba non sanno mangiarla*». 
+51. «Proprio così gridano», rispose Mysa con disprezzo, «quelli che dopo aver strappato l'erba non sanno mangiarla». 
 
 52. «Per meno di tanto», gemette Mowgli fra sé, «per meno di tanto che all'epoca delle ultime piogge, avrei punzecchiato Mysa fino a farlo uscire dal suo brago e l'avrei cavalcato per il pantano con un capestro di giunco». Stese una mano per spezzare una delle canne impennacchiate, ma la ritirò con un sospiro. Mysa continuò a ruminare con calma, e si sentiva strappare l'erba lunga là dove pascolava la bufala. «Non voglio morire qui», disse irosamente Mowgli. «Mysa, che è dello stesso sangue con Jacala e con il cinghiale, mi vedrebbe. Andiamo di là dal pantano a vedere quello che succede. Non ho  mai corso una corsa di primavera come questa... provando freddo e caldo insieme... Su, Mowgli!». 
 
@@ -224,13 +224,13 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 100. Messua si trasse umilmente da parte, era davvero un dio dei boschi, ella pensò; ma non appena la mano di Mowgli ebbe raggiunto la porta, la madre ch'era in lei, la spinse a gettargli le braccia al collo, più e più volte. 
 
-101. «Ritorna!» bisbigliò. «Figlio o non figlio, ritorna, perché io ti voglio bene. Guarda, anche lui ci soffre». 
+101. «*Ritorna!*» bisbigliò. «*Figlio o non figlio, ritorna, perché io ti voglio bene.* Guarda, anche lui ci soffre». 
 
 102. Il bambino piangeva perché l'uomo dal coltello scintillante se ne andava. 
 
 103. «Ritorna ancora», ripeté Messua. «Di giorno o di notte, questa porta non sarà mai chiusa per te». 
 
-104. La gola di Mowgli si muoveva, come se qualcuno ne stesse tirando le corde, e quando rispose sembrò che la voce gli fosse strappata a forza: «Tornerò di sicuro». 
+104. La gola di Mowgli si muoveva, come se qualcuno ne stesse tirando le corde, e quando rispose sembrò che la voce gli fosse strappata a forza: «*Tornerò di sicuro*». 
 
 105. «Ed ora» disse, scostando la testa del lupo, che strisciava sulla soglia, «ho una piccola lamentela contro di te, Fratel Bigio. Perché non siete venuti tutti e quattro quando vi chiamai tanto tempo fa?». 
 
@@ -250,7 +250,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 113. «Noi ti seguiamo... ti seguiamo», mormorò Fratel Bigio, leccando il calcagno di Mowgli. «Ti seguiamo sempre, tranne che al tempo della parlata nuova». 
 
-114. «E mi seguireste anche al branco degli uomini?» bisbigliò Mowgli. 
+114. «*E mi seguireste anche al branco degli uomini?*» bisbigliò Mowgli. 
 
 115. «Non ti seguii, forse, quella notte quando il nostro vecchio branco ti scacciò? Chi ti risvegliò, quando stavi sdraiato tra le messi». 
 
@@ -264,7 +264,7 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 120. «E cosa disse?». 
 
-121. «*L'Uomo torna all'Uomo, alla fine. Raksha, nostra madre, disse...*». 
+121. «*L'Uomo torna all'Uomo, alla fine.* Raksha, nostra madre, disse...». 
 
 122. «E lo stesso disse Akela, la notte del cane rosso», mormorò Mowgli.  
 
@@ -274,11 +274,11 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 125. «Ti hanno scacciato una volta, con male parole. Ti hanno ferito la bocca a sassate. Mandarono Buldeo per ucciderti. Avevano deciso di gettarti sul fiore rosso. Tu, non io, hai detto che sono cattivi e insensati. Tu, non io - io seguo il mio popolo - facesti calare la giungla sopra di loro. Tu, non io, componesti una canzone contro di loro, anche più amara della nostra canzone contro il cane rosso». 
 
-126. «Ti ho domandato cosa dici tu!». 
+126. «_Ti ho domandato cosa dici tu!_». 
 
 127. Mentre parlavano, continuavano a correre. Fratel Bigio galoppò per un pezzo prima di rispondere, poi, tra un balzo e l'altro, disse: «Cucciolo d'uomo... signore della giungla... figlio di Raksha, e fratello mio di tana... anche se per un po' me ne dimentico a primavera, *la tua traccia è la mia traccia, la tua tana è la mia tana, la tua preda è la mia preda, la tua lotta mortale sarà la mia lotta mortale.* Io parlo anche per gli altri tre. Ma cosa dirai alla giungla?». 
 
-128. «Giusto pensiero. Non è bene aspettare ad uccidere dopo aver avvistato la preda. Va' innanzi e chiama tutti alla Rupe del Consiglio, ed io dirò loro quello che ho in mente. Ma può darsi ch'essi non vengano... al tempo della parlata nuova possono anche dimenticarsi». 
+128. «Giusto pensiero. *Non è bene aspettare ad uccidere dopo aver avvistato la preda.* Va' innanzi e chiama tutti alla Rupe del Consiglio, ed io dirò loro quello che ho in mente. Ma può darsi ch'essi non vengano... al tempo della parlata nuova possono anche dimenticarsi». 
 
 129. «E tu, allora, non hai dimenticato nulla?» buttò là Fratel Bigio, di sopra la spalla, mentre allungava il galoppo, e Mowgli lo seguì pensieroso. 
 
@@ -288,43 +288,43 @@ Ma ormai nessuno potrà più seguirne le tracce. \
 
 132. «Eee... Yoawa? Forse che il tempo della parlata nuova è meno dolce per questo?» rispondevano. Così quando Mowgli con cuore pesante, passando in mezzo alle rupi che ben ricordava, giunse sul luogo del Consiglio, trovò soltanto i quattro, Baloo, che era divenuto quasi cieco per l'età, ed il pesante Kaa dal sangue freddo, attorcigliato attorno al seggio vuoto di Akela. 
 
-133. «La tua traccia finisce qui, dunque, omettino?» domandò Kaa, mentre Mowgli si accasciava a terra con il volto fra le mani. «Grida il tuo grido. Noi siamo di uno stesso sangue, tu ed io... uomo e serpente insieme». 
+133. «_La tua traccia finisce qui, dunque, omettino?_» domandò Kaa, mentre Mowgli si accasciava a terra con il volto fra le mani. «Grida il tuo grido. Noi siamo di uno stesso sangue, tu ed io... uomo e serpente insieme». 
 
 134. «Perché non sono morto sotto i cani rossi?» il ragazzo gemette. «La mia forza si è allontanata da me, e non si tratta di alcun veleno. Di notte e di giorno sento un duplice passo sulla mia traccia. Quando volto la testa è come se qualcuno si fosse nascosto alla mia vista in quell'istante. Corro a guardare dietro gli alberi e lui non c'è. Chiamo e nessuno grida di rimando; ma è come se ci fosse uno che ha udito e raffreni la risposta. Mi distendo a giacere, eppure non mi riposo. Corro la mia corsa di primavera, eppure non mi calmo. Mi tuffo, ma non mi sento rinfrescato. Uccidere la preda mi disgusta, eppure non ho cuore di combattere se non per uccidere. Il fiore rosso è nel mio corpo, le mie ossa sono acqua... e... non so ciò che ho». 
 
 135. «Che bisogno c'è di parole?» disse Baloo lentamente, volgendo la testa verso il luogo dove era Mowgli. «Akela, vicino al fiume, lo disse che Mowgli avrebbe ricondotto Mowgli al branco degli uomini. Anch'io lo dissi. Ma chi ascolta ora Baloo? Bagheera... dov'è Bagheera stanotte?... anche lui lo sa. È la legge». 
 
-136. «Quando c'incontrammo alle Tane Fredde, omettino, io già lo sapevo», disse Kaa, girando di poco le sue possenti spire. «L'Uomo torna all'Uomo, alla fine, per quanto la giungla non lo cacci via». 
+136. «Quando c'incontrammo alle Tane Fredde, omettino, io già lo sapevo», disse Kaa, girando di poco le sue possenti spire. «_L'Uomo torna all'Uomo, alla fine, per quanto la giungla non lo cacci via_». 
 
 137. «La giungla non mi caccia, dunque?» balbettò Mowgli. 
 
 138. Fratel Bigio ed i tre ringhiarono furiosamente e cominciarono: «Finché noi vivremo, nessuno oserà...». Ma Baloo li interruppe. 
 
-139. «Io ti ho insegnato la legge. Spetta a me parlare», disse; «e per quanto io non possa vedere le rupi che mi stanno dinnanzi, pure vedo lontano. Ranocchietto, prendi la tua traccia, fa' la tua tana in mezzo a quelli del tuo sangue, del tuo branco, del tuo popolo. Ma quando ci sarà bisogno di una zampa, di una zanna, di un occhio, o di passare rapidamente un ordine di notte, ricordati, signore della giungla, che la giungla è tua quando vuoi». 
+139. «Io ti ho insegnato la legge. Spetta a me parlare», disse; «e per quanto io non possa vedere le rupi che mi stanno dinnanzi, pure vedo lontano. Ranocchietto, prendi la tua traccia, fa' la tua tana in mezzo a quelli del tuo sangue, del tuo branco, del tuo popolo. Ma quando ci sarà bisogno di una zampa, di una zanna, di un occhio, o di passare rapidamente un ordine di notte, *ricordati, signore della giungla, che la giungla è tua quando vuoi*». 
 
-140. «Anche la giungla di mezzo è tua», disse Kaa. «*Io non parlo per gente da nulla*».  
+140. «Anche la giungla di mezzo è tua», disse Kaa. «_Io non parlo per gente da nulla_».  
 
 141. «Hai-mai, fratelli miei», gridò Mowgli, alzando le braccia al cielo con un singhiozzo. «Io non so più cosa so! Non vorrei andare; ma sono trascinato da tutti e due i piedi. Come farò ad abbandonare queste notti?». 
 
 142. «No, fratellino», ripeté Baloo. «Non c'è da vergognarsi di questa caccia. Quando il miele è stato mangiato, abbandoniamo l'alveare vuoto». 
 
-143. «Una volta liberatici della vecchia pelle», disse Kaa, «non possiamo tornare di nuovo a penetrarvi. È la legge». 
+143. «*Una volta liberatici della vecchia pelle*», disse Kaa, «*non possiamo tornare di nuovo a penetrarvi. È la legge*». 
 
 144. «Ascoltami, tu che mi sei il più caro di tutti», disse Baloo. «Qui non esiste né parola né volontà che possa trattenerti. Fatti coraggio! Chi può chiedere spiegazioni al signore della giungla? Io ti vidi giocare tra i ciottoli bianchi laggiù, quando non eri che un ranocchietto; e Bagheera, che ti riscattò al prezzo di un giovane toro ucciso di fresco, ti vide anche lei. Di quella presentazione soltanto noi due siamo rimasti giacché Raksha, la mamma di tana è morta, come pure il tuo padre di tana, anche il vecchio branco dei lupi è morto da tempo. Tu sai dove è andato a finire Shere Khan, ed Akela morì tra i Dhole, quando, se non fosse stato per la tua saggezza e la tua forza anche il secondo branco di Seeonee sarebbe morto. Non ci rimangono altro che vecchie ossa. Non è più il cucciolo d'uomo che chiede al branco il permesso di andarsene, ma il signore della giungla che sceglie un'altra pista. Chi può chiedere all'Uomo ragione di ciò che fa?». 
 
 145. «Ma Bagheera ed il toro che mi riscattò», disse Mowgli. «Non vorrei...». 
 
-146. Le sue parole furono interrotte da un ruggito e da uno schianto nella boscaglia sottostante, e Bagheera, leggera, forte e terribile come sempre, fu davanti a lui. 
+146. _Le sue parole furono interrotte da un ruggito e da uno schianto nella boscaglia sottostante, e Bagheera, leggera, forte e terribile come sempre, fu davanti a lui._
 
-147. «*Proprio per questo*», disse, allungando la zampa destra gocciolante, «non ero ancora venuta. È stata una caccia lunga, ma adesso giace morto fra i cespugli... un toro di non ancora due anni... il toro che ti libera, fratellino. *Tutti i debiti sono ora pagati*. Per il resto, la mia parola è la parola di Baloo». E leccò un piede di Mowgli. «Ricordati che Bagheera ti ha voluto bene», gridò e d'un balzo scomparve. Giunto ai piedi della collina, gridò ancora forte e a lungo: «*Buona caccia sulla nuova pista, o signore della giungla!* Ricordati che Bagheera ti ha voluto bene».  
+147. «Proprio per questo», disse, allungando la zampa destra gocciolante, «non ero ancora venuta. È stata una caccia lunga, ma adesso giace morto fra i cespugli... un toro di non ancora due anni... il toro che ti libera, fratellino. *Tutti i debiti sono ora pagati*. Per il resto, la mia parola è la parola di Baloo». E leccò un piede di Mowgli. _«Ricordati che Bagheera ti ha voluto bene», gridò e d'un balzo scomparve._ Giunto ai piedi della collina, gridò ancora forte e a lungo: «*Buona caccia sulla nuova pista, o signore della giungla!* _Ricordati che Bagheera ti ha voluto bene»_.  
 
 148. «Hai inteso», disse Baloo. «Non c'è altro. Vai, adesso; ma prima vieni qui da me. Oh, saggio ranocchietto, vieni da me!». 
 
 149. «*È duro spogliarsi della pelle*», disse Kaa, mentre Mowgli singhiozzava, con la testa sulla spalla dell'orso cieco e le braccia attorno al collo di lui, mentre Baloo cercava debolmente di leccargli i piedi. 
 
-150. «Le stelle si fanno più rare», disse Fratel Bigio, fiutando il vento dell'alba. «Dove faremo la nostra tana oggi? Perché d'ora in poi seguiremo nuove tracce». 
+150. «*Le stelle si fanno più rare*», _disse Fratel Bigio, fiutando il vento dell'alba._ «*Dove faremo la nostra tana oggi? Perché d'ora in poi seguiremo nuove tracce*». 
 
-151. [E questa è l'ultima storia di Mowgli].
+151. E questa è l'ultima storia di Mowgli.
 
 == Il canto del commiato
 _Questo è il canto che Mowgli udì alle sue spalle nella giungla, finché arrivò di nuovo alla porta di Messua_
@@ -338,10 +338,10 @@ ad un saggio ranocchio la via della giungla, \
 *osserva la legge del branco degli uomini,* \
 per amore del tuo vecchio e cieco Baloo. \
 Innocente o corrotta, \
-*nuova o antica \
-seguila come se fosse la pista, \
+nuova o antica \
+*seguila come se fosse la pista,* \
 durante il giorno e durante la notte, \
-non guardando a destra o a sinistra.* \
+non guardando a destra o a sinistra. \
 Per amore di colui che ama te \
 più di ogni altra creatura, \
 quando il tuo braccio ti facesse soffrire \
@@ -352,8 +352,8 @@ Quando il coltello è snudato per uccidere \
 osserva la legge e segui la tua strada. \
 (Radici e miele, palme e datteri \
 conservate un cucciolo sano e salvo). \
-Boschi ed acque, venti ed alberi,\ 
-il favore della giungla ti accompagna. \
+*Boschi ed acque, venti ed alberi,\ 
+il favore della giungla ti accompagna.* \
 ]
 
 \
@@ -379,8 +379,8 @@ Est ed ovest, nord e sud, \
 lava la tua pelle e tieni chiusa la bocca. \
 (Burroni e crepacci o pozze azzurrine, \
 giungla di mezzo seguilo). \
-Boschi ed acque, venti ed alberi, \
-il favore della giungla ti accompagna. \
+*Boschi ed acque, venti ed alberi, \
+il favore della giungla ti accompagna.* \
 ]
 
 \
@@ -400,13 +400,13 @@ Resta in silenzio quando essi ti diranno: \
 Resta in silenzio quando chiederanno\ 
 il tuo aiuto per colpire il debole. \
 Non far vanto, come il Bandar, della tua abilità, \
-ma conserva la tua calma davanti alla preda. \
+ma conserva la tua calma davanti alla preda.* \
 Non lasciare che richiamo o canto o segnale \
-ti distolgano dal sentiero di caccia.* \
+ti distolgano dal sentiero di caccia. \
 (Foschie del mattino o crepuscolo luminoso \
 servitelo, voi guardiani del cervo). \
-Boschi ed acque, venti ed alberi, \
-il favore della giungla ti accompagna. \
+*Boschi ed acque, venti ed alberi, \
+il favore della giungla ti accompagna.* \
 ]
 
 \
@@ -433,7 +433,11 @@ I Lupetti, in questo momento della loro vita all'interno dell'Associazione conos
 È quindi necessario sottolineare particolarmente i valori positivi dell'inizio della nuova vita, il senso dell'avventura, l'impossibilità di rifiutare la crescita, attenuando invece il senso di disagio e di malinconia derivanti dal distacco dall'ambiente e dagli affetti precedenti.
 
 == Divisione del racconto
-Possibili suddivisioni del racconto:
+Possibile suddivisione del racconto:
     1. capoversi 1 - 39
     2. capoversi 40 - 104
-    3. capoversi 105 - 152
+    3. capoversi 105 - 151
+
+Oppure:
+    1. capoversi 1 - 104
+    2. capoversi 105 - 152

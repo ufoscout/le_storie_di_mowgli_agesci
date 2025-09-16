@@ -1,6 +1,6 @@
 #import "../common.typ": *
 
-= L'ankus del re
+= L'ankus del re (racconto facoltativo)
 
 == Presentazione
 Il racconto non ha nessuna giustificazione né aggancio con il resto delle storie di Mowgli (solo cronologicamente, Kipling lo pone dopo la caccia di Kaa, ma la cosa è di scarso rilievo). Si tratta tuttavia di una magnifica parabola sull'avidità umana e sui suoi effetti morali, con riflessi e considerazioni anche sull'essenzialità delle cose e dei bisogni: un racconto, quindi, dove sarà molto difficile riuscire ad evitare accenti di morale diretta. 
@@ -52,13 +52,13 @@ Son quattro i matti! \
 
 13. Un cobra frettoloso strisciò giù sopra una roccia e bevve, dette loro il «Buona caccia!» e se ne tornò via. 
 
-14. «Ssh!» sibilò Kaa, come se si fosse improvvisamente ricordato di qualche cosa. «Dimmi, fratellino, e così la giungla ti dà proprio tutto quello che tu hai mai desiderato?». 
+14. «Ssh!» sibilò Kaa, come se si fosse improvvisamente ricordato di qualche cosa. «Dimmi, fratellino, e così _la giungla ti dà proprio tutto quello che tu hai mai desiderato?_». 
 
 15. «Non tutto», rispose Mowgli, ridendo; «se no, ci sarebbe un nuovo forte Shere Khan da uccidere ad ogni luna. Adesso potrei ucciderlo con le mie mani, senza chiedere aiuto ai bufali. Ho anche desiderato che il sole splendesse durante le piogge, e che le piogge coprissero il sole nel colmo dell'estate; ed ancora non sono mai stato a pancia vuota senza  desiderare di uccidere una capra; come non ho mai ucciso una capra senza desiderare che fosse un daino maschio, non un daino senza desiderare che fosse un cervo. Ma questo è sempre così, per noi tutti». 
 
 16. «Non hai, proprio, altri desideri?» insistette il grosso serpente. 
 
-17. «Cosa posso desiderare di più? Ho la giungla e il favore della giungla! Ci può esser altro in qualche posto tra l'alba e il tramonto?». 
+17. «Cosa posso desiderare di più? *Ho la giungla e il favore della giungla!* Ci può esser altro in qualche posto tra l'alba e il tramonto?». 
 
 18. «Eppure, il cobra disse...» cominciò Kaa. 
 
@@ -96,13 +96,13 @@ Son quattro i matti! \
 
 35. «Ah! Come un lupo sta sopra la carne che ha portato nella sua tana. Andiamo». 
 
-36. Mowgli nuotò verso la riva, si rotolò nell'erba per asciugarsi, ed entrambi si avviarono verso le Tane Fredde, la città deserta [della quale avrete forse sentito parlare]. Mowgli in quel periodo non aveva la più piccola paura delle scimmie, ma il popolo delle scimmie aveva terrore di Mowgli. Le loro tribù, tuttavia, stavano scorrazzando nella giungla e pertanto le Tane Fredde si ergevano vuote e silenziose nel chiarore della luna. Kaa andò diritto alle rovine del padiglione delle regine, che si elevava sulla terrazza, strisciò sulle macerie e sprofondò giù per la scala mezza ostruita che dal centro del padiglione scendeva nel sottosuolo. Mowgli lanciò il richiamo per i serpenti - «Siamo di uno stesso sangue, voi ed io» - e seguì carponi. Si trascinarono così per un bel pezzo lungo un passaggio in pendenza con numerosi giri e rigiri, pervenendo alla fine lì dove le radici di qualche grande albero, che cresceva trenta piedi più in alto, avevano forzato una solida pietra del muro. S'insinuarono dentro l'apertura così formatasi, e si trovarono in un vasto sotterraneo, il cui soffitto a cupola era stato anch'esso spezzato dalle radici degli alberi, così che poche strisce di luce cadevano fin giù nell'oscurità. 
+36. Mowgli nuotò verso la riva, si rotolò nell'erba per asciugarsi, ed entrambi si avviarono verso le Tane Fredde, la città deserta [della quale avrete forse sentito parlare]. Mowgli in quel periodo non aveva la più piccola paura delle scimmie, ma il popolo delle scimmie aveva terrore di Mowgli. Le loro tribù, tuttavia, stavano scorrazzando nella giungla e pertanto le Tane Fredde si ergevano vuote e silenziose nel chiarore della luna. Kaa andò diritto alle rovine del padiglione delle regine, che si elevava sulla terrazza, strisciò sulle macerie e sprofondò giù per la scala mezza ostruita che dal centro del padiglione scendeva nel sottosuolo. Mowgli lanciò il richiamo per i serpenti - «_Siamo di uno stesso sangue, voi ed io_» - e seguì carponi. Si trascinarono così per un bel pezzo lungo un passaggio in pendenza con numerosi giri e rigiri, pervenendo alla fine lì dove le radici di qualche grande albero, che cresceva trenta piedi più in alto, avevano forzato una solida pietra del muro. S'insinuarono dentro l'apertura così formatasi, e si trovarono in un vasto sotterraneo, il cui soffitto a cupola era stato anch'esso spezzato dalle radici degli alberi, così che poche strisce di luce cadevano fin giù nell'oscurità. 
 
 37. «Una tana sicura», disse Mowgli, rialzandosi saldamente in piedi, «ma un po' troppo lontana per venirci ogni giorno. E ora che cosa dobbiamo vedere?». 
 
 38. «Ed io son nulla?» domandò una voce in mezzo al sotterraneo; e Mowgli vide qualcosa di bianco che si muoveva, fin tanto che, poco a poco, si trovò davanti il più grande cobra sul quale avesse mai messo gli occhi... una creatura lunga circa otto piedi e sbiancata fino al bianco avorio vecchio, per aver vissuto nell'oscurità. Perfino il segno degli occhiali sul cappuccio aperto era impallidito sino ad un giallo chiaro. I suoi occhi erano rossi come rubini e nel complesso era veramente splendido. 
 
-39. «Buona caccia!» gli sussurrò Mowgli, che non dimenticava mai le buone maniere ed il coltello, che mai lo lasciava. 
+39. «_Buona caccia!_» gli sussurrò Mowgli, che non dimenticava mai le buone maniere ed il coltello, che mai lo lasciava. 
 
 40. «Che novità dalla città?» domandò il cobra bianco, senza rispondere al saluto. «Che notizie dalla grande murata città; la città dai cento elefanti, dai ventimila cavalli e dagli innumerevoli capi di bestiame; la città del re di venti re? Sto diventando sordo qua sotto, ed è molto tempo che non ho udito i loro gongs di guerra». 
 
@@ -116,7 +116,7 @@ Son quattro i matti! \
 
 45. «Ed io nemmeno. È molto vecchio. Padre dei cobra, qui c'è soltanto la giungla, come c'è sempre stata fin dal principio». 
 
-46. «E chi è, dunque, costui che sta seduto innanzi a me senza paura», riprese il cobra bianco, «che non sa chi sia un re, e che parla il nostro linguaggio con labbra di uomo? Chi è costui con il coltello e la lingua del serpente?». 
+46. «_E chi è, dunque, costui che sta seduto innanzi a me senza paura_», riprese il cobra bianco, «che non sa chi sia un re, e che parla il nostro linguaggio con labbra di uomo? Chi è costui con il coltello e la lingua del serpente?». 
 
 47. «Mowgli mi chiamano», fu la cortese risposta. «Io appartengo alla giungla e i lupi sono il mio popolo. Kaa, qui è mio fratello. Padre dei cobra, e tu chi sei?». 
 
@@ -128,7 +128,7 @@ Son quattro i matti! \
 
 51. «Non c'è alcuna città. Alza lo sguardo. Guarda là le radici dei grandi alberi che hanno scostato le pietre una dall'altra. Alberi ed uomini non crescono insieme», insistette Kaa. 
 
-52. «Due e tre volte gli uomini hanno trovato il modo di giungere fin qui», rispose spietatamente il cobra bianco; «ma non parlarono mai finché io piombai su di loro che brancicavano nel buio, ed allora gridarono solo per un breve momento. Voi, invece, venite con bugie, tutti e due uomo e serpente, e vorreste farmi credere che la città non esista più e che il mio compito di guardiano sia finito. Gli uomini cambiano di poco attraverso gli anni. Ma io non cambio mai! Finché la botola non venga alzata e i bambini non scendano, cantando le canzoni che io conosco, a nutrirmi con latte caldo, e mi riportino di nuovo alla luce, io... io... io, e nessun altro, sarò il guardiano del tesoro del re! La città è morta, voi dite, e lassù pendono le radici degli alberi? Chinatevi, allora, e prendete ciò che volete. La terra non ha tesori come questi. Uomo con la lingua del serpente, se tu riuscirai ad andartene vivo per la strada dalla quale sei entrato, i più piccoli re saranno tuoi servi!». 
+52. «Due e tre volte gli uomini hanno trovato il modo di giungere fin qui», rispose spietatamente il cobra bianco; «ma non parlarono mai finché io piombai su di loro che brancicavano nel buio, ed allora gridarono solo per un breve momento. Voi, invece, venite con bugie, tutti e due uomo e serpente, e vorreste farmi credere che la città non esista più e che il mio compito di guardiano sia finito. Gli uomini cambiano di poco attraverso gli anni. _Ma io non cambio mai!_ Finché la botola non venga alzata e i bambini non scendano, cantando le canzoni che io conosco, a nutrirmi con latte caldo, e mi riportino di nuovo alla luce, io... io... io, e nessun altro, sarò il guardiano del tesoro del re! La città è morta, voi dite, e lassù pendono le radici degli alberi? Chinatevi, allora, e prendete ciò che volete. La terra non ha tesori come questi. Uomo con la lingua del serpente, se tu riuscirai ad andartene vivo per la strada dalla quale sei entrato, i più piccoli re saranno tuoi servi!». 
 
 53. «Di nuovo ho perduto la traccia», disse Mowgli con freddezza. «È possibile che qualche sciacallo si sia scavata una tana così profonda e sia venuto a mordere questo gran cappuccio bianco? È certamente matto. Padre dei cobra, io non vedo nulla qui, che valga la pena di esser portato via». 
 
@@ -144,13 +144,13 @@ Son quattro i matti! \
 
 59. Il cobra bianco aveva ragione. Il solo denaro, nessuna cifra, avrebbe potuto neppur cominciare a pagare il valore di quel tesoro, il fior fiore di bottini vagliati pezzo a pezzo in secoli di guerre, di saccheggi, di traffici e di vessazioni. Le sole monete non avevano prezzo; lasciando da parte tutte le pietre preziose; il solo peso morto dell'oro e dell'argento poteva valutarsi a due o trecento tonnellate. [Oggigiorno ogni sovrano indigeno in India, per quanto povero, possiede un suo gruzzolo al quale aggiunge in continuazione; e se che qualche volta, ma in ogni caso assai raramente, qualche principe illuminato manda fuori quaranta o cinquanta carri trainati da giovenchi, carichi d'argento per scambiarli con titoli di Stato, la maggior parte di essi conserva molto gelosamente per sé il proprio tesoro ed ogni informazione al riguardo].     
 
-60. Ma naturalmente Mowgli non comprendeva tutte quelle cose. I coltelli lo interessarono discretamente, ma non erano così ben bilanciati come quello suo, e pertanto li lasciò cadere. Alla fine trovò qualche cosa che colpì veramente la sua fantasia. Era poggiato davanti ad un howdah, mezzo sepolto fra le monete; si trattava di un ankus - o pungolo per elefanti - lungo tre piedi e somigliava ad un piccolo raffio da barca. Il fondo era costituito da un unico rubino scintillante rotondo, al di sotto ben otto pollici del manico erano rivestiti di turchesi grezze serrate l'una all'altra, in modo da offrire una presa soddisfacente al massimo. Al di sotto ancora c'era un bordo di giada sul quale correva in tondo una decorazione di fiori: soltanto che le foglie erano di smeraldo ed i fiori di rubino, tutti incassati nel verde freddo della giada. Il resto del manico era un'asta di puro avorio, mentre l'estremità - punta e uncino - era d'acciaio damascato in oro con raffigurazioni di scene di caccia all'elefante; e furono proprio queste raffigurazioni ad attirare Mowgli, che notò che esse avevano a che fare con il suo amico Hathi, il silenzioso.  
+60. Ma naturalmente _Mowgli non comprendeva tutte quelle cose_. I coltelli lo interessarono discretamente, ma non erano così ben bilanciati come quello suo, e pertanto li lasciò cadere. Alla fine trovò qualche cosa che colpì veramente la sua fantasia. Era poggiato davanti ad un howdah, mezzo sepolto fra le monete; si trattava di un ankus - o pungolo per elefanti - lungo tre piedi e somigliava ad un piccolo raffio da barca. Il fondo era costituito da un unico rubino scintillante rotondo, al di sotto ben otto pollici del manico erano rivestiti di turchesi grezze serrate l'una all'altra, in modo da offrire una presa soddisfacente al massimo. Al di sotto ancora c'era un bordo di giada sul quale correva in tondo una decorazione di fiori: soltanto che le foglie erano di smeraldo ed i fiori di rubino, tutti incassati nel verde freddo della giada. Il resto del manico era un'asta di puro avorio, mentre l'estremità - punta e uncino - era d'acciaio damascato in oro con raffigurazioni di scene di caccia all'elefante; e furono proprio queste raffigurazioni ad attirare Mowgli, che notò che esse avevano a che fare con il suo amico Hathi, il silenzioso.  
 
 61. Il cobra bianco lo aveva seguito da vicino. 
 
 62. «Non vale forse la pena di morire soltanto per poter vedere tutto ciò?» domandò. «Non ti ho fatto un grande favore?». 
 
-63. «Non me ne intendo», rispose Mowgli. «Tutte queste cose son dure e fredde e in nessun modo buone da mangiare. Ma questo - ed alzò l'ankus - desidererei di portarlo via per poterlo vedere alla luce del giorno. Tu dici che tutto questo è tuo? Vorresti allora darmelo, ed io in cambio ti porterò rane da mangiare?». 
+63. «Non me ne intendo», rispose Mowgli. «_Tutte queste cose son dure e fredde e in nessun modo buone da mangiare._ Ma questo - ed alzò l'ankus - desidererei di portarlo via per poterlo vedere alla luce del giorno. Tu dici che tutto questo è tuo? Vorresti allora darmelo, ed io in cambio ti porterò rane da mangiare?». 
 
 64. Il cobra bianco addirittura fremente di gioia malvagia. «Certo che te lo darò», disse. «Tutto quello che c'è qui ti darò... ma soltanto finché te ne andrai». 
 
@@ -172,7 +172,7 @@ Son quattro i matti! \
 
 73. «Ma non si parlò di uccidere. Come posso tornare nella giungla e dire che l'ho condotto io stesso alla morte?» disse Kaa. 
 
-74. «Non sto parlando di uccidere e non ne parlerò finché il momento non sarà venuto. E per quel che riguarda il tuo andartene o non andartene, là c'è ancora il buco nel muro.  Calma, adesso, o grasso uccisore di scimmie! Non avrei altro che da toccarti il collo, e la giungla non saprebbe mai più nulla di te. Nessun uomo è venuto quaggiù e ne è uscito conservando il respiro sotto le costole. *Io sono il guardiano del tesoro del re della città*». 
+74. «Non sto parlando di uccidere e non ne parlerò finché il momento non sarà venuto. E per quel che riguarda il tuo andartene o non andartene, là c'è ancora il buco nel muro.  Calma, adesso, o grasso uccisore di scimmie! Non avrei altro che da toccarti il collo, e la giungla non saprebbe mai più nulla di te. Nessun uomo è venuto quaggiù e ne è uscito conservando il respiro sotto le costole. _Io sono il guardiano del tesoro del re della città_». 
 
 75. «Ma ti dico, bianco verme del buio, ti dico che non c'è più né re, né città! La giungla ci sta attorno da ogni parte!» gridò Kaa. 
 
@@ -184,7 +184,7 @@ Son quattro i matti! \
 
 79. «Uccidilo!» disse Kaa, mentre la mano di Mowgli si portava al coltello.  
 
-80. «No», rispose questi, sfoderando la lama «non ucciderò mai più, se non per fame. Ma guarda, Kaa!». Afferrò il cobra dietro il cappuccio e, facendo leva con la lama del coltello, lo costrinse di forza ad aprire la bocca, mettendo così in mostra i terribili denti del veleno della mascella superiore che apparivano neri e prosciugati. Il cobra bianco era sopravvissuto al suo veleno, come succede ai serpenti. 
+80. «No», rispose questi, sfoderando la lama «_non ucciderò mai più, se non per fame_. Ma guarda, Kaa!». Afferrò il cobra dietro il cappuccio e, facendo leva con la lama del coltello, lo costrinse di forza ad aprire la bocca, mettendo così in mostra i terribili denti del veleno della mascella superiore che apparivano neri e prosciugati. Il cobra bianco era sopravvissuto al suo veleno, come succede ai serpenti. 
 
 81. «Thuu (È disseccato)» disse Mowgli; e, spinto via Kaa, raccolse l'ankus, liberando il cobra bianco.  
 
@@ -192,7 +192,7 @@ Son quattro i matti! \
 
 83. «Sono disonorato. Uccidimi!» sibilava il cobra bianco. 
 
-84. «Oh, basta! Si è parlato troppo di uccidere. Adesso, invece, ce ne andremo. Mi prendo questa cosa dalla punta a spina, thuu, perché ho combattuto e tu hai avuto la peggio». 
+84. «Oh, basta! Si è parlato troppo di uccidere. Adesso, invece, ce ne andremo. Mi prendo questa cosa dalla punta a spina, thuu, perché *ho combattuto e tu hai avuto la peggio*». 
 
 85. «Stai attento, allora, che quella cosa alla fine non uccida te. È la morte! Ricordati: è la morte! Ce n'è abbastanza su quella cosa per uccidere tutti gli uomini della mia città. Non la conserverai a lungo, uomo della giungla, né colui che te la porterà via. Essi uccideranno, e uccideranno, e uccideranno per amore di quella cosa! La mia forza si è prosciugata in me, ma l'ankus compirà la mia opera. È la morte! È la morte! È la morte!». 
 
@@ -202,13 +202,13 @@ Son quattro i matti! \
 
 88. «*È ancora più splendente degli occhi di Bagheera*», disse compiaciuto, facendo girare il rubino. «Glielo andrò a mostrare; ma che cosa intendeva dire il thuu parlando di morte?». 
 
-89. «Non ti saprei dire. [Mi dispiace fino alla coda della mia coda che non abbia assaggiato il tuo coltello]. C'è sempre qualche cosa di male alle Tane Fredde... sopra e sotto terra. Ma ora ho fame. Vieni a caccia con me in quest'alba?» disse Kaa. 
+89. «Non ti saprei dire. Mi dispiace fino alla coda della mia coda che non abbia assaggiato il tuo coltello. *C'è sempre qualche cosa di male alle Tane Fredde...* sopra e sotto terra. Ma ora ho fame. Vieni a caccia con me in quest'alba?» disse Kaa. 
 
 90. «No, grazie. Ho fretta di far vedere a Bagheera questa cosa. Buona caccia!» e Mowgli corse via, ballando, roteando il grande ankus, e fermandosi ogni tanto ad ammirarlo, finché giunse in quella parte della giungla che solitamente era frequentata da Bagheera e la  trovò che beveva dopo aver conquistato una faticosa preda. Mowgli gli raccontò tutte le sue avventure dal principio alla fine, mentre Bagheera annusava di quando in quando l'ankus. Quando Mowgli giunse alle ultime parole del cobra bianco, la pantera ronfiò un segno di approvazione. 
 
 91. «Allora il cappuccio bianco ha detto proprio la verità?» chiese subito Mowgli. 
 
-92. «Io nacqui nelle gabbie del re ad Oodeypore, e mi sta nello stomaco di conoscere qualche cosa dell'Uomo. Moltissimi uomini ucciderebbero tre volte in una notte per il desiderio di questa grande pietra rossa soltanto». 
+92. «_Io nacqui nelle gabbie del re ad Oodeypore_, e mi sta nello stomaco di conoscere qualche cosa dell'Uomo. Moltissimi uomini ucciderebbero tre volte in una notte per il desiderio di questa grande pietra rossa soltanto». 
 
 93. «Ma la pietra, anzi, lo rende così pesante a maneggiarsi. Il mio piccolo coltello lucente è meglio; inoltre, sai, la pietra rossa non è buona da mangiare. Allora perché dovrebbero uccidere?».
 
@@ -228,7 +228,7 @@ Son quattro i matti! \
 
 101. L'ankus volò scintillando, e andò a seppellirsi, con la punta in giù, a trenta yarde di distanza, fra gli alberi. «Così le mie mani sono lavate dalla morte», disse Mowgli, strofinando le palme delle mani sulla fresca terra umida. «Il thuu disse che morte mi avrebbe seguito. È vecchio e bianco e matto». 
 
-102. «Bianco o nero, morte o vita, io adesso me ne vado a dormire, fratellino. Non posso andare a caccia tutta la notte e stare tutto il giorno ad ululare, come fa certa gente». 
+102. «*Bianco o nero, morte o vita, io adesso me ne vado a dormire, fratellino.* Non posso andare a caccia tutta la notte e stare tutto il giorno ad ululare, come fa certa gente». 
 
 103. Bagheera se ne andò in una tana che usava quando andava a caccia, a circa due miglia di lì Mowgli si aprì facilmente una via su per un albero adatto, annodò assieme a tre o quattro liane e in men che non si dica se ne stava a dondolarsi in un'amaca a cinquanta piedi di altezza sul livello del terreno. [Sebbene non avesse alcuna definita obiezione alla luce del colmo del giorno, Mowgli seguiva le abitudini dei suoi amici, e se ne serviva meno che fosse possibile. Quando si svegliò in mezzo ai popoli dalle voci molto alte che vivono sugli alberi, era ancora una volta il crepuscolo, ed aveva sognato dei bei sassolini che aveva gettato via]. 
 
@@ -300,7 +300,7 @@ Son quattro i matti! \
 
 137. «Una, due, tre, quattro tracce», disse Mowgli, chinandosi sulla cenere. «Quattro tracce di uomini calzati. Questi non vanno così veloci come i Gonds. Dico io, che male aveva fatto loro il piccolo uomo dei boschi? Guarda, hanno parlato insieme tutti e cinque, stando in piedi, prima che lo uccidessero. Bagheera, torniamo indietro. Lo stomaco è pesante in me, e pure mi balza su e giù, come un nido di rigogolo in cima ad un ramo». 
 
-138. «Non è buona caccia lasciare la pista a metà. Continuiamo!» disse la pantera. «Questi otto piedi calzati non possono essere andati lontano». 
+138. «*Non è buona caccia lasciare la pista a metà.* _Continuiamo!_» disse la pantera. «Questi otto piedi calzati non possono essere andati lontano». 
 
 139. Nient'altro fu detto per un'ora intera, mentr'essi seguivano l'ampia traccia di quattro uomini dai piedi calzati.  
 
@@ -316,7 +316,7 @@ Son quattro i matti! \
 
 145. «Andrò con rane grosse e fresche dal padre dei cobra e lo nutrirò finché diventi grasso», disse Mowgli a se stesso. «Il bevitore di elefanti è la morte stessa... tuttavia, non capisco. 
 
-146. «Continuiamo!» insistette Bagheera. 
+146. «_Continuiamo!_» insistette Bagheera. 
 
 147. Non erano andati avanti di un altro mezzo miglio che udirono Ko, il corvo, cantare la canzone della morte dalla cima di un tamarisco, sotto la cui ombra tre uomini erano stesi. Un fuoco, non del tutto spento, fumava al centro del circolo, sotto una lastra di ferro, che conteneva una focaccia annerita e bruciata di pane senza lievito. Vicino al fuoco, e scintillante al sole, stava l'ankus di rubino e turchesi. 
 
@@ -348,14 +348,14 @@ Son quattro i matti! \
 
 161. «Ah-ah! È ritornato, alfine. Te l'avevo detto che quella cosa era la morte. E com'è successo che tu sei ancora vivo?», mormorò il vecchio cobra, avvolgendosi amorosamente attorno al manico dell'ankus. 
 
-162. «Per il toro che mi ha riscattato, davvero non lo so! *Quella cosa ha ucciso sei volte in una notte. Non farla uscire mai più*».
+162. «_Per il toro che mi ha riscattato_, davvero non lo so! _Quella cosa ha ucciso sei volte in una notte. Non farla uscire mai più_».
 
 == Utilizzazione
 Il racconto si presta a numerosissime utilizzazioni pratiche: giochi tecnici, di allenamento fisico e dei sensi, applicazione delle Parole Maestre. Tutto l'episodio si presta altresì ad una magnifica grande caccia di un'intera giornata.
 La struttura della caccia all'ankus può essere ideata e concretizzata - con un briciolo di fantasia - seguendo fedelmente il testo. Le varie fasi del racconto, intervallando momenti di racconto ad attività di movimento, di ricerca delle tracce, di rappresentazione, di ritrovamento, di sagome dei personaggi di volta in volta nominati. Si può utilizzare la seguente divisione del racconto della caccia all'ankus. L'ultima parte del racconto andrà raccontata a tutto il Branco in cerchio, cercando di trovare una maniera (lancio nel fuoco o lontano dal cerchio) per distruggere concretamente e visibilmente l'ankus ritrovato, simbolo dell'egoismo e dell'attività. Il termine della caccia sarà segnato da una danza che potrebbe essere liberamente ideata musicando la «canzone dell'ankus del re» scritta prima dell'inizio del racconto.
 
 == Divisione del racconto
-Possibili suddivisioni del racconto:
+Possibile suddivisione del racconto:
     1. capoversi 1 - 38
     2. capoversi 39 - 85
     3. capoversi 86 - 162
