@@ -366,6 +366,11 @@ Possibile suddivisione del racconto:
     3. capoversi 104 - 122
     4. capoversi 123 - 163
 
+Oppure
+    1. capoversi 1 - 31
+    2. capoversi 32 - 95
+    3. capoversi 96 - 163
+
 Oppure:
     1. capoversi 1 - 31
     2. capoversi 32 - 53
