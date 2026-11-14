@@ -17,3 +17,9 @@ Formato pagina a4:
 
 Formato libretto (pagina a5):
 > typst compile main_a5.typ
+
+Formato a4 orizzontale, due pagine a5 per foglio:
+> typst compile main_a4_2pp.typ
+
+Oppure, per creare tutti i formati in `target/`:
+> just compile
